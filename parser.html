@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Review Extractor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    #output {
+      margin-top: 20px;
+      white-space: pre-wrap;
+      background: #f4f4f4;
+      padding: 10px;
+      border: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+  <h1>Upload HTML File with Reviews</h1>
+  <input type="file" id="fileInput" accept=".html" />
+  <div id="output"></div>
+
+  <script>
+    // Selectors for extracting review data
+    const SELECTORS = {
+      REVIEW_CONTAINER: '.bwb7ce', // Container for each review
+      REVIEWER_NAME: '.Vpc5Fe', // Reviewer name
+      REVIEWER_INFO: '.GSM50', // Reviewer info (optional)
+      REVIEW_RATING: '.k0Ysuc', // Rating section
+      REVIEW_STARS: '.dHX2k', // Stars (inside aria-label)
+      REVIEW_DATE: '.y3Ibjb', // Review date
+      REVIEW_TEXT: '.OA1nbd', // Review text (optional)
+      BUSINESS_RESPONSE: '.KmCjbd' // Business response (optional)
+    };
+
+    document.getElementById('fileInput').addEventListener('change', function(event) {
+      const file = event.target.files[0];
+      if (file) {
+        const reader = new FileReader();
+        reader.onload = function(e) {
+          const htmlContent = e.target.result;
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(htmlContent, 'text/html');
+
+          // Extract reviews
+          const reviews = [];
+          const reviewContainers = doc.querySelectorAll(SELECTORS.REVIEW_CONTAINER);
+
+          reviewContainers.forEach(container => {
+            const review = {};
+
+            // Reviewer name
+            const reviewerNameElement = container.querySelector(SELECTORS.REVIEWER_NAME);
+            review.reviewerName = reviewerNameElement?.textContent.trim() || 'Unknown';
+
+            // Reviewer info (optional)
+            const reviewerInfoElement = container.querySelector(SELECTORS.REVIEWER_INFO);
+            if (reviewerInfoElement) {
+              const infoText = reviewerInfoElement.textContent.trim();
+              let dataItems = infoText.split("·");
+
+              review.isLocalGuide = false;
+              review.numberOfReviews = '0';
+              review.numberOfPhotos = '0';
+              for(item of dataItems) {
+                if(item.includes('مرشد محلي')) {
+                  review.isLocalGuide = true;
+                } else if(item.includes("مراجع")) {
+                  if(item.includes("واحدة")) {
+                    review.numberOfReviews = '1';
+                  } else {
+                    review.numberOfReviews = item.match(/\d+/)?.[0];
+                  }
+                } else if(item.includes("صور")) {
+                  if(item.includes("واحدة")) {
+                    review.numberOfPhotos = '1';
+                  } else {
+                    review.numberOfPhotos = item.match(/\d+/)?.[0];
+                  }
+                }
+              }
+            } else {
+              review.isLocalGuide = false;
+              review.numberOfReviews = '0';
+              review.numberOfPhotos = '0';
+            }
+
+            // Rating section
+            const ratingElement = container.querySelector(SELECTORS.REVIEW_RATING);
+            if (ratingElement) {
+              const starsElement = ratingElement.querySelector(SELECTORS.REVIEW_STARS);
+              const starsText = starsElement?.getAttribute('aria-label') || '';
+              review.reviewStars = starsText.match(/\d+\.\d+/)?.[0] || '0';
+
+              const reviewDateElement = ratingElement.querySelector(SELECTORS.REVIEW_DATE);
+              review.reviewDate = reviewDateElement?.textContent.trim() || 'Unknown';
+              if(reviewDateElement) {
+                review.since = {};
+                let reviewDate = reviewDateElement.textContent.trim();
+                if(reviewDate.includes("يوم") || reviewDate.includes("أيام")) {
+                  review.since.unit = "day";
+                } else if(reviewDate.includes("أس")) {
+                  review.since.unit = "week";
+                } else if(reviewDate.includes("شهر")) {
+                  review.since.unit = "month";
+                } else {
+                  review.since.unit = "year";
+                }
+
+                if(reviewDate.includes('واحد')) {
+                  review.since.value = '1';
+                } else {
+                  console.log(reviewDate);
+                  review.since.value = convertArabicToEnglish(reviewDate.match(/[٠-٩]+/g)?.[0]);
+                }
+              }
+            } else {
+              review.reviewStars = '0';
+              review.reviewDate = 'Unknown';
+            }
+
+            // Review text (optional)
+            const reviewTextElement = container.querySelector(SELECTORS.REVIEW_TEXT);
+            review.reviewText = reviewTextElement?.textContent.trim() || 'No review text';
+
+            // Business response (optional)
+            const businessResponseElement = container.querySelector(SELECTORS.BUSINESS_RESPONSE);
+            review.businessResponse = businessResponseElement?.textContent.trim() || 'No business response';
+
+            reviews.push(review);
+          });
+
+          // Display extracted data as JSON
+          document.getElementById('output').textContent = JSON.stringify(reviews, null, 2);
+        };
+        reader.readAsText(file);
+      }
+    });
+
+    function convertArabicToEnglish(text) {
+      return text
+        .split("")
+        .map((char) => {
+          const charCode = char.charCodeAt(0);
+          if (charCode >= 1632 && charCode <= 1641) {
+            // Convert Arabic numeral to English numeral
+            return String.fromCharCode(charCode - 1584);
+          }
+          return char; // Leave non-Arabic characters unchanged
+        })
+        .join("");
+    }
+  </script>
+</body>
+</html>
