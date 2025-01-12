@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reviews Analyzer</title>
+  <link rel="stylesheet" href="styles.css">
+  <!-- Include Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Upload HTML File with Reviews</h1>
+    <input type="file" id="fileInput" accept=".html" class="file-input" />
+    <a id="jsonLink" href="#" target="_blank" style="display: none;">View Full JSON</a>
+    <div id="stats">
+      <div class="chart-container">
+        <h3 class="chart-label" style="display: none;">Star Percentages</h3>
+        <canvas id="starChart"></canvas>
+      </div>
+      <div class="chart-container">
+        <h3 class="chart-label" style="display: none;">Reviewer Percentages</h3>
+        <canvas id="reviewerChart"></canvas>
+      </div>
+      <div class="chart-container">
+        <h3 class="chart-label" style="display: none;">Local Guide Percentages</h3>
+        <canvas id="localGuideChart"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- Include JavaScript files -->
+  <script src="utils.js"></script>
+  <script src="parser.js"></script>
+  <script src="stats.js"></script>
+</body>
+</html>
