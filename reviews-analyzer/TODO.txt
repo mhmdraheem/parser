@@ -2,4 +2,3 @@
 * +ve reviews relative to user type (local guide), time, number of reviews submitted
 * Repitiion phrases
 * Percentage of just rating without a review
-

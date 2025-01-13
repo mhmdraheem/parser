@@ -3,16 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Reviews Analyzer</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>Review Extractor</title>
+  <link rel="stylesheet" href="css/styles.css">
   <!-- Include Chart.js -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
   <div class="container">
-    <h1>Upload HTML File with Reviews</h1>
+    <h1>Upload HTML</h1>
     <input type="file" id="fileInput" accept=".html" class="file-input" />
-    <a id="jsonLink" href="#" target="_blank" style="display: none;">View Full JSON</a>
+    <br>
+    <a id="jsonLink" href="#" target="_blank">Json</a>
+    <a id="reviewsLink" href="#" target="_blank"> | Reviews</a>
     <div id="stats">
       <div class="chart-container">
         <h3 class="chart-label" style="display: none;">Star Percentages</h3>
@@ -30,8 +32,8 @@
   </div>
 
   <!-- Include JavaScript files -->
-  <script src="utils.js"></script>
-  <script src="parser.js"></script>
-  <script src="stats.js"></script>
+  <script src="js/utils.js"></script>
+  <script src="js/parser.js"></script>
+  <script src="js/stats.js"></script>
 </body>
 </html>

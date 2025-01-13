@@ -7,24 +7,44 @@ const SELECTORS = {
   REVIEW_STARS: '.dHX2k', // Stars (inside aria-label)
   REVIEW_DATE: '.y3Ibjb', // Review date
   REVIEW_TEXT: '.OA1nbd', // Review text (optional)
-  BUSINESS_RESPONSE: '.KmCjbd' // Business response (optional)
+  BUSINESS_RESPONSE: '.KmCjbd', // Business response (optional)
+  TOTAL_REVIEWS: '.CJQ04 .RDApEe.YrbPuc', // Total reviews count
+  STAR_RATING: '.CJQ04 .yi40Hd.YrbPuc' // Star rating
 };
 
 document.getElementById('fileInput').addEventListener('change', function(event) {
   const file = event.target.files[0];
   if (file) {
-    // Check file size (e.g., limit to 10MB)
-    const maxSize = 10 * 1024 * 1024; // 10MB
-    if (file.size > maxSize) {
-      alert('File size exceeds 10MB. Please upload a smaller file.');
-      return;
-    }
-
     const reader = new FileReader();
     reader.onload = function(e) {
       const htmlContent = e.target.result;
       const parser = new DOMParser();
       const doc = parser.parseFromString(htmlContent, 'text/html');
+
+      // Extract total number of reviews
+      const totalReviewsElement = doc.querySelector(SELECTORS.TOTAL_REVIEWS);
+      const totalReviews = totalReviewsElement ? totalReviewsElement.textContent.trim() : '0';
+
+      // Extract star rating
+      const starRatingElement = doc.querySelector(SELECTORS.STAR_RATING);
+      const starRating = starRatingElement ? starRatingElement.textContent.trim() : '0';
+
+      // Generate a unique key for this file (e.g., using file name or timestamp)
+      const fileKey = `reviews_${file.name}`;
+
+      // Check if the file has already been processed
+      if (localStorage.getItem(fileKey)) {
+        console.log('File already processed. Using existing data.');
+        const jsonOutput = localStorage.getItem(fileKey);
+        const jsonLink = document.getElementById('jsonLink');
+        jsonLink.href = URL.createObjectURL(new Blob([jsonOutput], { type: 'application/json' }));
+        jsonLink.style.display = 'inline';
+
+        const reviewsLink = document.getElementById('reviewsLink');
+        reviewsLink.href = `reviews.html?file=${fileKey}`; // Add file parameter
+        reviewsLink.style.display = 'inline';
+        return; // Skip reprocessing
+      }
 
       // Extract reviews
       const reviews = [];
@@ -92,24 +112,41 @@ document.getElementById('fileInput').addEventListener('change', function(event) 
         // Business response (optional)
         const businessResponseElement = container.querySelector(SELECTORS.BUSINESS_RESPONSE);
         review.review.response = businessResponseElement?.textContent.trim();
-        
+
+        // Avatar image
+        const avatarElement = container.querySelector('.wSokxc');
+        const avatarStyle = avatarElement?.getAttribute('style') || '';
+        const avatarUrlMatch = avatarStyle.match(/url\(["']?(.*?)["']?\)/); // Extract URL from style
+        review.reviewer.avatar = avatarUrlMatch ? avatarUrlMatch[1] : '';
+
+        // Profile link
+        const profileLinkElement = container.querySelector('.yC3ZMb');
+        review.reviewer.link = profileLinkElement?.href || '';
+
+        review.ignore = false;
+
         reviews.push(review);
       });
 
-      // Calculate stats
-      const stats = extractReviewStats(reviews);
-      displayStats(stats);
+      // Create the main reviews object with metadata
+      const reviewsData = {
+        reviews, // Array of reviews
+        starRating, // Overall star rating
+        totalReviews // Total number of reviews
+      };
 
-      // Show labels
-      document.querySelectorAll('.chart-label').forEach(label => {
-        label.style.display = 'block';
-      });
+      // Save the main reviews object to localStorage
+      localStorage.setItem(fileKey, JSON.stringify(reviewsData));
 
-      // Show link to full JSON
-      const jsonOutput = JSON.stringify(reviews, null, 2);
+      // Show links
+      const jsonOutput = JSON.stringify(reviewsData, null, 2);
       const jsonLink = document.getElementById('jsonLink');
       jsonLink.href = URL.createObjectURL(new Blob([jsonOutput], { type: 'application/json' }));
-      jsonLink.style.display = 'block';
+      jsonLink.style.display = 'inline';
+
+      const reviewsLink = document.getElementById('reviewsLink');
+      reviewsLink.href = `reviews.html?file=${fileKey}`; // Add file parameter
+      reviewsLink.style.display = 'inline';
     };
     reader.readAsText(file);
   }

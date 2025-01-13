@@ -54,16 +54,15 @@ h1 {
   text-align: center;
 }
 
-#jsonLink {
-  display: block;
+#jsonLink, #reviewsLink {
+  display: none;
   margin-top: 20px;
   color: #4CAF50;
   text-decoration: none;
-  font-weight: bold;
   text-align: left;
 }
 
-#jsonLink:hover {
+#jsonLink:hover, #reviewsLink:hover {
   text-decoration: underline;
 }
 
