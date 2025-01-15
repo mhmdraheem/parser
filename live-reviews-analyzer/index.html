@@ -10,12 +10,18 @@
   <div class="container">
     <input type="file" id="fileInput" accept=".json" class="file-input" />
     <button id="saveButton" class="download-button">Save</button>
-    <br>
-    <div id="reviewSummary" class="review-summary"></div>
+    <button id="showStatsButton" class="stats-button">Show Stats</button>
     <br>
     <div id="tabs" class="tabs-container">
       <!-- Tabs will be dynamically inserted here -->
     </div>
+    <div class="tab-stats">
+      <div class="tab-ignore-counter">Ignore (Tab): 0</div>
+      <div class="tab-fake-review-counter">Fake Reviews (Tab): 0</div>
+      <div class="tab-fake-reviewer-counter">Fake Reviewers (Tab): 0</div>
+    </div>
+    <div class="stats"></div>
+    <div class="star-distibution"></div>
     <table class="review-table">
       <thead>
         <tr>
@@ -24,12 +30,29 @@
           <th>Stars</th>
           <th>Review</th>
           <th>Response</th>
+          <th>Fake Review</th>
+          <th>Fake Reviewer</th>
         </tr>
       </thead>
       <tbody id="reviewsBody">
         <!-- Reviews will be dynamically inserted here -->
       </tbody>
     </table>
+  </div>
+
+  <!-- Overlay Popup -->
+  <div id="overlay" class="overlay">
+    <div class="overlay-content">
+      <span id="closeOverlay" class="close-overlay">&times;</span>
+      <div id="reviewSummary" class="review-summary"></div>
+      <div class="global-stats">
+        <div class="summary-stats"></div>
+        <div class="global-star-distibution"></div>
+        <div class="ignore-counter">Ignore: 0</div>
+        <div class="fake-review-counter">Fake Reviews: 0</div>
+        <div class="fake-reviewer-counter">Fake Reviewers: 0</div>
+      </div>
+    </div>
   </div>
 
   <script src="script.js"></script>

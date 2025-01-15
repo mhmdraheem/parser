@@ -85,7 +85,9 @@ function extractReviewData(container) {
     review.reviewer.link = profileLinkElement?.href || '';
 
     review.ignore = false;
-
+    review.fakeReview = false;
+    review.fakeReviewer = false;
+    
     return review;
 }
 
@@ -146,7 +148,6 @@ async function scrapeReviews() {
         }
     };
 
-    console.log(reviewsData);   
     return reviewsData;
 }
 
