@@ -10,18 +10,112 @@
   <div class="container">
     <input type="file" id="fileInput" accept=".json" class="file-input" />
     <button id="saveButton" class="download-button">Save</button>
-    <button id="showStatsButton" class="stats-button">Show Stats</button>
     <br>
+
+    <!-- Business Info -->
+    <div id="businessInfo" class="business-info">
+      <div class="business-name"></div>
+      <div class="business-rating">
+        <span class="star-rating"></span>
+        <span class="star">★</span>
+        <span class="total-reviews"></span>
+      </div>
+    </div>
+
+    <!-- Global Stats -->
+    <div class="global-stats-container">
+      <button id="toggleGlobalStats" class="toggle-button">Global Stats</button>
+      <div id="globalStats" class="global-stats">
+        <!-- Star Distribution Card -->
+        <div class="card star-distribution-card">
+          <div class="star-distribution">
+            <div class="stat-item">
+              <div class="stat-value">0%</div>
+              <div class="stat-label">5 stars</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">0%</div>
+              <div class="stat-label">4 stars</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">0%</div>
+              <div class="stat-label">3 stars</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">0%</div>
+              <div class="stat-label">2 stars</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">0%</div>
+              <div class="stat-label">1 star</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Fake Reviews Card -->
+        <div class="card fake-reviews-card">
+          <div class="stat-item">
+            <div class="stat-value">0 <span class="stat-percentage">(0%)</span></div>
+            <div class="stat-label">Fake Reviews</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-value">0 <span class="stat-percentage">(0%)</span></div>
+            <div class="stat-label">Fake Reviewers</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-value">0 <span class="stat-percentage">(0%)</span></div>
+            <div class="stat-label">Ignored Reviews</div>
+          </div>
+        </div>
+
+        <!-- Local Guides Card -->
+        <div class="card local-guides-card">
+          <div class="stat-item">
+            <div class="stat-value">0%</div>
+            <div class="stat-label">Local Guides</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-value">0%</div>
+            <div class="stat-label">Non-Local Guides</div>
+          </div>
+        </div>
+
+        <!-- Single Reviewers Card -->
+        <div class="card single-reviewers-card">
+          <div class="stat-item-one">
+            <div class="stat-value">0%</div>
+            <div class="stat-label">Single Reviewers</div>
+          </div>
+          <div class="stat-item-two">
+            <div class="stat-value">0%</div>
+            <div class="stat-label">Local Guides</div>
+          </div>
+          <div class="stat-item-three">
+            <div class="stat-value">0%</div>
+            <div class="stat-label">Non-Local Guides</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Tabs -->
     <div id="tabs" class="tabs-container">
       <!-- Tabs will be dynamically inserted here -->
     </div>
+
+    <!-- Tab Stats Cards -->
+    <div id="tabStatsCards" class="tab-stats-cards">
+      <!-- Tab-level cards will be dynamically inserted here -->
+    </div>
+
+    <!-- Tab Stats -->
     <div class="tab-stats">
       <div class="tab-ignore-counter">Ignore (Tab): 0</div>
       <div class="tab-fake-review-counter">Fake Reviews (Tab): 0</div>
       <div class="tab-fake-reviewer-counter">Fake Reviewers (Tab): 0</div>
     </div>
-    <div class="stats"></div>
-    <div class="star-distibution"></div>
+
+    <!-- Reviews Table -->
     <table class="review-table">
       <thead>
         <tr>
@@ -38,21 +132,6 @@
         <!-- Reviews will be dynamically inserted here -->
       </tbody>
     </table>
-  </div>
-
-  <!-- Overlay Popup -->
-  <div id="overlay" class="overlay">
-    <div class="overlay-content">
-      <span id="closeOverlay" class="close-overlay">&times;</span>
-      <div id="reviewSummary" class="review-summary"></div>
-      <div class="global-stats">
-        <div class="summary-stats"></div>
-        <div class="global-star-distibution"></div>
-        <div class="ignore-counter">Ignore: 0</div>
-        <div class="fake-review-counter">Fake Reviews: 0</div>
-        <div class="fake-reviewer-counter">Fake Reviewers: 0</div>
-      </div>
-    </div>
   </div>
 
   <script src="script.js"></script>

@@ -61,46 +61,16 @@ document.getElementById('saveButton').addEventListener('click', () => {
     }
 });
 
-// Function to show the overlay
-function showOverlay() {
-    const overlay = document.getElementById('overlay');
-    overlay.style.display = 'flex'; // Show the overlay
-}
-
-// Function to hide the overlay
-function hideOverlay() {
-    const overlay = document.getElementById('overlay');
-    overlay.style.display = 'none'; // Hide the overlay
-}
-
-// Add event listeners for the overlay
-document.getElementById('showStatsButton').addEventListener('click', showOverlay);
-document.getElementById('closeOverlay').addEventListener('click', hideOverlay);
-
-// Close the overlay if the user clicks outside of it
-window.addEventListener('click', (event) => {
-    const overlay = document.getElementById('overlay');
-    if (event.target === overlay) {
-        hideOverlay();
-    }
-});
-
+// Function to display business info
 function displayHeader(business) {
-    // Extract reviews, starRating, and totalReviews from the main object
     const businessName = business._name;
     const starRating = business.starRating;
     const totalReviews = business.totalReviews;
 
-    // Display review summary
-    const reviewSummaryElement = document.getElementById('reviewSummary');
-    if (reviewSummaryElement) {
-        reviewSummaryElement.innerHTML = `
-            <div>${businessName}</div>
-            <span class="total-reviews">${totalReviews}</span>
-            <span class="star">★</span>
-            <span class="star-rating">${starRating}</span>
-        `;
-    }
+    const businessInfo = document.getElementById('businessInfo');
+    businessInfo.querySelector('.business-name').textContent = businessName;
+    businessInfo.querySelector('.star-rating').textContent = starRating;
+    businessInfo.querySelector('.total-reviews').textContent = `${totalReviews}`;
 }
 
 // Function to create tabs for grouping reviews by date
@@ -126,6 +96,7 @@ function createTabs(reviews) {
             // Add the "active" class to the clicked tab
             tab.classList.add('active');
             displayReviews(groupedReviews[key]);
+            displayTabCards(groupedReviews[key]); // Display tab-level cards
         });
         tabsContainer.appendChild(tab);
     });
@@ -134,8 +105,9 @@ function createTabs(reviews) {
     const firstTab = tabsContainer.querySelector('.tab:last-child');
     if (firstTab) {
         firstTab.classList.add('active');
+        displayReviews(groupedReviews[tabKeys[tabKeys.length - 1]]);
+        displayTabCards(groupedReviews[tabKeys[tabKeys.length - 1]]); // Display tab-level cards for the first tab
     }
-    displayReviews(groupedReviews[tabKeys[tabKeys.length - 1]]);
 }
 
 // Function to group reviews by date
@@ -352,30 +324,23 @@ function updateRowHighlight(row, review) {
     }
 }
 
-// Rest of the functions (e.g., calculateLocalGuidePercentage, displayOverallPercentages, etc.) remain unchanged...
-
+// Function to calculate local guide percentage
 function calculateLocalGuidePercentage(reviews) {
     const localGuides = reviews.filter(review => review.reviewer.isLocalGuide).length;
     const nonLocalGuides = reviews.length - localGuides;
-    const localGuidePercentage = ((localGuides / reviews.length) * 100).toFixed(2);
-    const nonLocalGuidePercentage = ((nonLocalGuides / reviews.length) * 100).toFixed(2);
+    const localGuidePercentage = ((localGuides / reviews.length) * 100).toFixed(0);
+    const nonLocalGuidePercentage = ((nonLocalGuides / reviews.length) * 100).toFixed(0);
     return { localGuidePercentage, nonLocalGuidePercentage };
 }
 
-function calculateLocalGuidePercentagePerTab(reviews) {
-    const localGuides = reviews.filter(review => review.reviewer.isLocalGuide).length;
-    const nonLocalGuides = reviews.length - localGuides;
-    const localGuidePercentage = ((localGuides / reviews.length) * 100).toFixed(2);
-    const nonLocalGuidePercentage = ((nonLocalGuides / reviews.length) * 100).toFixed(2);
-    return { localGuidePercentage, nonLocalGuidePercentage };
-}
-
+// Function to calculate single review percentage
 function calculateSingleReviewPercentage(reviews) {
     const singleReviewers = reviews.filter(review => review.reviewer.numberOfReviews === 1).length;
-    const singleReviewPercentage = ((singleReviewers / reviews.length) * 100).toFixed(2);
+    const singleReviewPercentage = ((singleReviewers / reviews.length) * 100).toFixed(0);
     return singleReviewPercentage;
 }
 
+// Function to calculate single review percentage by type (local vs non-local)
 function calculateSingleReviewPercentageByType(reviews) {
     const localGuides = reviews.filter(review => review.reviewer.isLocalGuide);
     const nonLocalGuides = reviews.filter(review => !review.reviewer.isLocalGuide);
@@ -385,66 +350,15 @@ function calculateSingleReviewPercentageByType(reviews) {
     const singleReviewNonLocalGuides = nonLocalGuides.filter(review => review.reviewer.numberOfReviews === 1).length;
 
     let localGuidePercentage = 0.00, nonLocalGuidePercentage = 0.00;
-    if(singleReview.length !== 0) {
-        localGuidePercentage = ((singleReviewLocalGuides / singleReview.length) * 100).toFixed(2);
-        nonLocalGuidePercentage = ((singleReviewNonLocalGuides / singleReview.length) * 100).toFixed(2);
+    if (singleReview.length !== 0) {
+        localGuidePercentage = ((singleReviewLocalGuides / singleReview.length) * 100).toFixed(0);
+        nonLocalGuidePercentage = ((singleReviewNonLocalGuides / singleReview.length) * 100).toFixed(0);
     }
 
     return { localGuidePercentage, nonLocalGuidePercentage };
 }
 
-function calculateSingleReviewPercentagePerTab(reviews) {
-    const singleReviewers = reviews.filter(review => review.reviewer.numberOfReviews === 1).length;
-    const singleReviewPercentage = ((singleReviewers / reviews.length) * 100).toFixed(2);
-    return singleReviewPercentage;
-}
-
-function calculateSingleReviewPercentageByTypePerTab(reviews) {
-    const localGuides = reviews.filter(review => review.reviewer.isLocalGuide);
-    const nonLocalGuides = reviews.filter(review => !review.reviewer.isLocalGuide);
-    const singleReview = reviews.filter(review => review.reviewer.numberOfReviews === 1);
-
-    const singleReviewLocalGuides = localGuides.filter(review => review.reviewer.numberOfReviews === 1).length;
-    const singleReviewNonLocalGuides = nonLocalGuides.filter(review => review.reviewer.numberOfReviews === 1).length;
-
-    let localGuidePercentage = 0.00, nonLocalGuidePercentage = 0.00;
-    if(singleReview.length !== 0) {
-        localGuidePercentage = ((singleReviewLocalGuides / singleReview.length) * 100).toFixed(2);
-        nonLocalGuidePercentage = ((singleReviewNonLocalGuides / singleReview.length) * 100).toFixed(2);
-    }
-    
-    return { localGuidePercentage, nonLocalGuidePercentage };
-}
-
-function displayOverallPercentages(reviews) {
-    const { localGuidePercentage, nonLocalGuidePercentage } = calculateLocalGuidePercentage(reviews);
-    const singleReviewPercentage = calculateSingleReviewPercentage(reviews);
-    const { localGuidePercentage: singleLocal, nonLocalGuidePercentage: singleNonLocal } = calculateSingleReviewPercentageByType(reviews);
-
-    const summaryStats = document.querySelector('.summary-stats');
-    summaryStats.innerHTML += `
-        <div>${localGuidePercentage}% local || ${nonLocalGuidePercentage}% non-local</div>
-        <div>${singleReviewPercentage}% Single reviewers => ${singleLocal}% local || ${singleNonLocal}% non-local</div>    
-    `;
-}
-
-function displayTabPercentages(reviews) {
-    const { localGuidePercentage, nonLocalGuidePercentage } = calculateLocalGuidePercentagePerTab(reviews);
-    const singleReviewPercentage = calculateSingleReviewPercentagePerTab(reviews);
-    const { localGuidePercentage: singleLocal, nonLocalGuidePercentage: singleNonLocal } = calculateSingleReviewPercentageByTypePerTab(reviews);
-
-    const tabStats = document.querySelector("#tabStats");
-    if(tabStats) {
-        tabStats.remove();
-    }
-
-    const statsElement = document.querySelector('.stats');
-    statsElement.innerHTML = `
-        <div>${localGuidePercentage}% local || ${nonLocalGuidePercentage}% non-local</div>
-        <div>${singleReviewPercentage}% Single reviewers => ${singleLocal}% local || ${singleNonLocal}% non-local</div>    
-    `;
-}
-
+// Function to calculate star distribution
 function calculateStarDistribution(reviews) {
     const starCounts = { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0 };
     reviews.forEach(review => {
@@ -457,40 +371,228 @@ function calculateStarDistribution(reviews) {
     const totalReviews = reviews.length;
     const starPercentages = {};
     for (let star in starCounts) {
-        starPercentages[star] = ((starCounts[star] / totalReviews) * 100).toFixed(2);
+        starPercentages[star] = ((starCounts[star] / totalReviews) * 100).toFixed(0);
     }
 
     return starPercentages;
 }
 
-function calculateStarDistributionPerTab(reviews) {
-    return calculateStarDistribution(reviews); // Reuse the global function for tab-level data
-}
-
+// Function to display global star distribution
 function displayGlobalStarDistribution(reviews) {
     const starPercentages = calculateStarDistribution(reviews);
-    const globalStarDistElement = document.querySelector('.global-star-distibution');
-    globalStarDistElement.innerHTML += `
-        <div>
-            5<span class="star">★</span>(${starPercentages[5]}%), 
-            4<span class="star">★</span>(${starPercentages[4]}%), 
-            3<span class="star">★</span>(${starPercentages[3]}%), 
-            2<span class="star">★</span>(${starPercentages[2]}%), 
-            1<span class="star">★</span>(${starPercentages[1]}%)
-        </div>
+    const starItems = document.querySelectorAll('.star-distribution-card .stat-item');
+
+    starItems.forEach((item, index) => {
+        const starValue = item.querySelector('.stat-value');
+        const starLabel = item.querySelector('.stat-label');
+        const star = 5 - index; // 5 stars, 4 stars, ..., 1 star
+        starValue.textContent = `${starPercentages[star]}%`;
+        starLabel.textContent = `${star} stars`;
+    });
+}
+
+// Function to display overall percentages
+function displayOverallPercentages(reviews) {
+    const { localGuidePercentage, nonLocalGuidePercentage } = calculateLocalGuidePercentage(reviews);
+    const singleReviewPercentage = calculateSingleReviewPercentage(reviews);
+    const { localGuidePercentage: singleLocal, nonLocalGuidePercentage: singleNonLocal } = calculateSingleReviewPercentageByType(reviews);
+
+    // Update Local Guides Card
+    const localGuidesCard = document.querySelector('.local-guides-card');
+    localGuidesCard.querySelectorAll('.stat-item')[0].querySelector('.stat-value').textContent = `${localGuidePercentage}%`;
+    localGuidesCard.querySelectorAll('.stat-item')[1].querySelector('.stat-value').textContent = `${nonLocalGuidePercentage}%`;
+
+    // Update Single Reviewers Card
+    const singleReviewersCard = document.querySelector('.single-reviewers-card');
+    singleReviewersCard.querySelector('.stat-item-one .stat-value').textContent = `${singleReviewPercentage}%`;
+    singleReviewersCard.querySelector('.stat-item-two .stat-value').textContent = `${singleLocal}%`;
+    singleReviewersCard.querySelector('.stat-item-three .stat-value').textContent = `${singleNonLocal}%`;
+
+    // Update Fake Reviews Card
+    const fakeReviewsCard = document.querySelector('.fake-reviews-card');
+    fakeReviewsCard.querySelectorAll('.stat-item')[0].querySelector('.stat-value').innerHTML = `${globalFakeReviewCounter} <span class="stat-percentage">(${((globalFakeReviewCounter / reviews.length) * 100).toFixed(0)}%)</span>`;
+    fakeReviewsCard.querySelectorAll('.stat-item')[1].querySelector('.stat-value').innerHTML = `${globalFakeReviewerCounter} <span class="stat-percentage">(${((globalFakeReviewerCounter / reviews.length) * 100).toFixed(0)}%)</span>`;
+    fakeReviewsCard.querySelectorAll('.stat-item')[2].querySelector('.stat-value').innerHTML = `${globalIgnoreCounter} <span class="stat-percentage">(${((globalIgnoreCounter / reviews.length) * 100).toFixed(0)}%)</span>`;
+}
+
+// Function to display tab percentages
+function displayTabPercentages(reviews) {
+    const { localGuidePercentage, nonLocalGuidePercentage } = calculateLocalGuidePercentage(reviews);
+    const singleReviewPercentage = calculateSingleReviewPercentage(reviews);
+    const { localGuidePercentage: singleLocal, nonLocalGuidePercentage: singleNonLocal } = calculateSingleReviewPercentageByType(reviews);
+
+    const tabStats = document.querySelector('.tab-stats');
+    tabStats.innerHTML = `
+        <div>Local Guides: ${localGuidePercentage}%</div>
+        <div>Non-Local Guides: ${nonLocalGuidePercentage}%</div>
+        <div>Single Reviewers: ${singleReviewPercentage}%</div>
+        <div>Single Local Guides: ${singleLocal}%</div>
+        <div>Single Non-Local Guides: ${singleNonLocal}%</div>
     `;
 }
 
+// Function to display tab star distribution
 function displayTabStarDistribution(reviews) {
-    const starPercentages = calculateStarDistributionPerTab(reviews);
-    const starDistElement = document.querySelector('.star-distibution');
-    starDistElement.innerHTML = `
-        <div>
-            5<span class="star">★</span>(${starPercentages[5]}%), 
-            4<span class="star">★</span>(${starPercentages[4]}%), 
-            3<span class="star">★</span>(${starPercentages[3]}%), 
-            2<span class="star">★</span>(${starPercentages[2]}%), 
-            1<span class="star">★</span>(${starPercentages[1]}%)
-        </div>
-    `;
+    const starPercentages = calculateStarDistribution(reviews);
+    const starItems = document.querySelectorAll('.star-distribution-card .stat-item');
+
+    starItems.forEach((item, index) => {
+        const starValue = item.querySelector('.stat-value');
+        const starLabel = item.querySelector('.stat-label');
+        const star = 5 - index; // 5 stars, 4 stars, ..., 1 star
+        starValue.textContent = `${starPercentages[star]}%`;
+        starLabel.textContent = `${star} stars`;
+    });
 }
+
+// Function to display tab-level cards
+function displayTabCards(reviews) {
+    const tabCardsContainer = document.getElementById('tabStatsCards');
+    tabCardsContainer.innerHTML = ''; // Clear previous content
+
+    // Create the cards for tab-level data
+    const starDistributionCard = createStarDistributionCard(reviews);
+    const fakeReviewsCard = createFakeReviewsCard(reviews);
+    const localGuidesCard = createLocalGuidesCard(reviews);
+    const singleReviewersCard = createSingleReviewersCard(reviews);
+
+    // Append the cards to the container
+    tabCardsContainer.appendChild(starDistributionCard);
+    tabCardsContainer.appendChild(fakeReviewsCard);
+    tabCardsContainer.appendChild(localGuidesCard);
+    tabCardsContainer.appendChild(singleReviewersCard);
+}
+
+// Helper function to create a star distribution card for tabs
+function createStarDistributionCard(reviews) {
+    const starPercentages = calculateStarDistribution(reviews);
+    const card = document.createElement('div');
+    card.classList.add('card', 'star-distribution-card', 'tab-card');
+
+    const starDistribution = document.createElement('div');
+    starDistribution.classList.add('star-distribution');
+
+    for (let star = 5; star >= 1; star--) {
+        const statItem = document.createElement('div');
+        statItem.classList.add('stat-item');
+
+        const statValue = document.createElement('div');
+        statValue.classList.add('stat-value');
+        statValue.textContent = `${starPercentages[star]}%`;
+
+        const statLabel = document.createElement('div');
+        statLabel.classList.add('stat-label');
+        statLabel.textContent = `${star} stars`;
+
+        statItem.appendChild(statValue);
+        statItem.appendChild(statLabel);
+        starDistribution.appendChild(statItem);
+    }
+
+    card.appendChild(starDistribution);
+    return card;
+}
+
+// Helper function to create a fake reviews card for tabs
+function createFakeReviewsCard(reviews) {
+    const card = document.createElement('div');
+    card.classList.add('card', 'fake-reviews-card', 'tab-card');
+
+    const fakeReviews = reviews.filter(review => review.fakeReview).length;
+    const fakeReviewers = reviews.filter(review => review.fakeReviewer).length;
+    const ignoredReviews = reviews.filter(review => review.ignore).length;
+
+    const fakeReviewsStat = document.createElement('div');
+    fakeReviewsStat.classList.add('stat-item');
+    fakeReviewsStat.innerHTML = `
+        <div class="stat-value">${fakeReviews} <span class="stat-percentage">(${((fakeReviews / reviews.length) * 100).toFixed(0)}%)</span></div>
+        <div class="stat-label">Fake Reviews</div>
+    `;
+
+    const fakeReviewersStat = document.createElement('div');
+    fakeReviewersStat.classList.add('stat-item');
+    fakeReviewersStat.innerHTML = `
+        <div class="stat-value">${fakeReviewers} <span class="stat-percentage">(${((fakeReviewers / reviews.length) * 100).toFixed(0)}%)</span></div>
+        <div class="stat-label">Fake Reviewers</div>
+    `;
+
+    const ignoredReviewsStat = document.createElement('div');
+    ignoredReviewsStat.classList.add('stat-item');
+    ignoredReviewsStat.innerHTML = `
+        <div class="stat-value">${ignoredReviews} <span class="stat-percentage">(${((ignoredReviews / reviews.length) * 100).toFixed(0)}%)</span></div>
+        <div class="stat-label">Ignored Reviews</div>
+    `;
+
+    card.appendChild(fakeReviewsStat);
+    card.appendChild(fakeReviewersStat);
+    card.appendChild(ignoredReviewsStat);
+
+    return card;
+}
+
+// Helper function to create a local guides card for tabs
+function createLocalGuidesCard(reviews) {
+    const { localGuidePercentage, nonLocalGuidePercentage } = calculateLocalGuidePercentage(reviews);
+    const card = document.createElement('div');
+    card.classList.add('card', 'local-guides-card', 'tab-card');
+
+    const localGuidesStat = document.createElement('div');
+    localGuidesStat.classList.add('stat-item');
+    localGuidesStat.innerHTML = `
+        <div class="stat-value">${localGuidePercentage}%</div>
+        <div class="stat-label">Local Guides</div>
+    `;
+
+    const nonLocalGuidesStat = document.createElement('div');
+    nonLocalGuidesStat.classList.add('stat-item');
+    nonLocalGuidesStat.innerHTML = `
+        <div class="stat-value">${nonLocalGuidePercentage}%</div>
+        <div class="stat-label">Non-Local Guides</div>
+    `;
+
+    card.appendChild(localGuidesStat);
+    card.appendChild(nonLocalGuidesStat);
+
+    return card;
+}
+
+// Helper function to create a single reviewers card for tabs
+function createSingleReviewersCard(reviews) {
+    const singleReviewPercentage = calculateSingleReviewPercentage(reviews);
+    const { localGuidePercentage: singleLocal, nonLocalGuidePercentage: singleNonLocal } = calculateSingleReviewPercentageByType(reviews);
+    const card = document.createElement('div');
+    card.classList.add('card', 'single-reviewers-card', 'tab-card');
+
+    const singleReviewersStat = document.createElement('div');
+    singleReviewersStat.classList.add('stat-item-one');
+    singleReviewersStat.innerHTML = `
+        <div class="stat-value">${singleReviewPercentage}%</div>
+        <div class="stat-label">Single Reviewers</div>
+    `;
+
+    const singleLocalGuidesStat = document.createElement('div');
+    singleLocalGuidesStat.classList.add('stat-item-two');
+    singleLocalGuidesStat.innerHTML = `
+        <div class="stat-value">${singleLocal}%</div>
+        <div class="stat-label">Local Guides</div>
+    `;
+
+    const singleNonLocalGuidesStat = document.createElement('div');
+    singleNonLocalGuidesStat.classList.add('stat-item-three');
+    singleNonLocalGuidesStat.innerHTML = `
+        <div class="stat-value">${singleNonLocal}%</div>
+        <div class="stat-label">Non-Local Guides</div>
+    `;
+
+    card.appendChild(singleReviewersStat);
+    card.appendChild(singleLocalGuidesStat);
+    card.appendChild(singleNonLocalGuidesStat);
+
+    return card;
+}
+
+// Add event listener to toggle global stats visibility
+document.getElementById('toggleGlobalStats').addEventListener('click', function () {
+    const globalStats = document.getElementById('globalStats');
+    globalStats.style.display = globalStats.style.display === 'none' ? 'grid' : 'none';
+});
