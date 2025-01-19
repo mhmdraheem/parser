@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-  color: #4CAF50;
+  color: #4caf50;
   text-align: center;
   margin-bottom: 40px;
 }
@@ -23,10 +23,10 @@ h1 {
 .file-input {
   margin-bottom: 20px;
   padding: 10px;
-  border: 2px dashed #4CAF50;
+  border: 2px dashed #4caf50;
   border-radius: 8px;
   background-color: #f0f8f0;
-  color: #4CAF50;
+  color: #4caf50;
   font-size: 16px;
   cursor: pointer;
   text-align: center;
@@ -40,7 +40,7 @@ h1 {
   margin-bottom: 20px;
   margin-left: 20px;
   padding: 10px 20px;
-  background-color: #4CAF50;
+  background-color: #4caf50;
   color: white;
   border: none;
   border-radius: 8px;
@@ -93,7 +93,7 @@ h1 {
 
 .toggle-button {
   padding: 10px 20px;
-  background-color: #4CAF50;
+  background-color: #4caf50;
   color: white;
   border: none;
   border-radius: 8px;
@@ -143,8 +143,7 @@ h1 {
   font-size: 30px;
 }
 
-.stat-percentage,
-.star-count {
+.count {
   font-size: 15px;
   color: #666;
 }
@@ -226,7 +225,7 @@ h1 {
   font-size: 20px; /* Smaller font size */
 }
 
-.tab-stats-cards .stat-percentage {
+.tab-stats-cards .percent {
   font-size: 12px; /* Smaller font size */
   color: #666;
 }
@@ -279,7 +278,7 @@ h1 {
   display: flex;
   justify-content: flex-end;
   margin-bottom: 20px;
-  border-bottom: 2px solid #4CAF50;
+  border-bottom: 2px solid #4caf50;
 }
 
 .tab {
@@ -301,7 +300,7 @@ h1 {
 }
 
 .tab.active {
-  background-color: #4CAF50;
+  background-color: #4caf50;
   color: white;
   font-weight: bold;
 }
@@ -313,14 +312,15 @@ h1 {
   direction: rtl;
 }
 
-.review-table th, .review-table td {
+.review-table th,
+.review-table td {
   padding: 10px;
   border: 1px solid #ddd;
   text-align: right;
 }
 
 .review-table th {
-  background-color: #4CAF50;
+  background-color: #4caf50;
   color: white;
 }
 
@@ -355,7 +355,7 @@ h1 {
 
 .local-guide-text {
   font-size: 14px;
-  color: #4CAF50;
+  color: #4caf50;
   font-weight: normal;
 }
 
