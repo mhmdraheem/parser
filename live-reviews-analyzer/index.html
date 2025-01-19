@@ -10,7 +10,6 @@
   <div class="container">
     <input type="file" id="fileInput" accept=".json" class="file-input" />
     <button id="saveButton" class="download-button">Save</button>
-    <br>
 
     <!-- Business Info -->
     <div id="businessInfo" class="business-info">
@@ -23,30 +22,45 @@
     </div>
 
     <!-- Global Stats -->
-    <div class="global-stats-container">
-      <button id="toggleGlobalStats" class="toggle-button">Global Stats</button>
-      <div id="globalStats" class="global-stats">
+    <div class="stats-container">
+      <button id="toggleStats" class="toggle-button">Global Stats</button>
+      <div id="globalStats" class="stats hidden">
         <!-- Star Distribution Card -->
         <div class="card star-distribution-card">
           <div class="star-distribution">
             <div class="stat-item">
-              <div class="stat-value">0%</div>
+              <div class="stat-value">
+                <span class="percent">0%</span>
+                <span class="count star-count"></span>
+              </div>
               <div class="stat-label">5 stars</div>
             </div>
             <div class="stat-item">
-              <div class="stat-value">0%</div>
+              <div class="stat-value">
+                <span class="percent">0%</span>
+                <span class="count star-count"></span>
+              </div>
               <div class="stat-label">4 stars</div>
             </div>
             <div class="stat-item">
-              <div class="stat-value">0%</div>
+              <div class="stat-value">
+                <span class="percent">0%</span>
+                <span class="count star-count"></span>
+              </div>
               <div class="stat-label">3 stars</div>
             </div>
             <div class="stat-item">
-              <div class="stat-value">0%</div>
+              <div class="stat-value">
+                <span class="percent">0%</span>
+                <span class="count star-count"></span>
+              </div>
               <div class="stat-label">2 stars</div>
             </div>
             <div class="stat-item">
-              <div class="stat-value">0%</div>
+              <div class="stat-value">
+                <span class="percent">0%</span>
+                <span class="count star-count"></span>
+              </div>
               <div class="stat-label">1 star</div>
             </div>
           </div>
@@ -55,15 +69,21 @@
         <!-- Fake Reviews Card -->
         <div class="card fake-reviews-card">
           <div class="stat-item">
-            <div class="stat-value">0 <span class="stat-percentage">(0%)</span></div>
+            <div class="stat-value">
+              <span class="fake-reviews">0</span> 
+              <span class="stat-percentage">(0%)</span></div>
             <div class="stat-label">Fake Reviews</div>
           </div>
           <div class="stat-item">
-            <div class="stat-value">0 <span class="stat-percentage">(0%)</span></div>
+            <div class="stat-value">
+              <span class="fake-reviewers">0</span> 
+              <span class="stat-percentage">(0%)</span></div>
             <div class="stat-label">Fake Reviewers</div>
           </div>
           <div class="stat-item">
-            <div class="stat-value">0 <span class="stat-percentage">(0%)</span></div>
+            <div class="stat-value">
+              <span class="ignored-reviews">0</span>
+              <span class="stat-percentage">(0%)</span></div>
             <div class="stat-label">Ignored Reviews</div>
           </div>
         </div>
@@ -103,16 +123,101 @@
       <!-- Tabs will be dynamically inserted here -->
     </div>
 
-    <!-- Tab Stats Cards -->
-    <div id="tabStatsCards" class="tab-stats-cards">
-      <!-- Tab-level cards will be dynamically inserted here -->
-    </div>
+    <!-- tab Stats -->
+    <div class="stats-container">
+      <button id="toggleStats" class="toggle-button">Stats</button>
+      <div id="tabStats" class="stats hidden">
+        <!-- Star Distribution Card -->
+        <div class="card star-distribution-card">
+          <div class="star-distribution">
+            <div class="stat-item">
+              <div class="stat-value">
+                <span class="percent">0%</span>
+                <span class="count star-count"></span>
+              </div>
+              <div class="stat-label">5 stars</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">
+                <span class="percent">0%</span>
+                <span class="count star-count"></span>
+              </div>
+              <div class="stat-label">4 stars</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">
+                <span class="percent">0%</span>
+                <span class="count star-count"></span>
+              </div>
+              <div class="stat-label">3 stars</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">
+                <span class="percent">0%</span>
+                <span class="count star-count"></span>
+              </div>
+              <div class="stat-label">2 stars</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">
+                <span class="percent">0%</span>
+                <span class="count star-count"></span>
+              </div>
+              <div class="stat-label">1 star</div>
+            </div>
+          </div>
+        </div>
 
-    <!-- Tab Stats -->
-    <div class="tab-stats">
-      <div class="tab-ignore-counter">Ignore (Tab): 0</div>
-      <div class="tab-fake-review-counter">Fake Reviews (Tab): 0</div>
-      <div class="tab-fake-reviewer-counter">Fake Reviewers (Tab): 0</div>
+        <!-- Fake Reviews Card -->
+        <div class="card fake-reviews-card">
+          <div class="stat-item">
+            <div class="stat-value">
+              <span class="fake-reviews">0</span> 
+              <span class="stat-percentage">(0%)</span></div>
+            <div class="stat-label">Fake Reviews</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-value">
+              <span class="fake-reviewers">0</span> 
+              <span class="stat-percentage">(0%)</span></div>
+            <div class="stat-label">Fake Reviewers</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-value">
+              <span class="ignored-reviews">0</span>
+              <span class="stat-percentage">(0%)</span></div>
+            <div class="stat-label">Ignored Reviews</div>
+          </div>
+        </div>
+
+        <!-- Local Guides Card -->
+        <div class="card local-guides-card">
+          <div class="stat-item">
+            <div class="stat-value">0%</div>
+            <div class="stat-label">Local Guides</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-value">0%</div>
+            <div class="stat-label">Non-Local Guides</div>
+          </div>
+        </div>
+
+        <!-- Single Reviewers Card -->
+        <div class="card single-reviewers-card">
+          <div class="stat-item-one">
+            <div class="stat-value">0%</div>
+            <div class="stat-label">Single Reviewers</div>
+          </div>
+          <div class="stat-item-two">
+            <div class="stat-value">0%</div>
+            <div class="stat-label">Local Guides</div>
+          </div>
+          <div class="stat-item-three">
+            <div class="stat-value">0%</div>
+            <div class="stat-label">Non-Local Guides</div>
+          </div>
+        </div>
+      </div>
     </div>
 
     <!-- Reviews Table -->
