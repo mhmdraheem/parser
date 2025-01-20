@@ -12,28 +12,8 @@ let tabIgnoreCounter = 0;
 let tabFakeReviewCounter = 0;
 let tabFakeReviewerCounter = 0;
 
-// Function to handle file upload
-// document.getElementById('fileInput').addEventListener('change', function (event) {
-//     const file = event.target.files[0];
-//     if (file && file.type === 'application/json') {
-//         originalFileName = file.name; // Save the original file name
-//         businessIdentifier = file.name.replace('.json', ''); // Use the file name as the business identifier
-//         const reader = new FileReader();
-//         reader.onload = function (e) {
-//             reviewsData = JSON.parse(e.target.result);
-//             localStorage.setItem(businessIdentifier, JSON.stringify(reviewsData)); // Save to localStorage with business identifier
-//             displayHeader(reviewsData.business);
-//             displayOverallPercentages(reviewsData.reviews);
-//             createTabs(reviewsData.reviews);
-//         };
-//         reader.readAsText(file);
-//     } else {
-//         alert('Please upload a valid JSON file.');
-//     }
-// });
-
 var request = new XMLHttpRequest();
-request.open("GET", "المحامي_الدكتور_علي_الربيعي_وشركة_اتحاد_العصر_AsrLawGroup.json", false);
+request.open("GET", "./json/" + "المحامي_الدكتور_علي_الربيعي_وشركة_اتحاد_العصر_AsrLawGroup.json", false);
 request.send(null);
 reviewsData = JSON.parse(request.responseText);
 localStorage.setItem(businessIdentifier, JSON.stringify(reviewsData)); // Save to localStorage with business identifier
