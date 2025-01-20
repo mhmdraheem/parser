@@ -154,6 +154,7 @@ h1 {
 }
 
 .local-guides-card {
+  grid-column: span 2;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -164,23 +165,6 @@ h1 {
   flex: 1;
 }
 
-.single-reviewers-card {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: auto auto;
-  row-gap: 25px;
-  text-align: center;
-}
-
-.single-reviewers-card .stat-item-one {
-  grid-column: span 2;
-}
-
-.single-reviewers-card .stat-item-two,
-.single-reviewers-card .stat-item-three {
-  grid-column: span 1;
-}
-
 .fake-reviews-card {
   /* max-width: 120px; */
   grid-column: span 1;
@@ -189,6 +173,10 @@ h1 {
   flex-direction: column;
   justify-content: space-between;
   text-align: center;
+}
+
+.fake-reviews-card .stat-item:not(:last-of-type) {
+  margin-bottom: 30px;
 }
 
 /* Tab Stats Cards */
@@ -233,17 +221,6 @@ h1 {
 .tab-stats-cards .stat-label {
   font-size: 10px; /* Smaller font size */
   color: #666;
-}
-
-.tab-stats-cards .local-guides-card {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  text-align: center;
-}
-
-.tab-stats-cards .local-guides-card .stat-item {
-  flex: 1;
 }
 
 .tab-stats-cards .single-reviewers-card {
@@ -398,6 +375,8 @@ h1 {
 .fake-reviewer-checkbox {
   transform: scale(1.5);
   cursor: pointer;
+  margin: auto;
+  display: block;
 }
 
 .ignore-checkbox:checked,

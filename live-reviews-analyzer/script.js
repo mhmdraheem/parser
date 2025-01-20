@@ -33,7 +33,7 @@ let tabFakeReviewerCounter = 0;
 // });
 
 var request = new XMLHttpRequest();
-request.open("GET", "شركة_المحامي_أحمد_عبدالله_التويجري.json", false);
+request.open("GET", "المحامي_الدكتور_علي_الربيعي_وشركة_اتحاد_العصر_AsrLawGroup.json", false);
 request.send(null);
 reviewsData = JSON.parse(request.responseText);
 localStorage.setItem(businessIdentifier, JSON.stringify(reviewsData)); // Save to localStorage with business identifier
@@ -166,22 +166,6 @@ function displayReviews(reviews) {
         row.classList.add("ignore-row");
       }
 
-      // Ignore Checkbox
-      const ignoreCell = document.createElement("td");
-      const ignoreCheckbox = document.createElement("input");
-      ignoreCheckbox.type = "checkbox";
-      ignoreCheckbox.classList.add("ignore-checkbox");
-      ignoreCheckbox.checked = review.ignore || false;
-      ignoreCheckbox.addEventListener("change", () => {
-        review.ignore = ignoreCheckbox.checked;
-        updateRowHighlight(row, review);
-        updateGlobalCounters(); // Update global counters
-        updateTabCounters(reviews); // Update tab-level counters
-        localStorage.setItem(businessIdentifier, JSON.stringify(reviewsData));
-      });
-      ignoreCell.appendChild(ignoreCheckbox);
-      row.appendChild(ignoreCell);
-
       // Reviewer (Avatar and Name)
       const reviewerCell = document.createElement("td");
       const reviewerLink = document.createElement("a");
@@ -224,6 +208,22 @@ function displayReviews(reviews) {
       responseCell.textContent = review.review.response || "N/A";
       row.appendChild(responseCell);
 
+      // Ignore Checkbox
+      const ignoreCell = document.createElement("td");
+      const ignoreCheckbox = document.createElement("input");
+      ignoreCheckbox.type = "checkbox";
+      ignoreCheckbox.classList.add("ignore-checkbox");
+      ignoreCheckbox.checked = review.ignore || false;
+      ignoreCheckbox.addEventListener("change", () => {
+        review.ignore = ignoreCheckbox.checked;
+        updateRowHighlight(row, review);
+        updateGlobalCounters(); // Update global counters
+        updateTabCounters(reviews); // Update tab-level counters
+        localStorage.setItem(businessIdentifier, JSON.stringify(reviewsData));
+      });
+      ignoreCell.appendChild(ignoreCheckbox);
+      row.appendChild(ignoreCell);
+      
       // Fake Review Checkbox
       const fakeReviewCell = document.createElement("td");
       const fakeReviewCheckbox = document.createElement("input");
@@ -343,25 +343,6 @@ function calculateSingleReviewPercentage(reviews) {
   return { singleReviewers, singleReviewPercentage };
 }
 
-// Function to calculate single review percentage by type (local vs non-local)
-function calculateSingleReviewPercentageByType(reviews) {
-  const localGuides = reviews.filter((review) => review.reviewer.isLocalGuide);
-  const nonLocalGuides = reviews.filter((review) => !review.reviewer.isLocalGuide);
-  const singleReview = reviews.filter((review) => review.reviewer.numberOfReviews === 1);
-
-  const singleReviewLocalGuides = localGuides.filter((review) => review.reviewer.numberOfReviews === 1).length;
-  const singleReviewNonLocalGuides = nonLocalGuides.filter((review) => review.reviewer.numberOfReviews === 1).length;
-
-  let localGuidePercentage = 0.0,
-    nonLocalGuidePercentage = 0.0;
-  if (singleReview.length !== 0) {
-    localGuidePercentage = ((singleReviewLocalGuides / singleReview.length) * 100).toFixed(0);
-    nonLocalGuidePercentage = ((singleReviewNonLocalGuides / singleReview.length) * 100).toFixed(0);
-  }
-
-  return { singleReviewLocalGuides, localGuidePercentage, singleReviewNonLocalGuides, nonLocalGuidePercentage };
-}
-
 // Function to calculate star distribution
 function calculateStarDistribution(reviews) {
   const starCounts = { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0 };
@@ -404,12 +385,6 @@ function displayOverallPercentages(reviews) {
   const { localGuides, localGuidePercentage, nonLocalGuides, nonLocalGuidePercentage } =
     calculateLocalGuidePercentage(reviews);
   const { singleReviewers, singleReviewPercentage } = calculateSingleReviewPercentage(reviews);
-  const {
-    singleReviewLocalGuides,
-    localGuidePercentage: singleLocal,
-    singleReviewNonLocalGuides,
-    nonLocalGuidePercentage: singleNonLocal,
-  } = calculateSingleReviewPercentageByType(reviews);
 
   // Update Local Guides Card
   const localGuidesCard = document.querySelector("#globalStats .local-guides-card");
@@ -421,16 +396,8 @@ function displayOverallPercentages(reviews) {
     .querySelector(".percent").textContent = `${nonLocalGuidePercentage}%`;
   localGuidesCard.querySelectorAll(".stat-item")[1].querySelector(".count").textContent = `(${nonLocalGuides})`;
 
-  // Update Single Reviewers Card
-  const singleReviewersCard = document.querySelector("#globalStats .single-reviewers-card");
-  singleReviewersCard.querySelector(".stat-item-one .percent").textContent = `${singleReviewPercentage}%`;
-  singleReviewersCard.querySelector(".stat-item-one .count").textContent = `(${singleReviewers})`;
-
-  singleReviewersCard.querySelector(".stat-item-two .percent").textContent = `${singleLocal}%`;
-  singleReviewersCard.querySelector(".stat-item-two .count").textContent = `(${singleReviewLocalGuides})`;
-
-  singleReviewersCard.querySelector(".stat-item-three .percent").textContent = `${singleNonLocal}%`;
-  singleReviewersCard.querySelector(".stat-item-three .count").textContent = `(${singleReviewNonLocalGuides})`;
+  localGuidesCard.querySelectorAll(".stat-item")[2].querySelector(".percent").textContent = `${singleReviewPercentage}%`;
+  localGuidesCard.querySelectorAll(".stat-item")[2].querySelector(".count").textContent = `(${singleReviewers})`;
 
   updateGlobalCounters();
 }
@@ -443,12 +410,6 @@ function displayTabPercentages(reviews) {
   const { localGuides, localGuidePercentage, nonLocalGuides, nonLocalGuidePercentage } =
     calculateLocalGuidePercentage(reviews);
   const { singleReviewers, singleReviewPercentage } = calculateSingleReviewPercentage(reviews);
-  const {
-    singleReviewLocalGuides,
-    localGuidePercentage: singleLocal,
-    singleReviewNonLocalGuides,
-    nonLocalGuidePercentage: singleNonLocal,
-  } = calculateSingleReviewPercentageByType(reviews);
 
   // Update Local Guides Card
   const localGuidesCard = document.querySelector("#tabStats .local-guides-card");
@@ -460,16 +421,8 @@ function displayTabPercentages(reviews) {
     .querySelector(".percent").textContent = `${nonLocalGuidePercentage}%`;
   localGuidesCard.querySelectorAll(".stat-item")[1].querySelector(".count").textContent = `(${nonLocalGuides})`;
 
-  // Update Single Reviewers Card
-  const singleReviewersCard = document.querySelector("#tabStats .single-reviewers-card");
-  singleReviewersCard.querySelector(".stat-item-one .percent").textContent = `${singleReviewPercentage}%`;
-  singleReviewersCard.querySelector(".stat-item-one .count").textContent = `(${singleReviewers})`;
-
-  singleReviewersCard.querySelector(".stat-item-two .percent").textContent = `${singleLocal}%`;
-  singleReviewersCard.querySelector(".stat-item-two .count").textContent = `(${singleReviewLocalGuides})`;
-
-  singleReviewersCard.querySelector(".stat-item-three .percent").textContent = `${singleNonLocal}%`;
-  singleReviewersCard.querySelector(".stat-item-three .count").textContent = `(${singleReviewNonLocalGuides})`;
+  localGuidesCard.querySelectorAll(".stat-item")[2].querySelector(".percent").textContent = `${singleReviewPercentage}%`;
+  localGuidesCard.querySelectorAll(".stat-item")[2].querySelector(".count").textContent = `(${singleReviewers})`;
 
   const fakeReviewsCard = document.querySelector("#tabStats .fake-reviews-card");
   updateFakeReviewsCard(fakeReviewsCard, reviews, false);
