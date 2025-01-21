@@ -1,3 +1,4 @@
+const fileName = "xxx.json";
 let reviewsData = { reviews: [] }; // Store the reviews data globally
 let originalFileName = ""; // Store the original file name
 let businessIdentifier = ""; // Store the business identifier
@@ -13,7 +14,7 @@ let tabFakeReviewCounter = 0;
 let tabFakeReviewerCounter = 0;
 
 var request = new XMLHttpRequest();
-request.open("GET", "./json/" + "المحامي_الدكتور_علي_الربيعي_وشركة_اتحاد_العصر_AsrLawGroup.json", false);
+request.open("GET", "./json/no_website/" + fileName, false);
 request.send(null);
 reviewsData = JSON.parse(request.responseText);
 localStorage.setItem(businessIdentifier, JSON.stringify(reviewsData)); // Save to localStorage with business identifier
@@ -99,6 +100,8 @@ function groupReviewsByDate(reviews) {
     withinYear: [],
   };
 
+  const now = new Date(); // Current date for reference
+
   reviews.forEach((review) => {
     const since = review.since;
     if (!since) {
@@ -117,7 +120,45 @@ function groupReviewsByDate(reviews) {
     }
   });
 
+  // Sort the "withinYear" group by date (newest to oldest)
+  groupedReviews.withinYear.sort((a, b) => {
+    const dateA = calculateReviewDate(a.since, now);
+    const dateB = calculateReviewDate(b.since, now);
+    return dateB - dateA; // Sort in descending order (newest first)
+  });
+
   return groupedReviews;
+}
+
+// Helper function to calculate the approximate review date based on the since object
+function calculateReviewDate(since, now) {
+  if (!since) return now; // If no date is available, treat it as the current date
+
+  const { unit, value } = since;
+  const date = new Date(now); // Clone the current date
+
+  switch (unit) {
+    case "hour":
+      date.setHours(date.getHours() - value);
+      break;
+    case "day":
+      date.setDate(date.getDate() - value);
+      break;
+    case "week":
+      date.setDate(date.getDate() - value * 7);
+      break;
+    case "month":
+      date.setMonth(date.getMonth() - value);
+      break;
+    case "year":
+      date.setFullYear(date.getFullYear() - value);
+      break;
+    default:
+      // If the unit is unknown, treat it as the current date
+      break;
+  }
+
+  return date;
 }
 
 // Function to display reviews in the table

@@ -1,0 +1,357 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Ahmed Jerby",
+        "isLocalGuide": true,
+        "numberOfReviews": 79,
+        "numberOfPhotos": 83,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUDvLitmvkWv1OH6vTyAFHHxR7kqusFnwcalKmLir1Mq6PtE13IDQ=s64-c-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/103685227354060029786/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "نشكر المحامي الفاضل علي الملا علي مجهوده الذي بذله من اجل قضيتنا وبفضل من الله ومنه وكرمه عادت لنا حقوقناشكراا لكم وحفظكم الله."
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Fatema Alkhars",
+        "numberOfReviews": 7,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK29uxZM74t9PRxevCOP8Xj4cq4c5mQtdDJowKFyyKR4wXzKg=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117655865974424982309/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "افضل مكتب محاماة من جميع النواحي ظافر البغلي و علي الملا 👍🏻👍🏻👍🏻"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "مصطفى قصيباني",
+        "isLocalGuide": true,
+        "numberOfReviews": 95,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVoy-YFVX57b5T5O8AyLPlUF3rCHQWCZcVL3cdppSctkaxjBw95FA=s64-c-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/109996336043965777479/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "4.0",
+        "text": "ممتازه"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Fatmah AL-Anzi",
+        "isLocalGuide": true,
+        "numberOfReviews": 78,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLhwzGmO0q-6NI7ntmm5_Ui5lt9Y5OLWel2bVtlDkQcCfDl3g=s64-c-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/117385849139947120790/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3.0",
+        "text": "لابأس"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Fatema Alkhars",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVHH5OqAQSG8ry-cgBQCu2hVZvtv2xCcR2F-OoABVrWiM1uEqA=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104966267441943101819/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "Best law firm 👍🏻👍🏻👍🏻👍🏻👍🏻"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "اسامه احمد",
+        "isLocalGuide": true,
+        "numberOfReviews": 4,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIyaRH0a_Jp41irQQX8lZChBhvYLETrHM6xa2bEOCyjzde3qg=s64-c-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/108314457158923419329/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "2.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "‪ali moosa (AliMoosa)‬‏",
+        "isLocalGuide": true,
+        "numberOfReviews": 181,
+        "numberOfPhotos": 296,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV4UtqP4YTkzg7784SDGjUBRVBkZXQhzlIHJ8sEhyDXLxvNI0e9=s64-c-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/108914104156481788403/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Batool Abu Al-Saud",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL_MeeadxzWEWrJbE9MrfBEb56nia7e9NSolVcExMRKr95isA=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105593797449231294100/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "R A",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIbQzgrLOX4YlfI0_zKEKWgsWK902FR95FV8Y7_70-47sh1yA=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104870146072628877770/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "abdullah almoshraf",
+        "isLocalGuide": true,
+        "numberOfReviews": 7,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLA1kJWmGbPFomz2S-R3VhQZc4eQcuUVrpkPoSLB6roPgB-zA=s64-c-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/105766716359081781146/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sultan Al-Mutairi",
+        "isLocalGuide": true,
+        "numberOfReviews": 101,
+        "numberOfPhotos": 45,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXN76EbajVg9gUsIFCEzpPge_ZQjlNJkh__VUdj1DyT5APPK5PM=s64-c-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/109206661458383934719/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالرحيم العواد",
+        "isLocalGuide": true,
+        "numberOfReviews": 55,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK2PRIXdbluE4EtACA4AAjIUh_RJHGmCx4W5Lo5IxqzOYCBRg=s64-c-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/106694118285315911192/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "4.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ahmad Thuaimer",
+        "isLocalGuide": true,
+        "numberOfReviews": 12,
+        "numberOfPhotos": 14,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjW2U_e6500J_mtSHJsKvoMp0dFFubZTkdy0BVJk-FWATHQEoz8=s64-c-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/103914780495326327755/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "4.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "مفلح الدوسري",
+        "numberOfReviews": 1,
+        "numberOfPhotos": 11,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWJI6eMTeYdAX0FY5gJ3-E84uHHSe5CJ7g-4y3lh4MHstFohry_=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108514325714401434523/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Munira",
+        "isLocalGuide": true,
+        "numberOfReviews": 25,
+        "numberOfPhotos": 20,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIPW9uADhRs_FpvffVv3whpACdhUp8iqLQ0qbxGQiRY_7kQzg=s64-c-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/104773150898179309292/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل ٤ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Hadeel Albaghli",
+        "numberOfReviews": 5,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKUg7s3PQ5L5Lhs8H0yjtAHbRZu0Q0nnx1lnkgzNAGoJ3AXfA=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104187364617957241372/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل ٤ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "R A Y A N",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVF_yR7YOerT75rWsZOGPFiBywUiZXtdjAP24t5Yut8udL4nkBH=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102392056438132115086/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل ٥ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "شركة علي عبدالرحمن الملا وشركاه للمحاماة والاستشارات القانونية (ALI ABDULRAHMAN ALMULLA & PARTNERS CO. FOR LOW AND LEGAL CONSULTATIONS)",
+    "starRating": "٤٫٤",
+    "totalReviews": "(١٧)"
+  }
+}

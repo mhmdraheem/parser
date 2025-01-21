@@ -1,0 +1,212 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Zahra Alsheef",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIQFWwOrmWjHM5JMRS3-v1GjVDYygp1BLBhPYmoLhQYedWWkQ=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117429317344379937066/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "الف شكر للمحامي فيصل، انسان فاهم شغله و متمكن في تقديم الاستشارة و متعاون جدا ، ماقصرت والله يعطيك الصحة و العافية و يرزقك من حيث لاتحتسب"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل ٥ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "mahat2016 Maha",
+        "isLocalGuide": true,
+        "numberOfReviews": 15,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIEmlaCSQP0WiE2LZLJlMhkAdfot2zxXYcqvhGf1Ow7GdPMqw=s64-c-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/117800172292130505895/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "شكرا والف شكرا للمحامي فيصل على الاستشاره اللي قدمتها لي بخصوص قضية النصب والاحتيال التي تعرضت لها وبدون اية اتعاب الله يسعدك ويوفقك ويبارك لك في عمرك ورزقك الشكر لايوفيك حقك"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل ٨ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sir. Scorpion",
+        "numberOfReviews": 6,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUtUUZ32V9GvIBDPYgcAKz9oFUJtEW84vBGwJcCLfHd0MBKoQ=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112255680631550582562/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "ونعم المحاميالشاب الخلوق فيصل ربي يوفقك وفالك النجاح بإذن الله ."
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل ٩ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Lama",
+        "numberOfReviews": 7,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIDbMOq2zkQu4cgAtCplBYpPlrltszeAboH6Mf2rfZwt3Wriw=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107641578064070476933/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "افضل محامي في الشرقيه 👌🏻متفاني بعمله ويشتغل بذمه وضمير الله يوفقه يارب"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل ٩ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Saad Alkhudhayr",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKi6CaEnHqVOMPZlzRE9ZKk8fG8H52kvlUrl36DUkyT21DqYn8=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/118169048632273708433/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "رجل ذو خلق عالي اسئل الله ان يوفقه ويرزقه من حيث لايحتسب اتصلت عليه بمشوره في قضيه وكان متعاون"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل ٨ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abduallh Alhassan",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL9B22HrfWVzTdJrYB_VXqJC92yhdAI50zMokZlK_WmdMTCIg=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107580238809353300022/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "أشكر المحامي فيصل الفلاسه على خلقه وسرعة أنجار العمل"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل ٨ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "وضاح المسلم",
+        "numberOfReviews": 8,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLkXOW0neckHnm0dNuCXVbQXoZIg90XEIP2daoN2G6N5RZejQ=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110054605327572911543/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "شكراً له ساعدني باستشارة قانونية مفصله 👍🏻👍🏻"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل ٨ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد سعد",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWDV218iJlWh_vLQrHlL2jJOdIB10xbh97kQBJ5ollIY4euOpMh4A=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107087257006084709040/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "ثقه"
+      },
+      "since": {
+        "unit": "month",
+        "value": 3,
+        "text": "قبل ٣ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Nasser.",
+        "isLocalGuide": true,
+        "numberOfReviews": 22,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXFc58gIxY-wKs5mmUzMofLkfw4rSN9ghBHsSmX4EJlNRH5LDgP=s64-c-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/115043400047985791461/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "week",
+        "value": 2,
+        "text": "قبل أسبوعين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Fessal Alfelassa",
+        "numberOfReviews": 13,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLn_2IfHZoDK1FUM22D8XGViL7Ca8NwVVGDfMvx2OXpRuwbjQ=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103741537210645346112/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل ٩ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي والموثق فيصل صالح الفلاسه",
+    "starRating": "٥٫٠",
+    "totalReviews": "(١٠)"
+  }
+}

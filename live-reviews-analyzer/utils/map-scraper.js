@@ -1,6 +1,6 @@
 const SELECTORS = {
-    SCROLLING_PARENT: ".AVvGRc",
-    REVIEW_CONTAINER: '.bwb7ce',
+    SCROLLING_PARENT: ".m6QErb.DxyBCb.kA9KIf.dS8AEf.XiKgde",
+    REVIEW_CONTAINER: '.jftiEf.fontBodyMedium',
     REVIEWER_NAME: '.Vpc5Fe', // Reviewer name
     REVIEWER_INFO: '.GSM50', // Reviewer info (optional)
     REVIEW_STARS: '.dHX2k', // Stars (inside aria-label)
@@ -51,26 +51,24 @@ function extractReviewData(container) {
             }
         }
     }
-    
+
     // Rating section
     const starsElement = container.querySelector(SELECTORS.REVIEW_STARS);
     const starsText = starsElement?.getAttribute('aria-label') || '';
     review.review = {
         stars: starsText.match(/\d+\.\d+/)?.[0] || '0'
     };
-    
+
     // Review date
     const reviewDateElement = container.querySelector(SELECTORS.REVIEW_DATE);
     if (reviewDateElement) {
         review.since = dateParser(reviewDateElement.textContent.trim());
         review.since.text = reviewDateElement.textContent.trim();
     }
-    
+
     // Review text (optional)
     const reviewTextElement = container.querySelector(SELECTORS.REVIEW_TEXT);
     review.review.text = reviewTextElement?.textContent.trim();
-
-    
 
     // Business response (optional)
     const businessResponseElement = container.querySelector(SELECTORS.BUSINESS_RESPONSE);
@@ -89,6 +87,7 @@ function extractReviewData(container) {
     review.ignore = false;
     review.fakeReview = false;
     review.fakeReviewer = false;
+    
     return review;
 }
 
@@ -109,8 +108,8 @@ async function scrollAndExtractReviews() {
         if (scrollableElement.scrollHeight === lastScrollHeight) {
             // Extract reviews
             console.log("Pushing....");
-            const reviewContainers = document.querySelectorAll(SELECTORS.REVIEW_CONTAINER);            
-            reviewContainers.forEach((container, index) => {
+            const reviewContainers = document.querySelectorAll(SELECTORS.REVIEW_CONTAINER);
+            reviewContainers.forEach(container => {
                 const review = extractReviewData(container);
                 reviews.push(review);
             });
@@ -118,6 +117,7 @@ async function scrollAndExtractReviews() {
             break;
         }
         lastScrollHeight = scrollableElement.scrollHeight;
+        console.log("scrolling");
     }
 
     console.log("Done", ` ${reviews.length} reviews fetched`);
@@ -131,8 +131,8 @@ async function scrapeReviews() {
     const totalReviews = totalReviewsElement ? totalReviewsElement.textContent.trim() : '0';
 
     // Extract business name
-    const businessNameElement = document.querySelector(SELECTORS.BUSINESS_NAME);
-    const _name = businessNameElement ? businessNameElement.textContent.trim() : 'Unknown';
+    const businessNameElement = document.title.replace( '‏ -‏ خرائط ‪Google‬‏‏', '')
+    const _name = businessNameElement ? businessNameElement.trim() : 'Unknown';
 
     // Extract star rating
     const starRatingElement = document.querySelector(SELECTORS.STAR_RATING);
@@ -158,7 +158,8 @@ async function scrapeReviews() {
 
 // Date parser utility (from utils.js)
 function dateParser(date) {
-    const dateArr = date.replace("قبل", '').replace('واحد', '').trim().split(" ");
+    const dateArr = date.replace("قبل", '').trim().split(" ");
+
     let unit, number;
     if (dateArr.length === 2) {
         number = +convertToEnglish(dateArr[0]);
@@ -222,11 +223,11 @@ function downloadDataAsJson(data, filename) {
 }
 
 // Main function to scrape reviews and download them
-async function parse() {
+async function main() {
     const reviews = await scrapeReviews();
     downloadDataAsJson(reviews, `${reviews.business._name.replaceAll(' ', '_')}.json`);
     console.log('Scraped reviews:', reviews);
 }
 
 // Run the main function
-parse();
+main();

@@ -1,0 +1,218 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Wazuu",
+        "numberOfReviews": 12,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI1PEYMEb_GHMN3ySBsDkcjZNxO5hbldAUPzcT8OZVDLbUJvw=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116437299668519076613/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "مكتب المحامي عبدالله كان له فضل كبير بعد الله في حل قضيتي. الخدمة كانت احترافية جدًا، والفريق متعاون ومتمكن في عمله. شرحوا لي كل التفاصيل القانونية بكل وضوح، وما قصروا في تقديم الدعم اللي أحتاجه. أنصح أي شخص يحتاج مساعدة قانونية بالتعامل معهم. شكرًا من القلب"
+      },
+      "since": {
+        "unit": "week",
+        "value": 1,
+        "text": "قبل أسبوع"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Lubna Siddique",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKEXTJ3ljDwcZYIL6BT374p7qLw0y2Ytxt848pbNCRFcYU0xg=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116224778535037711068/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "Hi everyone, just recently by the will & mercy of Allah and the hard work & efforts of Lawyer Mr. Abdullah Abu Tafesh, we were able to secure justice for my brother, who was falsely implicated in a promissory note case. Through my personal …المزيد"
+      },
+      "since": {
+        "unit": "week",
+        "value": 1,
+        "text": "قبل أسبوع"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عدنان مقبل",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJMsjJ2OHmUE9EKtkbND4-vt5k781hLghr-k4CCQ190w7tW7w=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100862638562552850490/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "مكتب عبدالله ابوطافش للمحاماه ممتاز وتعاملت معهم فهم ذواخلاق عاليه وحزم في المواقف جزاهم الله خير"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "saad AL fradi",
+        "isLocalGuide": true,
+        "numberOfReviews": 32,
+        "numberOfPhotos": 6,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXov1KOz7EZAiputOY0qdDE2cHe9AGlFtOI6ivfu8u-ovekWKNl=s64-c-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/101580486357321347480/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "مكتب ابو طافش تفخر بالتعامل معه استشارة ودعم وكان سبب بعد الله لخذ الحق من الظالم من اول جلسةالله يوفقه ويرزقكطه ويجعلها عوننا له على الطاعه"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Meme M.",
+        "isLocalGuide": true,
+        "numberOfReviews": 24,
+        "numberOfPhotos": 9,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWA_1HW_eDGWXRBtQFbEPLegj_J-L-Xcf3u-qEqffHirLNVtTI=s64-c-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/102731741788945095800/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "شكرا للمحامي عبدالله  على جهوده معيوكلته قبل الجلسه بساعه واثبت جدارته 🙏والله يفتح له ابواب رزق بغير حساب"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالله بن خالد الراشد",
+        "numberOfReviews": 10,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVO8vruxcWPZRFUCT9FiGYk_uuFjRYVwUupeI4mVRQSdfFXLWZEnA=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113463987632284463956/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "الشيخ عبدالله من خيرة المحامين في المنطقة، اسأل الله لك التوفيق والسداد"
+      },
+      "since": {
+        "unit": "month",
+        "value": 1,
+        "text": "قبل شهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "1189 Am",
+        "numberOfReviews": 3,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKrrWxLdNmf0t3vq1tL3r8IkAbEdWOKEBrwzDe55koSeGQeFg=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117056563290479072735/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "انعم واكرم بالمحامي عبدالله امانه وصدق"
+      },
+      "since": {
+        "unit": "week",
+        "value": 4,
+        "text": "قبل ٤ أسابيع"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "مشعل المطيري",
+        "isLocalGuide": true,
+        "numberOfReviews": 10,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJI0hMCuJgGwOSTNhuS2SCVeaxpghr9ppPdezi6I_jEaa7Lbg=s64-c-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/108331651358859052303/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "من خيرة المحامين بالتوفيق استاذ عبدالله"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohammed hadoo",
+        "isLocalGuide": true,
+        "numberOfReviews": 53,
+        "numberOfPhotos": 51,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXafaLjft1Atvpxi11s0H1_lCeGM82QPhLI2LX8zf7T4O5gArja=s64-c-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/104632869019169088928/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "من التعامل الاول عرفت اني ما راح اخاف بوجوده وذكائه في التعامل مع القضية امانه وصدق وخوف على مصلحتك قبل مصلحته هو شكراً لله اولاً ثم لك يا بو طافش على كل شي واسأل الله ان يكتب لك الخير فيما تعمل وفيما تفعل 🤍"
+      },
+      "since": {
+        "unit": "week",
+        "value": 1,
+        "text": "قبل أسبوع"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "معتز النفيعي",
+        "isLocalGuide": true,
+        "numberOfReviews": 30,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUhq0dI9oijRdO48E_PXeEyYndjvAoKdNELQHulducqjm4XIQw=s64-c-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/113636758434405155061/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "month",
+        "value": 3,
+        "text": "قبل ٣ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي عبدالله ابوطافش",
+    "starRating": "٥٫٠",
+    "totalReviews": "(١٠)"
+  }
+}

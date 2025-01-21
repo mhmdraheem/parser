@@ -1,0 +1,152 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Unknown",
+        "avatar": "",
+        "link": ""
+      },
+      "review": {
+        "stars": "0"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Unknown",
+        "avatar": "",
+        "link": ""
+      },
+      "review": {
+        "stars": "0"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Unknown",
+        "avatar": "",
+        "link": ""
+      },
+      "review": {
+        "stars": "0"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Unknown",
+        "avatar": "",
+        "link": ""
+      },
+      "review": {
+        "stars": "0"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Unknown",
+        "avatar": "",
+        "link": ""
+      },
+      "review": {
+        "stars": "0"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Unknown",
+        "avatar": "",
+        "link": ""
+      },
+      "review": {
+        "stars": "0"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Unknown",
+        "avatar": "",
+        "link": ""
+      },
+      "review": {
+        "stars": "0"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Unknown",
+        "avatar": "",
+        "link": ""
+      },
+      "review": {
+        "stars": "0"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Unknown",
+        "avatar": "",
+        "link": ""
+      },
+      "review": {
+        "stars": "0"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Unknown",
+        "avatar": "",
+        "link": ""
+      },
+      "review": {
+        "stars": "0"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Unknown",
+        "avatar": "",
+        "link": ""
+      },
+      "review": {
+        "stars": "0"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب نواف بن مهيد للمحاماة والإستشارات القانونية",
+    "starRating": "0",
+    "totalReviews": "0"
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Marwan Khaled",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXZNhs-DZNGSwYWmuADUXzLMX-r4oMcY0teS9JzR2DMBxVsJ55F=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101855979564928502872/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "“My experience with this law firm has been outstanding from start to finish. The attorneys are highly professional and attentive to every detail. They were always ready to offer support and answer all questions with clarity and patience. I …المزيد"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل ٥ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالعزيز جابر",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLtgZKxvTTmAUo2Czee9fVUGNOWbEPub75M56RpK5EoMpYAXQ=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102404518006365601610/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "من افضل مكاتب المحاماة اللي تشرفت بالتعامل معهم ولله الحمد بفضل خبرتهم كسبت القضية وكانت من قضايا المحاكم الادارية شكراً لكم وبالأخص المحامي الحارث"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل ٥ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "abu habeeb",
+        "isLocalGuide": true,
+        "numberOfReviews": 158,
+        "numberOfPhotos": 25,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJiQaV3VnM7QVlgFtN6UO6tb_zFhRVYU7CF85bb9Va7DmmxZQ=s64-c-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/101717019931211475932/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "من اجمل مكاتب المحاماه الي تعاملة معها وفقهم الله"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل ٥ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "مسفر القحطاني",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKG7wSG5olQJJWC4zE3w-7UyMlY14pBkgJdzqi3GEuH3NLo2w=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112911501582180116970/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "أنعم وأكرم وسمعتهم واصله كل مكان اشكرهم على حسن معاملتهم"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل ٥ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "maram maram",
+        "numberOfReviews": 6,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ8HxkHWXVzBEun3d7mU53FW6xrROX4nAED7_OLO_hZu4p6YQ=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114965596757022790424/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "أكرم وأنعم من مكتب رجال صادقين مخلصين الله يوفقهم"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل ٥ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ashraf Jabr",
+        "isLocalGuide": true,
+        "numberOfReviews": 66,
+        "numberOfPhotos": 20,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUw_eoESJsia6StMhcVPNRbDIFUwLPyK9OslmSnI9IShxS3pq4n=s64-c-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/110521805802318935521/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "افضل المحامين الموجودين في السعودية يستاهلون خمس نجوم"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل ٥ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "abeer alshible",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocISVvkNygEIs4Xa8_0rOiHvhPX1VchDSoX4VHTXK1RETk1u=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117655964308753886078/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "ماشاء الله تبارك الله مكتب رائع و أصحابه ذو خلق رفيع و دراية واسعة بالقضايا المعاصرة ،، أنصح جداً بزيارتهم و التعامل معهم ستجدون حتماً ما يسركم و يرضيكم"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Faisal Aotibi",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIueVQrG_ctRLQwc3tM9naBmO-i3ndLem6Ss77RUO258iXlEw=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107422303989423546939/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1.0",
+        "text": "لو فيه اقل من نجمة عطيتهم ، وذا غير ان محاميهم ماقدر يكلم قضيتي ولا رجعو لي فلوس العقد لي شهرين اطالب فيها ولا رجعت حسبي الله بس"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdrahman Ab",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ_yQwo44NOfH4W0USKBDIQIZ9mZcOSGQGNUpd9WGkmw--KsA=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103852513835283754315/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "ماشاءالله تعامل ممتاز وصدق في المواعيد جزاكم الله خير"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ياسر البراك",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKVJWXi7iVTyxD7O9lShbEtTZ1961xI4dHlM_xgVmnypjjj284=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117635356942990603700/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "أكرم وأنعم من مكتب رجل صادقين مخلصين"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ibrahim Aljaafari",
+        "isLocalGuide": true,
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIVHt9OnhfbS3WoPjjAqpmQFlvcjTla8hiBzKjUwwa8JyQrRQ=s64-c-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/107917149585047148173/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "مكتب محاماة متمكن يقدم خدمات المحاماة والاستشارات القانونية"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Hamad Alismail",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIc80An9oudwB9Tv-DTF-be-SB8T_AqmdgehUoadHIRWl1_GA=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117227327819218273075/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "محامين متميزين ومتمكنين ما شاءالله"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "abdulaah",
+        "numberOfReviews": 26,
+        "numberOfPhotos": 12,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUzBKg7wy1vkZ3VjA7Ci75HdYf49ExtAAaV245kpKq1EP1YhS5sCA=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117838413297152751706/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "الله يوفقهمشباب متحمسون وجادون"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Saad Khalid",
+        "numberOfReviews": 6,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLqrvvaNvlDnxv21hymKIlenuV3l10cwR48ROcCh_rMQvZOEg=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112373142239622138831/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "فطاحلة المحاماة 💪🏼"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "وكالة الخطوط المتناسقة للدعاية والاعلان",
+        "isLocalGuide": true,
+        "numberOfReviews": 114,
+        "numberOfPhotos": 368,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVX9h7S4C-qgCsu_Sc4zptAhO8aviMAwkxeuGlJS83QPQGotGSI=s64-c-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/116806965644571598800/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Bader Alghannam",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXoN83Ziu4LMuR5ToA_vTOu1al88sjUxPaoiFTQh_WZYeoP6Q=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/118087615627547368137/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عثمان العرفج",
+        "numberOfReviews": 2,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKbmAQFmGQ7Jne0oMxmmRim6UHoLa5E_5eIlGDhAvXgpTAGog=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116719125493712376492/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل ٣ سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مجموعة العمير والعرفج للمحاماة",
+    "starRating": "٤٫٨",
+    "totalReviews": "(١٧)"
+  }
+}

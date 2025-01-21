@@ -1,0 +1,443 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Danah Faiz",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI_ivCoHep4RRLhwF3dLKS3-AWhKQXAi79Bdpn89PPdnRcCBQ=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106776784902427224591/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "ماشاءالله الله تبارك الله المحامي عبد الله السلاطين متعاون وكريم ويوصلك المعلومة بدقه وحرص...أكبر الشكر مني له وتقدم لتقدم بالتوفيق لجميع شركة مداد ✨"
+      },
+      "since": {
+        "unit": "week",
+        "value": 1,
+        "text": "قبل أسبوع"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالعزيز القحطاني",
+        "numberOfReviews": 3,
+        "numberOfPhotos": 23,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWvasZQ8mkvpoITqQ9KWWMFqTRKhEueM1VsGCPJkD8wIEfHi3Up=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111140396758354397865/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "عبدالله السلاطين ومحمد السلاطين ونعم فيكم اخلاق وتعاون يقدم لك النصائح ويشرح لك كل شي بتفصيلاستفدت منهم كثير وانا اشكرهم على حسن اخلاقهم …المزيد"
+      },
+      "since": {
+        "unit": "month",
+        "value": 1,
+        "text": "قبل شهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "يحي ناجي اليامي",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJg7uew7IrcV4opv_JhBGEj4gXR_S06ukRsK3wc_nQkwDYkxg=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108491047168249636223/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "الشكر موصول للمحامي محمد السلاطين ورجال فيه خير ويستاهل من يتعنى له ويحب على خشمه"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل ٨ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Rawan Abdullah",
+        "numberOfReviews": 8,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJOd-veFMnvo_eV7vw4mL9HOqXP7_oi-iZyw7hhZtBYtK2_Hg=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101314434957141237835/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "بوركت جهودكم وأسال الله التوفيق لكموشكري الخاص للمحامي عبدالله السلاطين ."
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل ٨ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "وفاء تىى",
+        "numberOfReviews": 4,
+        "numberOfPhotos": 7,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUBuJ-zPNEIpjDIcLCSTClA2QmUYADq4hkorYTCBu5I7cQa5ovp=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109323414473862431598/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "شكرا للمحامي عبدلله على الاستشارة و توضيح امور لي بصوره اوضح لله يوفقهم 👍🏻"
+      },
+      "since": {
+        "unit": "month",
+        "value": 11,
+        "text": "قبل ١١ شهرًا"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Majdi Mhms",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJzOesTGWP2RVWUOZzNop7VMVku3JWikXtqUp3j9BzWPU6dKg=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107039512014863213365/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "جزيل الشكر للأستاذ محمد السلاطين  وطاقمه واسأل الله لكم التوفيق والسداد"
+      },
+      "since": {
+        "unit": "month",
+        "value": 7,
+        "text": "قبل ٧ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالرحمن محمد",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJVc6QRXNYtUEL79alxpaBth-j88R_6UoxPK3I8UO_e2gOm7Q=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113191863129065792232/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "اشكر المحامي محمد السلاطين على مصداقية عمله وحسن تعامله"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "سعود القحطاني",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJyK1_0C3gZcL07P0n6DkbAzVx7SClTTLq3oDmC3h6rFKXFNg=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/118240539967760788954/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "شكراً لحسن التعامل الراقي والشفافيه والمصداقيه، مُحامين متفانين وجديرين بالثقه."
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ابوفهد القحطاني",
+        "isLocalGuide": true,
+        "numberOfReviews": 24,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVRjk4oWq-ePCwc1FtqcgvFxx5PXyMPfCNelvqGlinHEa_8BwegDQ=s64-c-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/101855959710479670688/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "تعامل راقي جدا وانجاز في العمل 👍"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Turku 1",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI8Slb6MIzdP8wEi386lWhbYhjPvmFSiZsjNgTsJtepbjc89g=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117608745375496555832/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "ممتاز"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل ٨ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mahmoud Alnagar",
+        "isLocalGuide": true,
+        "numberOfReviews": 81,
+        "numberOfPhotos": 9,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV2m4-tZI-j3c8SNMx6g9lgyi1Wpam0uUctjfyVa6ZLIhFoudY=s64-c-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/113897095719982361336/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0",
+        "text": "محترم"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد القحطاني",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI6S3XNNySlgWS9MS5_Vk3d4a5PNe-mdFi39SR6_bj6Mv9A2w=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100278130056943413309/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "month",
+        "value": 7,
+        "text": "قبل ٧ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdusslam Al Zahrani",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIEv11MfSh7jslANRVpgs1J9xsw5jlIhs0uBoTN8cLlR8djoQ=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112427632872419628420/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل ٨ أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Brothers -Games",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVfet15sTyMPcjmMA16oR3A7CDGOpinF7JJy7eE4sgBXy5Xt3w=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115787427480402591041/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "رزان الرويلي",
+        "numberOfReviews": 8,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ3aCoJAnSREcgoI_KmIcFaD5cfQIpOHT0V5I0nED8f4Ut0jQ=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108835521570952078971/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "O",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV-JVexg2EDysdK7-yGLXsPN1Pj6xzYmdN4vw_qch-xQb4TC3k=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102727263557680815722/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "وجدان جابر",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU3cGaTLG_RedUknzRObkZwHG2rOgNAPc2nPnzcJjooMvVY0Ek=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106667396980776514208/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "فيصل العصيمي",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVlGA-q-fPefUYheCwqJ5ulUEkXXBGlxA47ZRj0henMw-OqXsdR=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101023270511246940059/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "متعب علي",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKJWrEyUxBQLNDD1ChnkgHb7pK6Is4hIousEKtGmWI1nLS0bg=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107775630332347406789/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Yahya Alqahtani",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLEIjZ4xDcMt2ssVy4tDcVMtYNMUMlaPqDtKk7mPKnvWjnc=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115029575972312027621/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohammed Alqhtani",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIElutaEr8iHO3hbbanlL5m9dVJvZo6t7msy0PVuBlMkgO5QSE=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102503117957220695189/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "xll MsQ",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIcZb-Nhy9ICNxZfQj94mOIPRmksY16Lgy8weV-d7GxeB9vUg=s64-c-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104209663802101447101/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5.0"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "شركة مداد للمحاماة والاستشارات القانونية",
+    "starRating": "٥٫٠",
+    "totalReviews": "(٢٢)"
+  }
+}
