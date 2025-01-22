@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Google Reviews Extractor</title>
+    <style>
+      .business-link {
+        display: block;
+        margin-bottom: 10px;
+        text-decoration: none;
+      }
+
+      .business-link:hover {
+        background-color: #eee;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container"></div>
+
+    <script>
+      window.onload = async function () {
+        const fileNames = await fetchJsonFileNames();
+        if (fileNames.length > 0) {
+          createLinks(fileNames);
+        } else {
+          console.error("No JSON files found.");
+        }
+      };
+
+      async function fetchJsonFileNames() {
+        try {
+          const response = await fetch("/get-json-files");
+          if (!response.ok) {
+            throw new Error("Failed to fetch JSON file names", response);
+          }
+          const fileNames = await response.json();
+          return fileNames;
+        } catch (error) {
+          console.error("Error fetching JSON file names:", error);
+          return [];
+        }
+      }
+
+      function createLinks(fileNames) {
+        const container = document.querySelector(".container");
+        fileNames.forEach((file) => {
+          const url = `business.html?file=${encodeURIComponent(file.file)}`;
+          let link = document.createElement("a");
+          link.classList.add("business-link");
+          link.href = url;
+          link.target = "_blank";
+          link.textContent = file.name.replace(".json", "");
+          container.appendChild(link);
+        });
+      }
+    </script>
+  </body>
+</html>
