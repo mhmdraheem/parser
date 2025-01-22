@@ -438,7 +438,7 @@ function displayOverallPercentages(reviews) {
   const { singleReviewers, singleReviewPercentage } = calculateSingleReviewPercentage(reviews);
 
   if (localGuidePercentage < 40) {
-    window.close();
+    // window.close();
   }
 
   // Update Local Guides Card
