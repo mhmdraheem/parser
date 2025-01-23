@@ -85,7 +85,10 @@ function createTabs(reviews) {
   const tabKeys = Object.keys(groupedReviews).sort((a, b) => {
     if (a === "withinYear") return 1; // "Within a year" should be the rightmost tab
     if (b === "withinYear") return -1;
-    return b.localeCompare(a); // Sort year-based tabs in descending order
+    
+    let numberA = a.match(/\d+/g)[0];
+    let numberB = b.match(/\d+/g)[0];    
+    return numberB - numberA; // Sort year-based tabs in descending order
   });
 
   tabKeys.forEach((key) => {
