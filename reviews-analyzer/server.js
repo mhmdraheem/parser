@@ -39,8 +39,6 @@ app.get("/get-json-files", (req, res) => {
     const minRating = 4.5;
     jsonFiles = jsonFiles.filter((file) => {
       const data = readFile(file);
-      console.log(convertToEnglish(data.business.starRating));
-
       return convertToEnglish(data.business.starRating) >= minRating;
     });
 
