@@ -1,0 +1,88 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "khalil magdy",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWRd6Guu5qNxHdVEFdrnwqSWonh6w0cZL8eRAy-AgIFTLSXlLJcuA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113797883034296649603/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ghaleb Alrashidi",
+        "numberOfReviews": 2,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJRdpHZaa7pGnP4TOvJkanPE6mxwS_F6HKIIx1V5DVbArJm3g=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106871106046563266744/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "قانون",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV3e5yg6wJdFSD5Jg-kOgHIFmq09xHPF43Hf_trEUnLMpStIkQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117361320724530143313/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "فندي الرشيدي",
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVoRsa5chb05VS4ru-amwPSZa2wI0HtdetFGRqKK0d1qlRPzAc=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104255538943551757744/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب فندي الرشيدي للمحاماة والاستشارات القانونية والتوثيق",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D9%81%D9%86%D8%AF%D9%8A+%D8%A7%D9%84%D8%B1%D8%B4%D9%8A%D8%AF%D9%8A+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9+%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9+%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%AB%D9%8A%D9%82%E2%80%AD/data=!4m7!3m6!1s0x3e49fd4ce32baa0f:0x5edc760e8870efa2!8m2!3d26.421509!4d50.089313!16s%2Fg%2F11vbg10502!19sChIJD6or40z9ST4Rou9wiA523F4?authuser=0&hl=ar&rclk=1",
+    "starRating": "5.0",
+    "totalReviews": "4",
+    "_location": "C3CQ+JP4، البادية، الدمام 32243، المملكة العربية السعودية",
+    "phone": "+966 59 270 7363"
+  }
+}

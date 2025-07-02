@@ -84,6 +84,11 @@ h1 {
 .business-rating .total-reviews {
   color: #666;
 }
+.contact {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
 
 /* Global Stats */
 .stats-container {

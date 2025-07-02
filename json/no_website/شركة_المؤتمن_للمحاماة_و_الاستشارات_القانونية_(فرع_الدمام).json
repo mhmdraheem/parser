@@ -1,0 +1,349 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "شركة المعالم الأساسية milestone company",
+        "isLocalGuide": true,
+        "numberOfReviews": 19,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWn8DaRvhpLMXh9xk8dsawe4rtwlV45DZ9lxasM_YDufVc_VjacpA=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/117742514483334852588/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الله يجعلها بداية تعاون بيننا كمقاول و بينهم كمحامي",
+        "response": "نشكر لكم ثقتكم شركة المعالم ونتمنى التوفيق للجميع"
+      },
+      "since": {
+        "unit": "day",
+        "value": 6,
+        "text": "قبل 6 أيام"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Rayan Alrafaj",
+        "numberOfReviews": 12,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ01E6qgRfn6zJg4BjlB2Xg-Lou_kRJWn1uZoaPyXSNs7_liA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115516318175478936357/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "شكرا ريان"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "علي عبدالله",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXbiGmLKpmm1do6sjiXLe5MSMZYBNi-HjKkxGjjcxwF-HpgpSR2=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110908697286496147417/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "شكرا علي على التقييم"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ايمن العلي",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJAJeBBTECp2Cn_x1LuiEPSCsMLDm0oBcabq_dj7Fsj7pHL0g=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112527177576706452419/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "خدمات قانونية ممتاز تعامل ممتاز",
+        "response": "نشكر لكم تقييمكم ونتمنى لكم يوماً جميل\nشعاراتنا دوماً\nالمؤتمن تتعامل مع القضية كقضيتها … المزيد"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ام حسين العبدالله",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIWEuz1J3-pKU4Vg07EuYyHANHkrjh5c6_IwUJ3zlHEBbF_sw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105455599287513168881/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "نشكر لكم تقييمكم ونتمنى لكم يوماً جميل\nشعاراتنا دوماً\nالمؤتمن تتعامل مع القضية كقضيتها … المزيد"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ريم الدرع",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJFkZ7Dbh0aQsYH8yfBo-HyzNvm6fJTE5KfLAmyP9c9HkoCqw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114197602171235409464/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "نشكر لكم تقييمكم ونتمنى لكم يوماً جميل\nشعاراتنا دوماً\nالمؤتمن تتعامل مع القضية كقضيتها … المزيد"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ksa 244487",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLDgPke2pP6cIpHlpOK-D8X5vDQujeae2bwuE6p-b6wRhIgBg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115405252546737043579/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "👍 …",
+        "response": "نشكر لكم تقييمكم ونتمنى لكم يوماً جميل\nشعاراتنا دوماً\nالمؤتمن تتعامل مع القضية كقضيتها … المزيد"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Bsm Bo slh",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLQ98FVAW9yRBIn153zbBrCgUUWOy5zhahXswdVI7f_JNbPzA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111208114168400465382/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "شركه ممتازه وتعامل حلو",
+        "response": "نشكر لكم تقييمكم ونتمنى لكم يوماً جميل\nشعاراتنا دوماً\nالمؤتمن تتعامل مع القضية كقضيتها … المزيد"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "7uss3in 3li",
+        "isLocalGuide": true,
+        "numberOfReviews": 28,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjURSt3lp0-GpbgZn2lUuRZfYHmCmFRnQQv138MCEHsCTLHVCkm6=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/108487800356997014989/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "احب اشكر شركة المؤتمن على حسن المعاملة والاخلاق العالية وعلم رائسهم المحامي والمستشار القانوني الاستاذ علي بوصالح وبقية الفريق يستحقون كل الشكر والتقدير وفقكم الله ورعاكم وجزاكم الله كل الخير",
+        "response": "نشكر لكم تقييمكم ونتمنى لكم يوماً جميل\nشعاراتنا دوماً … المزيد"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "جور ي العلي",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLmu35MY7t5hRCFRzj98XoStIHphTNYxSHDwXAxE0uW8QfiSw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115693796499596611446/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اشكر شركة المؤتمن على الجهد والتعامل   وانا تعاملت معاهم تعامل راقي",
+        "response": "نشكر لكم تقييمكم ونتمنى لكم يوماً جميل\nشعاراتنا دوماً\nالمؤتمن تتعامل مع القضية كقضيتها … المزيد"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ام سعود الدرع",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ8C2Oo9lg9drLj0TwbX0OKoBJoLA3DCchtm2OA16ZKWsixfg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113060298687189569111/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تعاملكم جدا راقي  وسريع التجاوب معنا اشكر موظفين شركه الموتمن",
+        "response": "نشكر لكم تقييمكم ونتمنى لكم يوماً جميل\nشعاراتنا دوماً\nالمؤتمن تتعامل مع القضية كقضيتها … المزيد"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد بوصبيح",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI03JE9Sx86IA48I-j1R3j-aqfPXPFAiUCseVTuzDcNBgxESw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108394536166946687828/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الشركة تتمتع بمهنية عالية بالتعامل، كما لديها فريق عمل ذو خبرة ودراية، ويعمل على تقديم مصلحة العميل وحفظ حقوقه، أنصح بالتعامل معهم بشدة لما وجدته من صدق وتفاني بعملهم، كما لديهم خبرة كبيرة بالمجال القانوني وقادرين على مساعدتك على حفظ كامل حقوقك النظامية.",
+        "response": "شكرا محمد بارك الله فيك ونتمنى نالت خدماتنا على إعجابكم"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mo Ha",
+        "numberOfReviews": 6,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJnPgwgqOsszGbr7bZEvZL17-N0cXnsgS-gghmjwUoECuTezQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102711776102610444811/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "نخبة من المحامين الرائعين صدق وأمانة👌🏻 …",
+        "response": "تسلم mo على التقييم"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "mahmoud rmdan",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUzBW_cyJvVLONgxfv3rD9y8i5YxrvwRqZHeBXISyzWe9R0XfbP=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116440190374062105279/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "خدمات قانونية ممتازة",
+        "response": "شكرا محمود"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "MARIYA",
+        "isLocalGuide": true,
+        "numberOfReviews": 73,
+        "numberOfPhotos": 338,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXhOAWvSI6R_u_FK0gu4R7B-nCdHEuHe4qKBgGmpIhoKqN1jtrb=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/105500605988684401370/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "نشكر لكم تقييمكم ونتمنى لكم يوماً جميل\nشعاراتنا دوماً\nالمؤتمن تتعامل مع القضية كقضيتها … المزيد"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "حسن النمر",
+        "numberOfReviews": 7,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWWkGcTU7h46vTOXObT0d0ssB6HsL9qTCBTspO6e1U2SjsBGH8=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113558829435392196303/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1",
+        "response": "لا يرضينا أن نحصل على هذا التقييم، حيث نحرص كل الحرص على خدمة عملائنا بشكل احترافي، ولذا فضلاً إن كنت أحد الأشخاص الذين بالفعل قد قدمت الشركة لهم أحد خدماتها القانونية فنأمل التواصل معنا مباشرة على الرقم المخصص لذلك 0542894333 … المزيد"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "شركة المؤتمن للمحاماة و الاستشارات القانونية (فرع الدمام)",
+    "link": "https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D8%A9+%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D9%86+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9+%D9%88+%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9+%28%D9%81%D8%B1%D8%B9+%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85%29%E2%80%AD/data=!4m7!3m6!1s0x3e49fb2adadfac3d:0x3c7e58c3b90be7ed!8m2!3d26.4512707!4d50.1299099!16s%2Fg%2F11vc7scpbt!19sChIJPazf2ir7ST4R7ecLucNYfjw?authuser=0&hl=ar&rclk=1",
+    "starRating": "4.8",
+    "totalReviews": "16",
+    "_location": "شارع الأشرعة، المزروعية، الدمام 32414، المملكة العربية السعودية",
+    "website": "https://almoatamanfirm.com/",
+    "phone": "+966 59 177 4530"
+  }
+}

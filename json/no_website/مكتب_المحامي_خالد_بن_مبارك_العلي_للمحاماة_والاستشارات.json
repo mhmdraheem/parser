@@ -1,0 +1,157 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Mohammed N",
+        "isLocalGuide": true,
+        "numberOfReviews": 32,
+        "numberOfPhotos": 52,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUzJv7folDcu-9HC7vDRIXFH0pURYqYmNGQcvJxvNuVnVUTZ0ZS=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/109552797283780932084/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWMlTQ-FtEfHqqGozYW2GUv_FQKAcOudrokJdy5HDRi6L0dhU4=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100843086216225681284/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "د/فايز بن راشد العلي م- مستشار دولي (حائل)",
+        "isLocalGuide": true,
+        "numberOfReviews": 33,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjULmR3pL3GenSj7BGNKEo46vEuPUv4p7zhVvpoIwhlug_9XZLVZrA=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/112656348566299804024/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "فعلاً خبرة واخلاق وامانة..\nوصدارة بالمحاماة وفقكم الله."
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Omar Mahmoud",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKdTjNN8aa_gXGTO58R8DaMWKl4vqgM08jVET6HYez4GbUPpw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105074969239475359396/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "جميل"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Eyad",
+        "numberOfReviews": 2,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWotGA8VWIaAedOTep_MlhFCKo7gxboKfTjSlt7VLdH7rbYYKt8=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101454269248907041346/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mooath JQ",
+        "isLocalGuide": true,
+        "numberOfReviews": 20,
+        "numberOfPhotos": 17,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVSInsKLlhRZ7DWXOJYkK8ceYJ24zl0DX7SVyVHfKH7YHExSnvP=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/102195012609720462162/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الشيخ خالد بارك الله فيه عنده القدرة على فهم مسألتي و مناقشتها معي في لمح البصر. نقاشه معي كان فيه من الراحة و القبول الكثير. أسال الله أن يبارك له في علمه و ماله و ولده. و لا يهونون الشباب اللي معه مساعدين أكفاء."
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Amjad S. Al Mansour",
+        "isLocalGuide": true,
+        "numberOfReviews": 121,
+        "numberOfPhotos": 54,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVEmyTcLDM5duVpEOhG9JGFJbWy9fB7BPN4pUUNkGC3PdHA81-1=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/113921271544929295633/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب المحامي الاستاذ خالد بن مبارك العلي من افضل المكاتب في الشرقية\nتعاملت معاهم الحق يقال فاهمين عملهم صح\nوقاموا بانهاء كافة الاجراءات بمنتهى الدقة …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي خالد بن مبارك العلي للمحاماة والاستشارات",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D8%AE%D8%A7%D9%84%D8%AF+%D8%A8%D9%86+%D9%85%D8%A8%D8%A7%D8%B1%D9%83+%D8%A7%D9%84%D8%B9%D9%84%D9%8A+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9+%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x3e49fdbc7e64ce61:0xdcdf2c2bb8708ebe!8m2!3d26.4134112!4d50.0965009!16s%2Fg%2F11s34c9qmn!19sChIJYc5kfrz9ST4Rvo5wuCss39w?authuser=0&hl=ar&rclk=1",
+    "starRating": "5.0",
+    "totalReviews": "7",
+    "_location": "شارع عثمان بن عفان، ابن خلدون، الدمام 32253، المملكة العربية السعودية",
+    "phone": "+966 58 236 5732"
+  }
+}

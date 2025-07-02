@@ -1,0 +1,50 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "MGSNMAS 15",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKfuvnwMj8hNpLBhbhVlgRVBkVR8btSLaV3U0o8Yu_Su25ukw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111148926420397867522/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abd Ham",
+        "numberOfReviews": 111,
+        "numberOfPhotos": 64,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKkzJOvYAngNJ3IUPA1scba_DsiGCgyBvvG6tszri5t2wxygag=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104398319779185300701/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي عبدالرحمن الغملاس",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%D8%A7%D9%84%D8%BA%D9%85%D9%84%D8%A7%D8%B3%E2%80%AD/data=!4m7!3m6!1s0x3e49fb1a76b20431:0x48cbff13a51d8435!8m2!3d26.4541729!4d50.1146826!16s%2Fg%2F11v19c2kcl!19sChIJMQSydhr7ST4RNYQdpRP_y0g?authuser=0&hl=ar&rclk=1",
+    "starRating": "5.0",
+    "totalReviews": "2",
+    "_location": "3377 الشارع العاشر، البديع، الدمام 32415، المملكة العربية السعودية",
+    "phone": "+966 13 846 9944"
+  }
+}

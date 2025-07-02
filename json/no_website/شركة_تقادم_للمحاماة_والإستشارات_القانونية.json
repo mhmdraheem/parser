@@ -1,0 +1,308 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "FOAD MOHAMED",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKZDNguQjCSAWxsVMUjZt_ijgscYVDhYH_Dp3JVhoiuxT6huA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109921203795070076491/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب مميز يهتم بتفاصيل قضايا المراجعين وإيجاد الحلول المناسبة لهم جزاكم الله خيرا ."
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "روان الديج",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJfeGG3K-yYg-yBPvgMOx-nvjNuP7Ox4whhhaz_OLA6iQuuvw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106835131105188893663/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "حلا قرني",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLrEhKJhRq7mdNUqTC-LEQFaWiiniLOZ_9CBiHOdwpTvL8Nug=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115367204635252801970/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3"
+      },
+      "since": {
+        "unit": "month",
+        "value": 7,
+        "text": "قبل 7 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Shahroz Mustafa",
+        "numberOfReviews": 1,
+        "numberOfPhotos": 7,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWxlI60iRQUIJGupN-xpQgKrQoELchzK5SqatUZaglQK7MOuiL-=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108018969565435412623/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3"
+      },
+      "since": {
+        "unit": "month",
+        "value": 7,
+        "text": "قبل 7 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Tantawy Shabaan",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLjvJOZJbe0qOS8u3crnb2DswVHWAya3idAO1PEIdMQpaBI9w=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112077838351568820062/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "R k Manna raja",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK5_ASRc3TIM-cf089Rk9kYP2Si5_nYJfXX7oq7WVmZzNRr5g=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102766510069164939974/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "U thas a3mar eag reels ©we w"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sami",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKsx4uXLq60A9wpJl4FwAjY9UxGw0hpvUAG0lCFmBfi3bfHLg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103147845379914509098/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الصراحه حابه اشكر  واثني على الاخت  حنان الهاجري  ع  تعاونها وعلى سرعه استجابتها  صدق  فادتني  كثييير وبيض الله  وجهها   على تعاملها  الزين  وانسانه  كلها  خير وبركه  😊☺️وانشالله موب اخر تعامل معها  وحابه انصح  اي احد  اذا  بيروح  لايتعدى  حنان الهاجري  انسانه  قمه  في  التعامل الحسن 💖 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 11,
+        "text": "قبل 11 شهرًا"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdulrahman Alhindi",
+        "numberOfReviews": 7,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVeiFfwwVkOoVvwqpSSvWoWMDGTyqz2iTU4jg17oTv35Dnf43zW=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111428245095530333308/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "بيض الله وجيهكم وشكرا علي حسن و صدق التعامل و بلاخص مع من استلمت قضيتي حنان الهاجري . وفقكم الله وسدد خطاكم ."
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mariam Almarri",
+        "numberOfReviews": 7,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocImZodMUDxrgXyTylJHGgsdsaztiuWzrVrSY9mrTkXYq5pDTQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112467073372417940902/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "احب اشكرهم على التعامل الراقي للامانه ماندمت اني خذيت استشاره عندهم ابداً واكيد رح ارجع لهم اذا احتجت 👍🏻 …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abbe Ahhm",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLuvhPycILMFa7ccMDMvjFV7JM5CjQ1DJkETv_6aZ-I3dIzAQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115407334933937619693/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اسلوبهم مره راقي💜 …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "خلود الزين",
+        "numberOfReviews": 6,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJDz53BUWcHYBwudrCBY_zEjyQGWE81bNnCLDZGJhu0plo5ng=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116892053191152834811/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "شركة قويه ولها سمعه كويسه بالسوق المحامين يشتغلون بذمه وضمير واسلوبهم جدا راقي انصحكم فيها"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "KHLOD",
+        "numberOfReviews": 16,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLXd0Y-PEb9L-t75xbKSL0QIUBQW_YK-sO8jJy1Aij60jrfroM=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113716438614807761412/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من افضل المحامين تعامل راقي  ومميز ويهتم فيه القضيه اهتمام كبير"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sh Sa",
+        "numberOfReviews": 16,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLORU5d3UPIKIH3ff7oou9eKNRZWrgazBABrFQBIynuFFMvgw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104471745811569012574/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب من  افضل المحامين واكفاءهم تسلمهم قضيتك وانت متطمن 😍👏🏻👏🏻شكرا لكم …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Suliman A",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjW9ye1DfHCy9bVYUDlaerxEiMzhCURw-deAQwcUi1nxowQ6xZ1t=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110728385163447461808/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تعامل جميل وراقي."
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ram El.Soultan",
+        "isLocalGuide": true,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKlNxZfOGIw0Z5EjnSP8Zx6gTwbu5MxH8B7GI7Y7UaLHDPHQA=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/108907684241780028268/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "شركة تقادم للمحاماة والإستشارات القانونية",
+    "link": "https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D8%A9+%D8%AA%D9%82%D8%A7%D8%AF%D9%85+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9+%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x3e49e38084ab80ad:0x9fd462f48b360b28!8m2!3d26.3726748!4d50.0999424!16s%2Fg%2F11vlbpbchm!19sChIJrYCrhIDjST4RKAs2i_Ri1J8?authuser=0&hl=ar&rclk=1",
+    "starRating": "4.5",
+    "totalReviews": "15",
+    "_location": "شارع عثمان بن عفان، شارع امير المؤمنين، الدمام 34254، المملكة العربية السعودية",
+    "website": "https://taqadomlawyer.com/",
+    "phone": "+966 50 670 0050"
+  }
+}

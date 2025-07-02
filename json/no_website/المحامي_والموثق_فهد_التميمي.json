@@ -1,0 +1,1671 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "fares mohamd",
+        "numberOfReviews": 15,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLLNPbo9KJd3N5jYJVnlnxiz5YrT57onOJE2w-5FcRlQ7xFJw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102282912421364282689/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1",
+        "text": "الدخول للمكتب يستلزم موافقة!!"
+      },
+      "since": {
+        "unit": "month",
+        "value": 1,
+        "text": "قبل شهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ashok Punjabi",
+        "isLocalGuide": true,
+        "numberOfReviews": 15,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWX1iyQ1zuBicgEmWMZVb4B-vzlh850eKKlNyLBkT459PZRJvCueQ=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/111919330769058623711/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Too good",
+        "response": "Thank you so much, May ALLAH bless you."
+      },
+      "since": {
+        "unit": "month",
+        "value": 1,
+        "text": "قبل شهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Hari Prasad",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2CMB5iugpZlWjV0a-vBR9_bj-Xg67Q5_l76-rmCV3Hn__mA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100916921251720870707/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "4"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Haneef Mohammed",
+        "isLocalGuide": true,
+        "numberOfReviews": 13,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWLSg9zjWYjFQSVxYo9zhF_nIiRDDEwmh2vy_Kpu_OD5prxvsZC=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/108692675232261179740/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Comprehensive solutions under one roof, offering expert guidance and support for foreign investment in Saudi Arabia, along with specialized Commercial & Corporate Litigation Services. Mr. Abdul Aziz, a highly knowledgeable business …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "MAHFOOZ RAEES",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWjUw7ja2U-Gs8yEjDKNRYcEWy22xX-lLfwGiDnSt0kU__6pXc=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101250307879725653742/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "F. Al Tamimi is recognized as one of the top 5 best law firms in Saudi Arabia for providing transparent, quality, result oriented and reliable all types of legal services including company formation, licensing, investment, civil, criminal, …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Rana Shaffat Rasool",
+        "isLocalGuide": true,
+        "numberOfReviews": 77,
+        "numberOfPhotos": 272,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWD9O9y76zZidYFbzJyyNaaCLIF1AZlOUdWA3m_t_I2-mpWswjhRg=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/114828994565625002622/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mahfooz Ur Rahman",
+        "isLocalGuide": true,
+        "numberOfReviews": 10,
+        "numberOfPhotos": 35,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVIQ_EsA_HAbCXCeNJOCiCyn84gt1WkqeGtv1QYCWtXBIRwd07eZw=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/106624718706465592040/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Fahad Al-Tamimi Law Firm is a consultancy of lawyers & legal advisors and public notarization in the Kingdom of Saudi Arabia (KSA). It works as a legal consultant and provides its legal services to clients in various fields of legal cases …",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "تاريخ التعديل: قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sahban Khan",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWxp2VC05s_FQNuupH4BlRJWtsFmlFXwasV3XxL2B3H0lOm4_ml=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115179840174993875204/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "One of the best Law Firm in Saudi Arabia as per my Experience very cooperative Staff Friendly staff.\nThank you FAHAD AL TAMIMI and Team",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Salman Farooq Naroo",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWBWe0yjD1Aix16pzt_gzBz5BZM4K3rCFrPDuGHSmZsvOEafWDf=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110638864353190551184/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3"
+      },
+      "since": {
+        "unit": "month",
+        "value": 7,
+        "text": "تاريخ التعديل: قبل 7 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mahendra K Shukla",
+        "isLocalGuide": true,
+        "numberOfReviews": 268,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU3jzwfojxPoIabBNeAzaESq7MbYQzyOsBZdumMvfxnMQA62o6_Ww=w45-h45-p-rp-mo-ba6-br100",
+        "link": "https://www.google.com/maps/contrib/108120754813688074510/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Excellent place for Legal & Business Advisory with a focused and subject specialist team for : New Venture, Investments and Business + Trade Expansion in Saudi Arabia and the GCC countries. Best Regards"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "تاريخ التعديل: قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Kalandar Shameem",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL8tuSlhYlioQpEiid3IdJRGToj_2M_v5usUkiOlr81U58X1Q=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105236874577694792221/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "منصور الحربي",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJcPi8Ghgkq_gI559oZyvGx_bkZxlIXbeSH8WpbPugXgkGqdA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117245300623509745265/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you so much sir,"
+      },
+      "since": {
+        "unit": "month",
+        "value": 10,
+        "text": "قبل 10 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Melanie Pok",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVsumLnk8OUIiPPPSiLoRFT0Hs6RNN3fnF6zuAI_OL0pl29N8s=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106290522576998156668/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "month",
+        "value": 10,
+        "text": "قبل 10 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "suriya babu",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVtMxbecnFx4fq1spYiyTcsZJsebO7Gg0FzgBkLM1E5qnrGXbo=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112271138205032306210/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "month",
+        "value": 10,
+        "text": "قبل 10 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Shaukat Ali",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXFk3cTU5zq2IAtkizDIE_W4TGDN3VF9CQ-CG0g7usmz4ROQV-K=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112796483944875194250/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Outstanding services..",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "month",
+        "value": 10,
+        "text": "قبل 10 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "WINSET INFO",
+        "numberOfReviews": 2,
+        "numberOfPhotos": 5,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWnVOJblFjGRil7ysA5KQC7zA3YnEO4DiEehWZGHYmwQfF11Uqi=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101002054622303796887/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "I feel Fahad Al-Tamimi is best law firm in Saudi Arabia; experience their exceptional client care.",
+        "response": "Thank you so much for your kind comment"
+      },
+      "since": {
+        "unit": "month",
+        "value": 11,
+        "text": "قبل 11 شهرًا"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Haridas Arabian Crown",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLPl4DsGF6now7XAQkFOTXuc_RH9AVZbSB1bPkhAWae_vt0Kg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110331629377194992788/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Very good\nExcellent support from the entire crew.\nThanks",
+        "response": "Thank you for sharing this"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Syed Zulnoon",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL5o4YRhKt_i2qpZCqJfN2TkFq-yjAApX-4y6I82tIU-xAlYA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116962922328150977749/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "The most professional and friendly services.",
+        "response": "Thank you for sharing this comments"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "تاريخ التعديل: قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "BASHA SAB",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKc-Hk9rcaCcds2TbroFM5Ub5FztV6ZYM1KctzYHvmwiFdnRQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109688784920205151674/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Good",
+        "response": "Thank you so much for your kind comment"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "mohsin khan",
+        "numberOfReviews": 6,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJkO5HB5lQsO4dfbuV4mNnJXkkIWtpLZWLysFgMqTgXn-zB3g=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117893976317290433576/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Well appointed law firm provides best legal solutions for all legal queries and company formations . Highly recommended.",
+        "response": "Thank you so much for your kind comment"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohammed Azharullah",
+        "isLocalGuide": true,
+        "numberOfReviews": 71,
+        "numberOfPhotos": 58,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUjrwDnzOVpByoUk7TY7QV5DLKadxp8v6UU7s0M0GdQ3zkZ9Y1p=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/116673163991073293551/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "One of the best law firms in Saudi Arabia. Abdul Aziz is very knowledgeable and supportive to help on company formation. Both MISA and Local company formation",
+        "response": "Thank you so much for your kind comment"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "M.Divakar divakar",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJX4R2K05utA_RfmOqu9qnRI1OqCYTmHkET2IgJmUIQtDHajA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100121851959281648004/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Fahad Al tamimi is one of the best professional legal service firm . It is consistently outstanding , exceeding the clients expectations .\nWe are completely impressed with their professionalism and services. …",
+        "response": "Thank you so much for your kind comment"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "SAYYED ZAHEER",
+        "isLocalGuide": true,
+        "numberOfReviews": 16,
+        "numberOfPhotos": 263,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVYbiYa_5cehMZiZw0CzbYurA2jzyEEesy9QAkm85GEkyhlR1ceiw=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/104299393542231946224/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you so much for your kind words"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "تاريخ التعديل: قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "syed shaharyar",
+        "numberOfReviews": 2,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLLFXWCBm5urI4QvSTBI1xhtVNVmD8_jEMqP4UeSuSguyEn1w=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117283073478754745868/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Very professional and trustworthy office. Appreciated by Team Faisal Management",
+        "response": "Thank you so much for your kind comments and words"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Antony Samuel",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKoY9s4o_YOQm232mbJFMI51-Kdp6HqDOovC_F4L5PHRcgWCw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105093834407306453513/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "In the Name of God  the truth is , the  best experience with professional Ethics, Faisal and me are truly satisfied with efforts and advise provided. It's from our bottom of our hearts we appreciate to Team Tamimi",
+        "response": "Thank you so much for your kind comment"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Riaz Arif",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUP4jYLBHdX9CN7YMggSF_UGe99ECqFGvxMY2qDtlUlJ2jkCYp4zw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102996408266665090065/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you so much for your kind comments"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Q Al_shammari",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIJOEoVzqFh7AQcXAwRpOoznUYQH3gCrEnwxCfbgqhjTz6PSw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105434738138573764786/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "sekar thangavel",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUdEud7QMaJycw9SvrOlszoKKO9vhtlmBdcnacIXaQeUo3ltCUhAg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110117289441581283805/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Very good company. Mr Abdul Aziz is good consultant and very helpful. Excellent service",
+        "response": "Thank you so much for your kind words"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "sheikh fahim",
+        "numberOfReviews": 7,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWA8Nh6cCGUOZxo53GJeEhBDe32rBl0Ninmvgk5LFWuhv9CCQ8k=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100895991973189518810/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Fahad Al tamimi is one of the best legal service firm . It is consistently outstanding , exceeding my expectations . I am completely impressed with their professionalism nd services. Special thanks to Mr Abdul aziz for constantly helping me through my work . Had an amazing experience.👍 …",
+        "response": "Thank you so much for your kind comments"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Margubr Rahmanlion",
+        "numberOfReviews": 4,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJQ8DUDFl3Ma-FT9tJs2bN29NN_kOd4UgpdEck3ua476g4EVQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111107419648782428099/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "It's very helpful Law Firm",
+        "response": "Thank you so much for your kind comment"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "تاريخ التعديل: قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ibrahim shafeeq",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVIzY0mm5yTphZMA0bZ1prcJXNNrbsXiIz1kPvLrcEIN_3_Viw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105737641858574916515/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Good office honest people we suggest always this office",
+        "response": "Thank you so much for your kind comment"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdullah Altamimi",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLUC8f21BP4bsRdHzHRXgiZ9gzbawUOF9QFB4qNoN1hReW5tQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114533818139817761875/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you so much for your kind comments"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ammar Siddiqui",
+        "isLocalGuide": true,
+        "numberOfReviews": 29,
+        "numberOfPhotos": 32,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocImgUKvU7wOOT9HxndyhIUX0lcw8UHJ0ud6ZVgJRPVTYg1f4g=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/118139731573166343729/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "If you’re in need of legal services, look no further than Fahad Al Tamimi Law Firm. They are a true testament to what a law firm should be, and I am grateful for their exceptional support and representation.",
+        "response": "thank you very much."
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "تاريخ التعديل: قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mufassil Murtaza",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLNdcT6xmA3zw4-XEkYMML64UeDwakVmNwFObrq4yjRf0UnOA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106319490196459694567/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "One of the top Law Firm in KSA very expert Lawyers and supporting staff in all related fields and cooperative and right guidance\nI really suggest this Law Firm",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Syed Tabish",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWMScaAa2Z0fFdIDfF5D3m3gGPCBRfmSpYIzNGuWzYTiM-v-_g=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113216340413131169118/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Our company have tried out many corporate lawyers, but by far Mr. Aziz from Fahad Al-Tamimi is the best out their. I highly recommend this law firm",
+        "response": "Thank you"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ausaf Altaf",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJgrLUZaITRmJOocYUtd0OWS1fq5bTfaBYklIGxLoNvdGB2_Q=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107534531150939253880/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Reliable, trusted and strong platform for investors",
+        "response": "Thank you"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Nazarul Haque",
+        "numberOfReviews": 1,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVuWaJI8K96Eyns2LeOE_nnECv9fGxGX-vht8AX1l6oSzbAsfPp=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113883748189185752309/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mujibur Rahman",
+        "isLocalGuide": true,
+        "numberOfReviews": 26,
+        "numberOfPhotos": 39,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV2I_rZBf_mK0d5d61N13YsxdRh5Went4DT_HsHCDQppVhbu2pA=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/115564879427750238064/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "philadelphia student",
+        "numberOfReviews": 14,
+        "numberOfPhotos": 12,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVgK-qZvWCbFKEHnuOOyn8gLcs3j2jVYMf80N7IkndQsedEo74=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102185609125685507918/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Great",
+        "response": "Thank you so much \nGod Bless you"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "KUMAR TIWARI",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVSiPoWn5GteZBsfOr2jDdgpISTI4vefaFPXGY81ZBki-eaulqC=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116077954143990820456/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Great and well experience with Fahad Al Tamimi Law Firm, one of the best law Firm in KSA which is dedicated up to client satisfaction (Solution provider). They provided all type of corporate consultancy i.e one stop solution related to …",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "NAJIBULLAH",
+        "isLocalGuide": true,
+        "numberOfReviews": 8,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXcVd9aURbM7SY5VioiBEZg-o7el3rfl_XpjhQcowxyv9sacIo6=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/117055761679531582192/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Nemer Jaber",
+        "isLocalGuide": true,
+        "numberOfReviews": 26,
+        "numberOfPhotos": 29,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXPsUqjf4rLiJU7ibZvx6K0fu8l40AVNZEYxl2vwgvq0YGO2rUl=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/115275993504926982080/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Faiz Akram Siddiqui",
+        "isLocalGuide": true,
+        "numberOfReviews": 9,
+        "numberOfPhotos": 6,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXFSrh1b6ZzM4wOhPleZ0rubVpUAxl-auXPdIueDfU7CndAqLW-=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/105048439916977630524/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "First Choice Lawyer as we are SPAR steel, SPAR Industry in KSA and UAE have great Experience and Satisfactory result with this Law Firm, Great and well experience team"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "تاريخ التعديل: قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Asad Ziya",
+        "isLocalGuide": true,
+        "numberOfReviews": 111,
+        "numberOfPhotos": 25,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjX7Zcq9jFn8zq8anTT8gt9xT0OC5Wq3nIpVHVYRqoFlSMKZH_Uxbg=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/102526284870949550880/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ماشاء الله 💗 …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "abdul mabood",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWFTqUO1ArOm29Wp6Ik7Dlz9DiqZDeEQTPYbwaNBxfEpLkbwTzw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113923904151212125955/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Trusted Law Firm",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Junaid Anshari",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUNH5c5WCfOitFg61V1WTBQCh5K5tI1PIwM9AdfdiKgl_2lk8i1=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107792631060082967967/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "First choice Law Firm\nI have well and satisfied Experience with this Law Firm\nMay Allah bless this Law Firm\nVery expert Team",
+        "response": "Thank you so much, you are always most welcome"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "أحمد القبانى",
+        "isLocalGuide": true,
+        "numberOfReviews": 20,
+        "numberOfPhotos": 10,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUlfnU2V5rkiljBOYq-x_8U7augA4tBX8rX4BmqeUwEcrC6MgSpSQ=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/105939331029136352138/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "جزااك الله خيرا أحسن الجزاء"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Alina Musat",
+        "numberOfReviews": 10,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLurKy7eF94fr4Xh9FtAHDzWSvMO0muOVI5wed3EfvWaPyp0Q=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115471393468513575412/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "A team of serious, prompt and very well trained lawyers! Highly recommended!",
+        "response": "Thank you so much"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Hafiz Tanveer",
+        "isLocalGuide": true,
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjX-MOCc1RWVhZdSs7dooEZIw9JGWq7mwryQlD3wmyUyXOO-GgM=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/112006184710528854969/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you and so nice of you"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Anand Kumar",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXc6gBrBQpdRnR0WVDeHaUCzceW09J5EnU39N3Oj6LL7Fmdf1g=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106615839343799109440/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "تركي التميمي",
+        "numberOfReviews": 4,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJyTCO6V3spT51vDfkrmBnkb06CDseuDyqgSvRKaHwf_CyD2Q=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109502319452475528943/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "صادق وامين ونعم الرجل"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Bay Lorey",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLV9wpACrMi3AjvSeEGS2Tqkdx8Dqt1iu_UNPe9z-HFUS3bRQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117092101359228480592/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1",
+        "text": "Very saucy, unprofessional Indian guy (I assume he was the manager) who neglects clients  sitting before him ,while taking phones calls repeatedly. However, the female receptionist was quite welcoming."
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "saleh sal",
+        "isLocalGuide": true,
+        "numberOfReviews": 2,
+        "numberOfPhotos": 10,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUAJPwR_IorKzbC1TFwKMVH_kBYt0A4gbqXRyXD5PDO4NDK3q84=w45-h45-p-rp-mo-ba8-br100",
+        "link": "https://www.google.com/maps/contrib/112794862077138036136/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3",
+        "text": "محامي اعتبره عون للقاضي وسبب من اسباب وصول الناس لحقوقها ودفع الظلم عنهم"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "نايف التميمي",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKtWynXt0jv0Zh9Y7G2Le3HBaaStq6YOJv6BBNm8PXeunGp_Q=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100065184292416823407/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Muhammed Nazeer Thumbay",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWmlN_BLGHhrGgMgbdjJMvpLyDnyGKiFNSlF_lRI8KutMTRxgX7=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117532053699298743181/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "HAMAD ALTAMIMI",
+        "isLocalGuide": true,
+        "numberOfReviews": 258,
+        "numberOfPhotos": 260,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLdOsx3OfwPTXp1P4SQbbGH743_D7LUzGLBjL-PEGv_cR70ag=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/114184665138607340266/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "👍 صادق ، ورجل خير …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "تاريخ التعديل: قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "الحمبليص للخدمات اللوجستية",
+        "isLocalGuide": true,
+        "numberOfReviews": 7,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKOWK9Txc6wIkE2OcwTgSe7COB6ii8oFmNH5J_euJrqSQag4k8=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/117072851146872961451/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "O Tamimi .",
+        "isLocalGuide": true,
+        "numberOfReviews": 7,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWEryxs6wrMuiqnf8RndlofR5MHIqkF33RZYgGHfRDIgB4t1f1p=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/105373893754359835261/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Shaquib Shakeel",
+        "numberOfReviews": 4,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjX4WQgtG6-3Ob4wnm6Z2tB8qWLGomQmziDz_c69h_pOcPtE1NaxtQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102402137275098744251/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Excellent legal advisor",
+        "response": "Thank you for your reply"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "م ابو محمد",
+        "isLocalGuide": true,
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI78FrQ1jC2eRnF7ecCUUCLIdvp91ocqGkD6D1bDnJRmELvvw=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/104554660652703287301/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مميز جدا .في معالجة قضايا التستر التجاري .\nوتوثيق العقود",
+        "response": "Thank you for your reply"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "سعود",
+        "numberOfReviews": 4,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVWANdiX6qDoWpQj3EjSel6tILv5Ck32iI00cAw8E1JB2O-skOK=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100772236417758494662/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب المحامي و الموثق فهد بن راشد التميمي رجل ثقة وانصح بالتعامل معه الله يوفقه وييسر امره ❤️"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "142",
+        "isLocalGuide": true,
+        "numberOfReviews": 65,
+        "numberOfPhotos": 21,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXvRBzXGxCSI3QD_fy354nl6Ul4yfFUswT3rv_ZGeaZxO7BO6tO=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/117519129036905723192/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "لديه خبرة واسعة وقديمة في مجال المحاماة\nرجل صاحب خبرة واسعة\nلديه فروع لمكتب المحاماة وهو في التوسع اسأل الله له التوفيق والسداد …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Rashid T",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKrDGjjIeNzp2qfEXUIQ8veweilMO-Ugy6CdmMNip0vu_s9IFg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112644883684491736189/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Md Raees Khan",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIC17mMM_aXXfEjUo_kOPo0948lYl-cKf9mrE9rpXU2k9QcHw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111003139316047717414/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Very professional firm. Alhamdulillah"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ahmad Wahidi",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXnwVzSduRmCrUrTQJ0lXlZALhgacdFc4beXU768dNx8yjAizvz=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115426196225596660261/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Great experience with Fahad  Al Tamimi Law firm..It is one of the best firms which I have ever seen... The service provided by Fahad Al Tamimi Law Firm is always a good and helpful. Really helpful in dealing with all the situation relating …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Safdar Ali",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUUU5FZj7rYypIEDrMGsgNZF7cuOQTiWu0fGihg31NGFwqLuOy7=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110081513528933445471/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Shamshad Ahmad",
+        "numberOfPhotos": 36,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUPE9Z9nrpQg0BKD7uqXY6kCpKH1o2lhOghlPiEULWMaWd-Cl_4vw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104072984985764565053/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Riyaz Khan",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLFxxh-rh0H9FpNeHEBpZaJzMJLWJBOd5rw0WMEEoRHKgMrtQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117627428800766199661/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohammad Tarique",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLtmOU8BqAt2nProQyYpiFEWvx-4w79GfKzxLZxSuIQuXyf4w=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104090614843303256345/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "The best place for ur all consultation regarding to any buisness issue.."
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Faiz Ahamad",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXzk7ZMdPA6oymL0j_K2Q_ZbYbdB7y1Wjn8eRhWQL1x1ZeCrK7F=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107807565410402832293/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "❤️"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ethan Hunt",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWTkr8dJ3gfQJ2U95eoPnvD9aIajaTrISr8M3Wlk_1G4jhAMqIu=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100013694351680134636/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "alishan khan",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWFA1jiKbJi5c8-nxNv0koTptDT4RHfGMallxI0rq0OIPcJKmkIlw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105496308323634957801/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Shadab Shaikh",
+        "numberOfReviews": 10,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLJJQz2B57n8WWQjYwST2fLn7-CmCz9ZN8E5dXe5ssenguHHqie=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110490854120139723008/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Muhammed Mustaq",
+        "numberOfReviews": 7,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK_6W8dRU1R5jcYtk1FBJtjtw3mvcW5dkQ_deKm_YSQXXp5xA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106440859853735549711/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "I had a great experience with Fahad Al Tamimi Law Firm, one of the most committed and professional Law Firms in the Kingdom of Saudi Arabia with dedicated friendly staffs involved. I personally recommend others to visit their office for all kinds of legal supports and especially to comply with the MISA activities."
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "FAIZAN AHMAD",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUqWx88GfqR_8-mYehpRBDQVDD_Rg01CIWyv5zPR3UtUjvaRNCU=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108855844581867033628/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "mujib khan",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjX0JjyY8f35bhhv4Z6aSA8GDUAvP-0hP35W0ByxbILIT2G_8Ok=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113460256694537399166/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "This is very high professional law Firm with good staff with very many years experiences\nI highly recommend this Law Firm"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Hafeezurrahman Raees",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUv6Tc4C_ZOphzYoG6el66TQe5ql9zF6PqoMtYnuX63gJ6iNAl4=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112987182259124752973/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "asad husain",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUj-U3fE9bom8OH1VRepLs5GYq28UoTgA76xmrLkPeNF6WyMB6T=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105202178274471222851/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Personally I had a great experience with Fahad AL TAMIMI LAW FIRM- It provides a dedicated support to its clients up to a satisfactorily level. I strongly recommend to Foreign Investors to get services from this Firm.",
+        "response": "Thank you very much. and its our pleasures"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mashkoor G",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUFTIAAyTgqfuljAkr4d0g2wEIQzNAEFQlF82oZ3g8z_tcQASBZGA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113289192088216903759/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Very Professional Firm and 100% Up to Client’s Satisfaction. Very Cooperative Staff."
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Jenan Al",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLPKNWQUy4oSrIbdQ2ZIcc4HtJ9gUGGVto9hikQtuf499kaEQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110066521165518428900/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Very professional Law Firm For Foreign And Local Investors\nCommercial/ Corporate and collections cases",
+        "response": "Thank you very much, we always stick our standards of high quality and quick services."
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "المحامي والموثق فهد التميمي",
+    "link": "https://www.google.com/maps/place/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%AB%D9%82+%D9%81%D9%87%D8%AF+%D8%A7%D9%84%D8%AA%D9%85%D9%8A%D9%85%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x3e49fbf3782ee0ff:0x6045d7971138b96f!8m2!3d26.4525134!4d50.1267441!16s%2Fg%2F11qg9b27xn!19sChIJ_-AuePP7ST4Rb7k4EZfXRWA?authuser=0&hl=ar&rclk=1",
+    "starRating": "4.8",
+    "totalReviews": "80",
+    "_location": "شارع الأشرعة، Al Shatea، 10th FLOOR، حي, Ash Shati Ash Sharqi، FAHAD AL TAMIMI LAW FIRM، الدمام 32414، المملكة العربية السعودية",
+    "website": "http://www.tamimilawfirm.com/",
+    "phone": "+966 56 121 8881"
+  }
+}

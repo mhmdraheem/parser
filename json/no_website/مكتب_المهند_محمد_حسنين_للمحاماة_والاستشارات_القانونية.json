@@ -1,0 +1,114 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Faris Almufti",
+        "isLocalGuide": true,
+        "numberOfReviews": 290,
+        "numberOfPhotos": 107,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ8hLVlV6P0H7KaXnuAYYf6Er0jyxNLIvVtTgqCDbOHthlxaw=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/108988708856502329731/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب المهند للمحاماة ،\nممتاز جدا ومتعاون ومتفاني ومتابع للقضايا ولا يورطك مثل بعض المحامين اللي ما يحضر الجلسات. …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Bacswag Roblox",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjW9DluwjtBdHPThJEh-HVpiiseWS0hP8TBY1R9xbbOsstwMA6u1=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117922410383378338598/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1",
+        "text": "bad"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Dhidan m Alosimi",
+        "isLocalGuide": true,
+        "numberOfReviews": 19,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUTceaJuhQqEeGfEy4cHc3Q1Awz6xLuiVMKjkZcoRHIW47ia3cgAQ=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/113679506841096119642/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "خبره قانونية رائعه"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ahmad Z",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXY89wvxngjXhridfNF-SsGnH-IxkLcWdA9sFjOLjSy631af94=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114848688506289535922/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "المحامي ايمن العتيبي",
+        "numberOfReviews": 4,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKp2ly0LsQyQKa3e4KttSTRdckeTuNBcgy2ezzTdxRLzoOsUQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114059161050423511702/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المهند محمد حسنين للمحاماة والاستشارات القانونية",
+    "starRating": "4.2",
+    "totalReviews": "5",
+    "_location": "عمارة درة الفردوس, شارع عثمان بن عفان، حي النزهة, الدمام 32251، المملكة العربية السعودية",
+    "phone": "+966 50 444 3116"
+  }
+}

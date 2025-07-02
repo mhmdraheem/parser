@@ -1,0 +1,90 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Abdullah",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXiEs0IGsBnxRKJyyg-bjjrMqAUn4GrXzy40roLEmsFi3bqiLs=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102557969924659281232/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "سلمان عسيري",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVneSpORwUNcTxLvJiAlo5sfNwpIudwMn-te3NZVBCO49vsl2k=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103157992659985517534/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي متمكن جدا",
+        "response": "ربي يسعدك في الخدمة دائماً"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ali Asiry",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIvuOC5YGndoLZcp8_ILn87o2XHBl1L64uX38zvsyA02gLl9w=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109803382674570247359/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي متمكن ومتميز ومن أفضل المحامين بالشرقية",
+        "response": "الله يسعدك في خدمتكم"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "mohammed hassan",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKDOBPSyutjWvCij8bpW6MydYs_Pz2_UR02H0DmkYEEd9gfWQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107854798330410912151/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي عبدالله المرحاني",
+    "starRating": "5.0",
+    "totalReviews": "4",
+    "_location": "2095 شارع عثمان بن عفان، حي النزهة، EDMB7367، 7367، الدمام 32252، المملكة العربية السعودية"
+  }
+}

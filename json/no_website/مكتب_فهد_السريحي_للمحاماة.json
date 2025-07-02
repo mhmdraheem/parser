@@ -1,0 +1,191 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "عبد العزيز خواجي",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLEcgoX2NEvgiGxmlqyaKb79urwAhCKTfyNesF5huaVFJ5kUA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100916142251505650740/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الله يوفقك أستاذ فهد ويبارك فيك ويشرح صدرك زي ماشرحت صدري من أفضل المحامي وأشطرهم"
+      },
+      "since": {
+        "unit": "month",
+        "value": 3,
+        "text": "قبل 3 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "mohamed rabie",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUd1hHvJsgTPJuNDgNgI-jI_qIB3pT9YWL27Q0x51F6deaUJdGJ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117704572937361525179/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "4",
+        "text": "Good"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ghadeer Alomari",
+        "numberOfReviews": 12,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVykxIdY85gJnFlxR6y6kNQo9RT-jiyfAID7E6YVUQKQzeuEBQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101548709503825465825/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "افضل رجل محامي على الاطلاق خدوم وصبور وبالة طويل مع عملائها شاكره له ومقدرة ⚖️♥️"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "mohammed Alshuhail",
+        "isLocalGuide": true,
+        "numberOfReviews": 129,
+        "numberOfPhotos": 28,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUfJjTNMInr7SQYx1Aj-xN2GnaTkgo-jHgvoGaiEIoYPUCPYOKUVA=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/108464166827048008673/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تم التعامل هذا المكتب. الرجل تعامله ممتاز ونصوح.\nالله يعطيك العافيه ويجزاك خير"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abo turki",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXWy-pO0pJIxqemUWV0p_tSB253kZw6HKxAL0RpARCvCabNKAw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102815184039662726073/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 8,
+        "text": "قبل 8 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "إبراهيم الشهري",
+        "isLocalGuide": true,
+        "numberOfReviews": 6,
+        "numberOfPhotos": 18,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVXGs0Yi-sgWi5hPcqiRuouC7lCmdXhTr890457mytdr-UvCbhi=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/116584422046423859454/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 8,
+        "text": "قبل 8 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد الزريق",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjW4WYzEmGUfqmsm2id4pu2Aqi0oZq4HoNhuI9kap7GKMO5CddLp=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101543838702278613549/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 8,
+        "text": "قبل 8 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Amazoz Al hazmi",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIs8GsVdsDGFBx4vWs7djftW2aaP3m3qV-1UNIqikTIIOnyvg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115705168206430814053/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 8,
+        "text": "قبل 8 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Turki A",
+        "isLocalGuide": true,
+        "numberOfReviews": 8,
+        "numberOfPhotos": 13,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIA8TX5AUul9cIdPUis2hYep4BUcaR1dNYkWRoD1nwTB6xqxA=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/107223489162484040475/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 8,
+        "text": "قبل 8 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب فهد السريحي للمحاماة",
+    "starRating": "4.9",
+    "totalReviews": "9",
+    "_location": "شارع الأمير منصور، الدمام ، حي محمد بن سعود،، الدمام 32241، الدمام 32273، المملكة العربية السعودية",
+    "phone": "+966 54 030 9600"
+  }
+}

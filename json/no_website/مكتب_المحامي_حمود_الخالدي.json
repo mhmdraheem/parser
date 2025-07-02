@@ -1,0 +1,220 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Sabooh Sabooh",
+        "isLocalGuide": true,
+        "numberOfReviews": 207,
+        "numberOfPhotos": 36,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJhJLSvzmi1uIJ6UNfqFfaWOb32e3xY6LzK3RPv9lK2pEcreQ=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/110363703925080484034/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Qualify lawyers,"
+      },
+      "since": {
+        "unit": "month",
+        "value": 10,
+        "text": "قبل 10 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "M RMRK",
+        "isLocalGuide": true,
+        "numberOfReviews": 70,
+        "numberOfPhotos": 7,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKu_c7ZhjDUvMTZKA1qDm5_e-GrWtoKBVzAAzWiiIHT2dhE1XM=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/118372257144872185048/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Washingtonian",
+        "numberOfReviews": 8,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXtf7yGVxUY6ByH8QtexSeY19xEfAlGQdSH_4q2pnVCZzwzVLc=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100082910204783354100/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3",
+        "text": "تم الاستشارة في قضية وكان الرد مبسط"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Lain",
+        "isLocalGuide": true,
+        "numberOfReviews": 90,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKP9YOB7YNom-qitirhSfOYGJFpo1HjcrpnMOmw4hR1tB-Z5w=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/112472485727791827204/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1",
+        "text": "بصراحة رأيي أنه لا يستحق"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "mohamedalshnawy",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVAjC54cK7NmhbFven6SzQT5_oOUUbtbLldRPZKiH-fB3zqorfK=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110295861916503668196/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ممكن اعرف مواعيد العمل ف رمضان"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "سعود العميري",
+        "isLocalGuide": true,
+        "numberOfReviews": 43,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXLUWLCDaOC9VHPg-E4W6_DVJo9dIb7sAe_TNRV2utwlwBL8tQ4=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/107988373092127356236/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي ممتاز"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "adel aldossary",
+        "isLocalGuide": true,
+        "numberOfReviews": 232,
+        "numberOfPhotos": 270,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVmrA4EW7K8ZRkTyGfCRUho6nA6hyeHdACP6Uo_p1c3vLc0fgLI=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/102278782804390066946/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "خالد الشهري",
+        "isLocalGuide": true,
+        "numberOfReviews": 39,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXSDm1ARFrz67OpYRLavw_SaelkubVRqhnv5u0x9trJ_XCZXp6X=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/111918821581749288620/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mo Alk",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJlLrUtdnBGfwpqMcCHEXkcwVUXleWpk-15ebNDytpNM2RiFw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113734477747959815411/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب جميل، ومعاملة المحامي جدا رائعة"
+      },
+      "since": {
+        "unit": "year",
+        "value": 6,
+        "text": "قبل 6 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ab a",
+        "numberOfReviews": 6,
+        "numberOfPhotos": 24,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKJoKJglufVeM0EcVOHzUKAXOLVb8E2yd9ZcKrXgW7_1CPz1w=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110986414119832207120/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "معاملة جيدة"
+      },
+      "since": {
+        "unit": "year",
+        "value": 6,
+        "text": "قبل 6 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي حمود الخالدي",
+    "starRating": "4.4",
+    "totalReviews": "10",
+    "_location": "العمامرة، الدمام 32415، المملكة العربية السعودية",
+    "phone": "+966 13 832 6297"
+  }
+}

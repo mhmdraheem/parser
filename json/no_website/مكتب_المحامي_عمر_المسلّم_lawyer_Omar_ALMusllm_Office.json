@@ -1,0 +1,422 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "ثامر البدران",
+        "isLocalGuide": true,
+        "numberOfReviews": 2,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUJwkgpDWBIilq712CRyN74kVuYQ0O0YsBvyS3-TrhxZa7dFNEl=w54-h54-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/115886371478158565548/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "4"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Hazem Sa3d",
+        "isLocalGuide": true,
+        "numberOfReviews": 8,
+        "numberOfPhotos": 20,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXbPZgokd9yP4QdiKxgb0vSMnFaH_R1sTqAJICFqp2EVp9MzJM=w54-h54-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/115564099197450798818/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1"
+      },
+      "since": {
+        "unit": "month",
+        "value": 4,
+        "text": "قبل 4 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohammed Aftab",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVsDWg9lfH7kopJJW69p6QO-vwqFc0Bhl-bQYlNLpqVc-ENKpI4=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100969775314551771421/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "This is the right plese i was scammd and the kawyer helped me get my mony\nGreat experience and good service\nThank you so much"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "maha",
+        "numberOfReviews": 5,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJEUjYTNosSvj5n8XViorWzLjNEhTy-QlSE3Ds3b3btg2FT7A=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114487933254493631660/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ماشاء الله المحامي عمر من خيرة المحامين خُلقاً وعلماً الله يبارك وينفع بعلمك الواحد يطلع من عنده وهو فاهم ومتطمن ويعطي الاستشاره وقتها وحقها بالتفاصيل 🙏🏻 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 11,
+        "text": "قبل 11 شهرًا"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Fatimah Alsubiei",
+        "isLocalGuide": true,
+        "numberOfReviews": 16,
+        "numberOfPhotos": 6,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJOaWiFjWrvzIx7EGDSJmPspG7DLzZVusWkTQcUOQtV10WryA=w54-h54-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/109776971138363357733/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مسك قضيتي مع شركة حرامية سبق وعملت  معهم من الألف الى الياء وطلع الفلوس من عينهم أشكره جدًا وأنصحكم فيه 🙏🏻 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 11,
+        "text": "قبل 11 شهرًا"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abeer S",
+        "numberOfReviews": 6,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK8P1gBoGdn6J-e2Dolr_I1ZwuIQeg-FkSIubBZOxCzCIzqtQ=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108994742154924545788/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "كان لي شرف اللقاء بالمحامي عمر المسلم تمكن و ثقه و رقي       إجاباته مفصله و شافيه تنم عن علم و معرفه. بالتوفيق"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "haya aldossary",
+        "numberOfReviews": 8,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIO2gvp656QeSU5qknI6rPvhLgHTMzZRYRo6wyOsb1TdRVKuQ=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116911517472185206033/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "شخص راقي ونـاصح و أمين  .. اشكره على تعاونه وللاستماعه لي  مستمع جيد اخذت اكثر من ساعتين  .. أنـصح به\nاسأل الله أن يوفقــه لما يحـب  ويـرضـى"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "طارق الشهري",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIj8s-0P1TEiI2XSoeAxS_jaUht1fMKooeYJXHZK2EZhksqYw=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100864738852354767142/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "كانت استشارتي تخص بنود عقدي الوظيفي كان الموضوع كبير و متشعب بس صراحه محامي متمكن فتح عيوني على نقاط و مماسك قانونية تسهم وتصب في مصلحتي"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "dove",
+        "isLocalGuide": true,
+        "numberOfReviews": 62,
+        "numberOfPhotos": 33,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIBS58keucujWSLH0QmoE2A4CknH1nnoxlU_lJ-bppIGv4ezA=w54-h54-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/106393093423830986436/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "كانت استشارتي في مجال الأحوال الشخصية مع المحامي عمر المسلّم، الله يفتح عليه شرح ووضح كل شي من جميع الجوانب، ومستمع ممتاز جدا ويتقبل الاستفسارات بكل رحابة صدر، جزاه ربي الجنه ووالديه ونفع به وبعلمه"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالباقي المسلم",
+        "numberOfReviews": 8,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ_eZIkhHYu1QrLOqaVI6pPwMPmy-nqYprgHXX3R1OLbMRFFA=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111724715046042853588/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي متمكن ورائع\nبالتوفيق"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "تاريخ التعديل: قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "As Sa",
+        "numberOfReviews": 7,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJLkKUtsJgiNmbnKZrBKh3aXIh-Vuo_0GeT9JmMydFpBWdEXA=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117660519004791308982/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب متميز"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "اشواق العبدالله",
+        "isLocalGuide": true,
+        "numberOfReviews": 123,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjX78E-dhtFi3UH27i2NxzNvZYzvJwZUFcTmpsViq8Ur57uYobc=w54-h54-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/109957888583395533826/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "متنوع الاصناف ومتنوع الاسعار"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "kmilo106",
+        "isLocalGuide": true,
+        "numberOfReviews": 8,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXOzUQhLuu4xY1dQtnaLSp3kvqtKVMEgaRxRITSKq1CVeYKyTFd=w54-h54-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/115451146881490187482/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "4",
+        "text": "Good experience."
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "H Fhgg",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJhysARWnvCki-eWZSAW05i7HtpUfcsC8m9292RAFsuz7DRKg=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117420593344874757011/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تعامل ممتاز"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Amira A",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKNWy3U_ihOmS9YR000OZ_oUupyMLik6YpDaJjmJB6av8lc=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114277975664865148973/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "huda kaeam",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJpMh26R_9-2gVht52vICrwlUKgDNb5QzdysVWgB9_guBm2vw=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102643214780518036472/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "نجاه محمد",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKA4epdscH8Rtu3aiAPHmToPDMFhyp8UHxldrOBUVMFHV_7mw=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100313952557730582143/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من المهنين المخلصين للمهنة ولخدمة مهنة المحاماة جداا متعاون وثري جدا بمعلوماتت الله يجزه كل خير ويوفقه"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Arwa Ahmed",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ05Aybp0BxIihgmfs5DoxP9oQC_6oOhf3vCvw02mapun37Hw=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107618346978315083474/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تفاني وإخلاص و إبداع في العمل\nما قدمته لي لا تكفيه عبارات الشكر والعرفان\nنفع الله بك و بعلمك و زادك رفعة …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Shiju Babu",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLg0-0tFQLgmeRhgQtDT6zWcvQQ1B6u0dDUC5dt9ei0kkMgkMX-=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104712759824177729145/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "4"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "MUSTAQ ALI99",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJYiHq6i4pi6P8jKxbiabOJUIH3Crc5FuQWtlqWXcU0mAK1rQ=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117011189603228670571/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Thank for meetings us"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي عمر المسلّم lawyer Omar ALMusllm Office",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D8%B9%D9%85%D8%B1+%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%91%D9%85+lawyer+Omar+ALMusllm+Office%E2%80%AD/data=!4m7!3m6!1s0x3e49fb69bfd41f1f:0xbf56e14eeece717c!8m2!3d26.4111989!4d50.064486!16s%2Fg%2F11j4f3k74f!19sChIJHx_Uv2n7ST4RfHHO7k7hVr8?authuser=0&hl=ar&rclk=1",
+    "starRating": "4.7",
+    "totalReviews": "20",
+    "_location": "طريق الظهران الجبيل الفرعي, مدينة، الدمام 32261، المملكة العربية السعودية",
+    "website": "https://x.com/omar_almusllm?s=21&t=vC9DOl-4CLqS8ZbZaU8TvA",
+    "booking": "https://api.whatsapp.com/send?phone=966553133073",
+    "phone": "+966 50 530 8839"
+  }
+}

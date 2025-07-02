@@ -1,0 +1,116 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "noman hashem",
+        "isLocalGuide": true,
+        "numberOfReviews": 343,
+        "numberOfPhotos": 13,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXUkh39E62bLxoi33qczuRw08tPh_MCgJgx0duEIx8heJD2cG5F=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/103669790630431770377/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "أناس موثوق بهم واصحاب علم  يمكن الاستفادة والاستأناس بمشورتهم في مواضيع الحقوق\nوحيث انه يقال الدراهم مراهم والاصح العلم هو الاهم من المراهم  وهو النور  لمن اراد من اهل الخبرة والاختصاص"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Nader yousef",
+        "isLocalGuide": true,
+        "numberOfReviews": 1,
+        "numberOfPhotos": 5,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVMu8vOIwhDXUK_5_9CmgGnfz5u7LGgnOh-LhjTZondo5WaupQ=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/117397999101141661974/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "4"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Yousef 98",
+        "numberOfReviews": 10,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK4ZEibVlNyN9AF-8yhw6YRSiZtpYDycvQhCyFcluUXaIfn4g=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110813345803767797459/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "د/موسى الزهراني",
+        "isLocalGuide": true,
+        "numberOfReviews": 517,
+        "numberOfPhotos": 8,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWdOdQ22RAV8Oh_1x66HilQUzBSxhqPwOvFKIuptB88ZjxyECYW=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/113387095839465904631/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3",
+        "text": "جيدجدا"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "CR",
+        "isLocalGuide": true,
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJlKAnld7wqodtkoygvl3U7XlI6lie9qJkyduyTfPsaJgeGOog=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/105699910365117756123/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي ياسر المبارك للمحاماة والتوثيق",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D9%8A%D8%A7%D8%B3%D8%B1+%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%83+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9+%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%AB%D9%8A%D9%82%E2%80%AD/data=!4m7!3m6!1s0x3e49e55423e957bd:0x6ae749143e4e173a!8m2!3d26.3919923!4d50.104623!16s%2Fg%2F11tfg1l941!19sChIJvVfpI1TlST4ROhdOPhRJ52o?authuser=0&hl=ar&rclk=1",
+    "starRating": "4.4",
+    "totalReviews": "5",
+    "_location": "94R3+QRX، شارع عثمان بن عفان، النزهة، الدمام 32251، المملكة العربية السعودية",
+    "phone": "+966 50 315 6315"
+  }
+}

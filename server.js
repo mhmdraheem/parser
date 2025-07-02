@@ -29,14 +29,14 @@ app.get("/get-json-files", (req, res) => {
     });
 
     // filter by min reviews
-    const minReviews = 50;
+    const minReviews = req.query["minReviews"];
     jsonFiles = jsonFiles.filter((file) => {
       const data = readFile(file);
       return data.reviews.length >= minReviews;
     });
 
     // filter by min rating
-    const minRating = 4.5;
+    const minRating = req.query["minRating"];
     jsonFiles = jsonFiles.filter((file) => {
       const data = readFile(file);
       return convertToEnglish(data.business.starRating) >= minRating;
@@ -46,7 +46,6 @@ app.get("/get-json-files", (req, res) => {
       const data = readFile(file);
       return { file, name: file.concat(`[${data.business.starRating} ${data.business.totalReviews}]`) };
     });
-
     res.json(response);
   });
 });

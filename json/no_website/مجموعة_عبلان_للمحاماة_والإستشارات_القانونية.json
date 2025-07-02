@@ -1,0 +1,253 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "ابراهيم عبدالله بس",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ3dkkqYSvHMYU7MyoGiDkDVLazWK8Qn5jwFETdd02AMqtLQw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112585079443855820674/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبود الزهراني",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK6idWor7qKkRTYeX7X5HkKZn3IO6GiH_r99k00mKYHJoCu-A=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113986246239324236868/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "mohammed ameen",
+        "isLocalGuide": true,
+        "numberOfReviews": 51,
+        "numberOfPhotos": 14,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWLLfncMrY_vBEpn4THkfl1bGog0vRXki1Peh5qYws5V--x1qg=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/117679350654117357841/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب قانوني رائع بالتعامل والامانه والأخلاق مبني على الصدق\nوالجدية\nأتمنى لهم التوفيق والنجاح"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "منى",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLYFbzS1SAgSlbJ4wNXUyI_vC8KkqWHvpcamxJJA0zvHJt4eg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106751225795161801880/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 7,
+        "text": "قبل 7 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "تركي البارقي",
+        "numberOfReviews": 10,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJXch4Nle1blGlPuFGV04f6J9YUgcq00azfw-G7BHtZ9g3Arg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108358868940819866796/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 10,
+        "text": "قبل 10 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد ال ناصر",
+        "numberOfReviews": 11,
+        "numberOfPhotos": 9,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJUlRiUJlibhO8qW3JOG1rUUL9tAO5lc6JDLEztWwpKTGyeHw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104029830793337430170/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من خيرة المحامين وفقه الله لما يحبه ويرضى"
+      },
+      "since": {
+        "unit": "month",
+        "value": 10,
+        "text": "قبل 10 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "FAHAD AL.DOSSARI",
+        "isLocalGuide": true,
+        "numberOfReviews": 641,
+        "numberOfPhotos": 537,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjX8WH-VTehE_7UbJtQyCU5calY0RJQQ_0TcCvipxX7qYNLRCywu=w45-h45-p-rp-mo-ba6-br100",
+        "link": "https://www.google.com/maps/contrib/102853267953830643719/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ممتاز جدا ما شاء الله تبارك الرحمن الله يجزاك خير أبو فالح"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "م 1",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJzrN2Vuk4jdYDEhcUsELoH4loAgOuph8oYiTondFOTegou2A=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108952345727758151976/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "منتاز جدا جدا وكفو"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد بن الشرع العمور",
+        "isLocalGuide": true,
+        "numberOfReviews": 149,
+        "numberOfPhotos": 843,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUQJ2ZAN5WLGYaxCaJM6J-a3GQ0RcCNL5h6RaWyhFJ-dE2ICXhR=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/113420972675231056737/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "زعيم القارات",
+        "numberOfReviews": 9,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL6MDF_s0ZcFiec5gDaDq4IayC_WxSAsjQJbW82YFFjyvL66Q=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110296072105431212014/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "4",
+        "text": "ممتاز"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ali. K99",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUg5J7QHkYM_pctPvCtkVtMjyLbsSdoiDiOLr67gYZwRrUfW0Y=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100354172267482826502/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "B",
+        "isLocalGuide": true,
+        "numberOfReviews": 12,
+        "numberOfPhotos": 29,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLWUc5P_RULF2niYNLsMXjbgxch8tVULfMFmmb2Tei68lUCDt4=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/113612761969457050153/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مجموعة عبلان للمحاماة والإستشارات القانونية",
+    "link": "https://www.google.com/maps/place/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%B9%D8%A8%D9%84%D8%A7%D9%86+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9+%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x3e49fdcaa43fb9f1:0xb30d4772177d8ef6!8m2!3d26.4113703!4d50.0645351!16s%2Fg%2F11p080cfx4!19sChIJ8bk_pMr9ST4R9o59F3JHDbM?authuser=0&hl=ar&rclk=1",
+    "starRating": "4.9",
+    "totalReviews": "12",
+    "_location": "طريق الظهران الجبيل السريع، الضباب، الدمام 32255، المملكة العربية السعودية",
+    "website": "https://ablanlawfirm.com/",
+    "phone": "+966 50 592 0621"
+  }
+}

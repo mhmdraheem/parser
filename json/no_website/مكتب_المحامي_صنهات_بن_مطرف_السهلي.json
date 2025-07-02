@@ -1,0 +1,158 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "المستشار",
+        "numberOfReviews": 15,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIx3ucsztv0mKtBa_PZndqivETJQ94qWOSysP8PWvdnyt2a3A=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115215613083009389602/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "موحامي متمكن حاصل على درجه الدكتوراه واجره معقول واسلوبه راقي وساعدني في حل قضيتي الله يجزاه الف خير"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "تاريخ التعديل: قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Latefa Almutiri",
+        "isLocalGuide": true,
+        "numberOfReviews": 23,
+        "numberOfPhotos": 37,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKXy479FB3ycZ_WmwPwMnggDthuC-amLVXIBRCuUB7JUpFA=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/114229878266161969646/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "خدمة فايف ستار استاذ صنهات راقي وحسن تعامل فوق المدح"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "اركد فديتك",
+        "isLocalGuide": true,
+        "numberOfReviews": 1,
+        "numberOfPhotos": 7,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUqpgcCxEQmeVo7B57pBbQ5g8mOrsTzE8D4P5IKX0iNUsgXHrlA=w45-h45-p-rp-mo-ba6-br100",
+        "link": "https://www.google.com/maps/contrib/115408629779985329298/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "طمطم سعود",
+        "numberOfReviews": 8,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJvRxunpOKtCV1k6-R2_NkNC9qiT6KZxWOE9WrwMPB17rtrJA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104081392154345297912/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ناصر آل زايد",
+        "numberOfReviews": 2,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLger2p-7FGWoOdFEhl3w5_TEm6Lyt5yE0pMWuQdnj1Lyieag=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112495433928812660995/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "E A",
+        "isLocalGuide": true,
+        "numberOfReviews": 102,
+        "numberOfPhotos": 22,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLnaRrPgrutffZp_3kZ1dyUAGHzddRnQ7RSPE6b8rBUC0qAhw=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/116562640492853436964/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "افضل محامي في السعودية مع احترامي للبقية"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد الكليب",
+        "numberOfReviews": 6,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLLbmw9CJUOH8B0R5J9_Ulrb68ZMR8T2MJz7ETKN5yO4RGe3v5u=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104499811297691109828/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي صنهات بن مطرف السهلي",
+    "starRating": "4.4",
+    "totalReviews": "7",
+    "_location": "4545 شارع الملك سعود بن عبدالعزيز، المزروعية، الدمام 32414، المملكة العربية السعودية",
+    "phone": "+966 50 584 4488"
+  }
+}

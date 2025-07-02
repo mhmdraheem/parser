@@ -1,0 +1,113 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "معاذ' M1",
+        "isLocalGuide": true,
+        "numberOfReviews": 189,
+        "numberOfPhotos": 672,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUWynk2BNrwPDRvcD0UjKqre06XFZojPedXWvrz0KgtwhG2Mmg=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/116605396475106183937/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "بالتوفيق يارب"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "S.A.H",
+        "isLocalGuide": true,
+        "numberOfReviews": 1,
+        "numberOfPhotos": 294,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLPQGmSBLMZn-AOpw2xXyz3TTiCKPoVfH0RG_FK5O4q0timPw=w45-h45-p-rp-mo-ba8-br100",
+        "link": "https://www.google.com/maps/contrib/117476300770523210630/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "👍 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "abudullah fahad",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU2GQNjRXpjiB__46yrRdNMfURgim76fXQpVGhlQ7aOQ64DNXOx=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104584938560878678858/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 10,
+        "text": "قبل 10 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ahmed Hamdy",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWAYBqTOP0wSsp-s-O13UMYxyP7jXUBXMqOs9cKdJQx3U3QveM=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101580630537101484413/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Algad7001",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJkKRTIvogDmsqsXnh3TssilwzW3TN3cpePzh2cEZuhIcQp=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104606328221892581408/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي زياد عبداللطيف الحملي",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D8%B2%D9%8A%D8%A7%D8%AF+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D8%B7%D9%8A%D9%81+%D8%A7%D9%84%D8%AD%D9%85%D9%84%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x3e49fb19a7817047:0x4708e152838a9b82!8m2!3d26.4048128!4d50.1020671!16s%2Fg%2F11pydl2_5n!19sChIJR3CBpxn7ST4RgpuKg1LhCEc?authuser=0&hl=ar&rclk=1",
+    "starRating": "5.0",
+    "totalReviews": "5",
+    "_location": "شارع عثمان بن عفان, حي الريان، الدمام 32256، المملكة العربية السعودية",
+    "website": "https://eservice.sba.gov.sa/directory/124587",
+    "phone": "+966 13 840 6333"
+  }
+}

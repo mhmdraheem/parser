@@ -22,6 +22,8 @@
     <script>
       window.onload = async function () {
         const fileNames = await fetchJsonFileNames();
+        console.log(fileNames);
+
         if (fileNames.length > 0) {
           createLinks(fileNames);
         } else {
@@ -31,7 +33,7 @@
 
       async function fetchJsonFileNames() {
         try {
-          const response = await fetch("/get-json-files");
+          const response = await fetch("/get-json-files?minReviews=0&minRating=0");
           if (!response.ok) {
             throw new Error("Failed to fetch JSON file names", response);
           }

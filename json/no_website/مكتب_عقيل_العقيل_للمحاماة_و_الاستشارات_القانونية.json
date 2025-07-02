@@ -1,0 +1,502 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Muhannad Aldawas",
+        "numberOfReviews": 10,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ3rSfTAno91ZiY46mo6ptLhSVOkz_KapzUoYcRc7EMsYrc8w=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110829096086038614123/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي متمكن نتمنى لك مستقبل ملي بالنجاحات"
+      },
+      "since": {
+        "unit": "month",
+        "value": 3,
+        "text": "قبل 3 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالله الدواس",
+        "isLocalGuide": true,
+        "numberOfReviews": 24,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLWMBGQ9acKRqq-euz8kkQEivPEf78VESyNAdQ8Ec75_ODjDA=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/108291697391421874608/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اشكر الاستاذ عقيل العقيل على حسن التعامل والاستقبال ... محامي متمكن  اسأل الله له التوفيق والسداد"
+      },
+      "since": {
+        "unit": "month",
+        "value": 3,
+        "text": "قبل 3 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "راشد العمرو",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL_07yy9Q8oC0P0838QMQTYmdY2jLy901YSEeYuIpDXSIGFNw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116532215530346782484/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "نشكر المحامي عقيل على التعاون وانجاز الاعمال على الوجه القانوني والنظامي ."
+      },
+      "since": {
+        "unit": "month",
+        "value": 4,
+        "text": "قبل 4 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Majed99 Abdullah",
+        "isLocalGuide": true,
+        "numberOfReviews": 51,
+        "numberOfPhotos": 184,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVkJyT-bZ7Ni95DpBRCeCZRFjZbxFJmRL3Gf_c0x0bLoc-OrFFh=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/117867122803080837709/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "للعدالة رجال تنصف و ترسي الحق لصاحبه\nهذه قليلة في حق المحامي المميز عقيل العقيل\nانصح به و بقوة و فالكم التوفيق دوماً"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Maryam Mohammed",
+        "numberOfReviews": 8,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXoib1Fe3Rb2VamhoKpOFPMR_jcSl2Vn2kl19CMK1XEOh18CD8q=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112473102193054548420/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي مميز ، ونشكره على صدقه و امانته بتقديم الاستشارة و المرافعة بقضيتنا ، نتمنى لك التوفيق استاذ عقيل و فريق عملك المميز"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "أبُـو سَلـمان",
+        "isLocalGuide": true,
+        "numberOfReviews": 313,
+        "numberOfPhotos": 27,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU6BiAvoGRRvX5fsHEhNqBeMpUVM3766X7jxacxqyF_sBUy93WB=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/116749879965624088534/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الله يوفقك يا استاذ عقيل تستاهل كل خير\nرجل مخلص ومتفاني وأمين ."
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Meshari Algharb",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJupFZko_XipqH8PfFepUcVGyRKH90ULDVrT8r_4EVEUMn_2A=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111448220670363562215/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "رجل متعاون و واضح ومتمرس\nانصح فيه لخبرته كل الشكر للمحامي عقيل🌹 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mnera X",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXjCHwLbpEooW1rBPrrEDohnIIzjgg4AKIXjcClFmCuxYMPF3k=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108524469579859916642/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "فعلاً تحت محل ثقة وخبره وكفاءة عالية"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Waleed Saleh",
+        "numberOfReviews": 7,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLWJ7wiPzQGzycZhs68CpYbMY2WxX8eZiGsQtPwEfYg_P0f4XII=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109912930226271410264/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اشكر الاستاذ المحامي عقيل العقيل ... على حسن التعامل والاستقبال ... محامي متمكن من عمله ... اسأل الله له التوفيق والسداد"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Noof Mohamad",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLjmzmVbpczduPj7G6wKPeCWUvgPOrOJDIatQSttHyHwwUoSQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108810270703959253554/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "حمد المسيب",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKxHt9lgQGuq7yWeBZ9b5q3UPKPWmp3Qf8GJUyLODTqs7uOUg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102311792403911909190/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب عقيل العقيل للمحاماة والاستشارات القانونية\n\nالاستاذ عقيل العقيل محامي ممتاز والرجل ناصح وثقه …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Aljohrah AL",
+        "numberOfReviews": 1,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLx-vDxKUvSVuIqr_NFSAKVX2dkh8dFaUJxQvZA8FAl-3EAiQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108136303198974419256/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اخذنا استشاره عنده وبصراحة بعد التخبط اللي كنا فيه اوجد حلها في سطر واحد .\nبعدها طلبت منه  ان يكتب لي مذكرة دفاع وكانت الدعوى  تعويض مالي  ولا يخفى عليكم مابعد الحكم فيها التكاليف القضائيه لكن بفضل الله ثم اخونا المحامي عقيل تم الحكم …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdulrhman M",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJCuGgh7pk8WeOqaIvWVU2fNiHPXiae9dEYlhIqxMsG07BYYA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113934569331529274637/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdulaziz Alaqil",
+        "numberOfReviews": 7,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWyD-w7auoTwNwpOrb_YrFXJfwy4zx-2tB1zMPZFMK6wwNqku2Z=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115120240438557670646/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "yasser nasser",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJuZ_aq6O0WxIV75U9H4W1sOJb9ssTPF_WZKSioHOgmestT-A=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105508104390904410162/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "في يدي بطل العدالة المحامي عقيل يتجلى القانون، فهو رائد في استخدام الكلمات لصون حقوق عملائه"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ahmed ahmed",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKm70P6saN1c-MYIxHxPpbDPcy-k72MZcjYgwLHQB6RkPcFBA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114693701715247421096/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اشكر المحامي الفاضل عقيل  العقيل سرعة انجار وخلق رفيع وفقه الله"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "دلال المدني",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9YEK2EpG6mMjQcJ5JU2APdBFjUtJOVTsu-e9mNhFglE0IZB4=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114178203641241829937/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "المحامي‬⁩ الناجح المتمكن  والمستمر في تطوير  ذاته\nمبدع في كتابه المذكرات واللوائح والعقود بلغة صحيحة سليمة ومقنعة.\nصاحب فضل علي شخصياً الله يوفقك استاذ عقيل ويرزقك من حيث لاتحتسب و سدد الله خطاك في نصره المظلوم"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "fahad S",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIxNB6crKiGDz36dDufMZyOTu1ANlMPVEBYDZcnWBmQ0_2CGg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113211380161802734723/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مجهودكم تشكرون عليه .. 🌹🌹🌹🌹🌹 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Jawaher Aseeri",
+        "numberOfReviews": 11,
+        "numberOfPhotos": 6,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJhbYZtsw736UxuauuH_qtubdVQIBHiqgU16LiJ3N63E2_EUQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111710915424817283795/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مشاءالله المحامي رائع"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Waleed Alahmadi",
+        "numberOfReviews": 4,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLjJSkTtfsB6MAdbmIBAuTQcB7Vmu7Fi743UqGQ646iImHwYA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105302455919026726460/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي متمكن الله يوفقة ويستاهل كل خير"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdulelah Alshehri",
+        "numberOfReviews": 5,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjULh2H5p5Ly7eSChepXGbBI8V1v8S9MQPJ-SRdkmKT5orXFxlXy=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/118065031091737926235/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامينا المحترم عقيل يلعب دور حاسم في تحقيق العدالة وتمثيل العميل في النظام القضائي خير تمثيل، ويسعى لإصلاح الخطأ وارساء حقوق المظلومين، يصون حقوق عملائه وهو شريك للعدالة يدافع عن ضعفاء المجتمع وصنع التغيير، لبق ويملك فن التحدث والخطابة"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Rawyh Yousif",
+        "numberOfReviews": 8,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI64xBq9rmf2lNOquNuUwtqkwJ9o6Hvdz5ovSMKWdgxWjnb6Q=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100685872524940673001/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي متمكن وشاطر بالتوفيق يارب"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "علي العلياني",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXOjxKSQTGJBeRTeR-cHYP1swrH-GzSAzeriOqhIOT_uyfpXsA8=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110611023619597859484/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي متمكن . ونتمنى لك التوفيق"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohammed A.",
+        "numberOfReviews": 9,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUI8VJoD53fpzft8q30drKLYyA9zzyljoMsyehCEKRNB_72Nvs=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103729076444451073081/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "متمكن بتقديم بالرأي القانوني\nو بالقانون التجاري وانظمة الشركات"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب عقيل العقيل للمحاماة و الاستشارات القانونية",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%B9%D9%82%D9%8A%D9%84+%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D9%84+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9+%D9%88+%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x3e49fd6598e77aff:0xd17e5d4d13fb8f1d!8m2!3d26.4181105!4d50.0840734!16s%2Fg%2F11lzm9yh5s!19sChIJ_3rnmGX9ST4RHY_7E01dftE?authuser=0&hl=ar&rclk=1",
+    "starRating": "5.0",
+    "totalReviews": "24",
+    "_location": "طريق الملك فهد، الإتصالات، الدمام 31444، المملكة العربية السعودية",
+    "website": "http://www.aqeellf.com/",
+    "phone": "+966 56 480 0004"
+  }
+}

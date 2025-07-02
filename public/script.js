@@ -71,9 +71,31 @@ function displayHeader(business) {
 
   const businessInfo = document.getElementById("businessInfo");
   businessInfo.classList.add("visible");
-  businessInfo.querySelector(".business-name").textContent = businessName;
+
+  let businessNameElem = businessInfo.querySelector(".business-name");
+  businessNameElem.textContent = businessName;
+  businessNameElem.href = business.link;
+
   businessInfo.querySelector(".star-rating").textContent = starRating;
   businessInfo.querySelector(".total-reviews").textContent = `${totalReviews}`;
+
+  document.querySelector(".contact-info .location").textContent = business._location;
+  if (business.website) {
+    const website = document.querySelector(".contact-info .website");
+    website.textContent = "website: " + business.website;
+    website.href = business.website;
+  }
+
+  if (business.booking) {
+    const booking = document.querySelector(".contact-info .booking");
+    booking.textContent = "booking: " + business.booking;
+    booking.href = business.booking;
+  }
+
+  if (business.phone) {
+    const phone = document.querySelector(".contact-info .phone");
+    phone.textContent = "phone: " + business.phone;
+  }
 }
 
 // Function to create tabs for grouping reviews by date
@@ -85,9 +107,9 @@ function createTabs(reviews) {
   const tabKeys = Object.keys(groupedReviews).sort((a, b) => {
     if (a === "withinYear") return 1; // "Within a year" should be the rightmost tab
     if (b === "withinYear") return -1;
-    
+
     let numberA = a.match(/\d+/g)[0];
-    let numberB = b.match(/\d+/g)[0];    
+    let numberB = b.match(/\d+/g)[0];
     return numberB - numberA; // Sort year-based tabs in descending order
   });
 

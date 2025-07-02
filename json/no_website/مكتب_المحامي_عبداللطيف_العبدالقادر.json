@@ -1,0 +1,217 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "محمد ابو فيصل",
+        "isLocalGuide": true,
+        "numberOfReviews": 320,
+        "numberOfPhotos": 78,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJY3b93a8i_7EOmEZICBkjq3Yz8wzxJoGnb7DY7YPL2uiAcNg=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/105151513856041209250/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الله يوفقه"
+      },
+      "since": {
+        "unit": "month",
+        "value": 1,
+        "text": "قبل شهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "بدور المالكي",
+        "isLocalGuide": true,
+        "numberOfReviews": 171,
+        "numberOfPhotos": 468,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLpf9NJFvi5jFrH1NFv6NZRNVPWpREqOraHJSwo4ahx9mH7aA=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/105605915556185729470/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "تاريخ التعديل: قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdulrahman Hassan",
+        "isLocalGuide": true,
+        "numberOfReviews": 32,
+        "numberOfPhotos": 28,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIZnVm1r3KCGLaFJP1xwDD8k-30yB6RvTFrAg00Bg8BUQ2lc4U=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/114062126842122091774/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اسأل الله له التوفيق 🌹 …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "تاريخ التعديل: قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "المحامي محمد الاحمري",
+        "numberOfReviews": 6,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV6SjiCVvT0HYwhgzl3vYS3khZTgSjT6EztGt2Ptb_7iYl3oGj8=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115357886678873354988/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "hamad mohammad",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIMuEbkJ6mGNOXK2BsAi4D_RU65cVZUMrvtIB7sdjG0EjGhkQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107262405042322703578/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "نشكرك على حسن المعاملة و تتبعك للقضية التي كان لها الاثر في نجاحها ولك جزيل الشكر"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "رزان عبد اللطيف",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUHSoqAKt0klYlOpRX6QeGfe5wYXvMjRb82JlAroaoZ68HM9vMN=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100552020632004473903/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "طارق ابو شنب",
+        "numberOfReviews": 7,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUsu57CGKz_QITNzp5xfAUL-oaTT5zT933GoDPgIbvgO5yPDE-NMQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103569438126669014054/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي مهني بالدرجه الاولى وامين في تناوله مع العميل من بدايه القضيه حتي الانتهاء منها ويبذل جهده الكامل واللازم فيها."
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "noa m",
+        "isLocalGuide": true,
+        "numberOfReviews": 64,
+        "numberOfPhotos": 68,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJQtitg3wqqWjZM6lqx8AwfmEdPHVUDVl6GkwVJf_v2CIh2YA=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/105300776907974763362/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "انسان أمين وناصح، يسعى للصلح أولاً، واضح مع العميل من البداية إن كانت للقضية حلول أخرى أو خسرانة يبين للعميل وليس هدفه أخذ قضية من أجل الكسب المالي مهما كانت النتيجة، الله يكثر من أمثاله"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abu Hamad",
+        "numberOfReviews": 14,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJm64zaPI-tXW7VZ73xxaSQFIOYI8FCMt0Y3_Dw4oVIp8Mllw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111550642695085320801/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "رجل صادق وامين ويخاف الله في القضايا اللي يستلمها…. انصح بالتعامل معه بشدة."
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ahmed Abdullah",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL4B8Yy0HFBNvQTfLcZwPYKu4i_qI7Te5FtSqcODx4CcNXIDg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110055393918932553046/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "خبره واحترافيه وتعامل راقي جدا"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي عبداللطيف العبدالقادر",
+    "starRating": "5.0",
+    "totalReviews": "10",
+    "_location": "C36W+WHJ، شارع عثمان بن عفان، الريان، الدمام 32256، المملكة العربية السعودية",
+    "phone": "+966 50 381 9408"
+  }
+}

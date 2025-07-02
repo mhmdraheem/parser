@@ -1,0 +1,196 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Sh Almarri",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLMTE24oJ8T6rvbgspJl5fH2p6NUiia_UAQ2IJUDFKX4MFCNw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/118273457319235622531/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "4"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ADEL ABDULLAH",
+        "isLocalGuide": true,
+        "numberOfReviews": 243,
+        "numberOfPhotos": 168,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUz3btcrUfsDzP3NRfrPF1JhTKdk93AGQGeOxQxEPWzfGkidcfS=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/114842562843296723311/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الحساب مخترق تقريباً تاكدوا ياخوان  لا احد يحول مبلغ الا سلم واستلم عند مكتب المحامي وشكراً"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Jumana Alfaraj",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI3KTaYWew60GCZNk28yWVN8pwZnyKwDnb73m2tcxIVZivopA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100579315442858844273/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالعزيز بن علي",
+        "isLocalGuide": true,
+        "numberOfReviews": 73,
+        "numberOfPhotos": 304,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVWt-LloO7hAJTSpjLrZ0GQvVHbFu0P9vWjsklYPDaR-X9U-ps=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/103514330408949287977/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "مهند الغامدي",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLXkBhCW0MSRfUgDczno1etuf9ENLmChQDdif5ggqa1-4c0Og=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116581939985538872864/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Salim Omar",
+        "isLocalGuide": true,
+        "numberOfReviews": 1,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU7Ehx_BwUStXY67OpW3D5uH-ZMrrSW2wjrgWogMZ7Xny5XqcUq=w45-h45-p-rp-mo-ba7-br100",
+        "link": "https://www.google.com/maps/contrib/100428828479005750167/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكان راقي وحسن استقبال وتفاني بالعمل وسرعت استجابه للمراد من العمل."
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mt",
+        "isLocalGuide": true,
+        "numberOfReviews": 47,
+        "numberOfPhotos": 242,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJVS_ELAiBz0SEwNnfxa_hZZONr4tFXjgKYipv81FT4LmqlTQ=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/101131915656443312792/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "يوسف عبدالرحمن",
+        "isLocalGuide": true,
+        "numberOfReviews": 157,
+        "numberOfPhotos": 53,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUJVAXo_MtnH73Mx5FaQfp_lEE0bOhe6cQSRdVww5RJF9jwdjU=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/102568936031444769331/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "انصح باها"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالرحمن",
+        "isLocalGuide": true,
+        "numberOfReviews": 34,
+        "numberOfPhotos": 11,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJh9vkKyMJgCOl-7m4yYTx7Ix2E8H88YkynXsMqj2PxiErogto=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/110316271746734892642/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ممتاز الله يوفقكم ان شاء الله"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي خالد حامد الغامدي للمحاماة والاستشارات القانونيه والتحكيم",
+    "starRating": "3.6",
+    "totalReviews": "9",
+    "_location": "شارع الملك خالد، النخيل، الدمام 32244، المملكة العربية السعودية"
+  }
+}

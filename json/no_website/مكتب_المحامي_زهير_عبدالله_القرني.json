@@ -1,0 +1,153 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Jada1 Jada",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVk3RT_wcP6N-1qZU55oi4ooKn30G3YEuPSCEs40t_buqInmEmeOg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108880843496102482847/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1",
+        "text": "معامله سيئه جدا و لا يحترمون وعدهم للعميل"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "bader mustafa",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI_jg9_inwdO624D3-QQKxUZVky2gje_4jDd_kn2QMwdfpm_A=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111633184628502194235/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تعامل جيد"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "A",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLZ8cTO1VFVBAkqX1enNS7vDiqd46zAxij8B8Bw1eqQ24Ab1A=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104263217407716428978/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Tagrid Almansour",
+        "numberOfReviews": 2,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWgr-tXMk5qzjyOxJ3lzAAdi3PP3rZF3Ipx8wpyc4sAouiPQOU=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108295776016260441906/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "والله و النعم فيه ، ربي يجزاه خير على وقفته معاي"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Manal Alahmari",
+        "numberOfReviews": 21,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI9a1GtoEFBPxOfkMMwzkroxedv3Cwfx8svXAI9LEz0t_FUiQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115524336980162433879/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ranaalqarni",
+        "isLocalGuide": true,
+        "numberOfReviews": 28,
+        "numberOfPhotos": 37,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKEAoWHx5El-Ho78u3eQFhXoTcI5znQmwS2ufYPqBZfknv46fk=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/117969952772884679312/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 7,
+        "text": "قبل 7 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohammad",
+        "isLocalGuide": true,
+        "numberOfReviews": 31,
+        "numberOfPhotos": 146,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU6XRLtAK9fF_e3xebr3ONaxrzSkvAGIh9o8Wt16CkmKfU_88PN=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/103741020202511234254/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 7,
+        "text": "تاريخ التعديل: قبل 7 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي زهير عبدالله القرني",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D8%B2%D9%87%D9%8A%D8%B1+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87+%D8%A7%D9%84%D9%82%D8%B1%D9%86%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x3e49fc8fbed0b6cf:0x30bc32b5aecf633f!8m2!3d26.4214212!4d50.0891034!16s%2Fg%2F11g6cdv9c1!19sChIJz7bQvo_8ST4RP2PPrrUyvDA?authuser=0&hl=ar&rclk=1",
+    "starRating": "4.1",
+    "totalReviews": "7",
+    "_location": "15 عثمان بن عفان، البادية، الدمام 32243، المملكة العربية السعودية",
+    "phone": "+966 13 844 4050"
+  }
+}

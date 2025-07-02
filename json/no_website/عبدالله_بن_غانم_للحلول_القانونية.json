@@ -1,0 +1,488 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "محمد",
+        "numberOfReviews": 6,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLLlpOIpRc5ISE-91cYn0lZyoU3Tl6i-AavprzisSRFhv4_cw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117049784450783676502/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اتقدم بالشكر للمحامي   عبدالله بن غانم  على جهودة المتميزة وقدراته العالية متمنيا له التوفيق والنجاح."
+      },
+      "since": {
+        "unit": "month",
+        "value": 3,
+        "text": "قبل 3 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "احمد الزهراني",
+        "isLocalGuide": true,
+        "numberOfReviews": 62,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVLPORb30Dr2h9Z8YXhBd2kvFqFk5IBc5RBvAUJNUPZifRnluyj=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/105478291142062107569/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 3,
+        "text": "قبل 3 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "kH.",
+        "isLocalGuide": true,
+        "numberOfReviews": 10,
+        "numberOfPhotos": 27,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJo0qXu5Z_w0ZD41P6GUrgeci6S8wttgmqZntReP-MOY6xNspM=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/116683197099507127281/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ممتازه جدا ولو فيه أكثر من خمس نجوم عطيتهم الاستقبال طيب وصراحه تعامل راقي وأسلوب ممتاز ويوصلون لك المعلومه بشكل واضح يعطيهم الف عافيه على مجهودهم وتعبهم  واهتماهم مهما اتكلم مااقدر اعطيهم حقهم  انصح الجميع بالتعامل معاهم بصراحه جدا حريصين في أدق التفاصيل"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ن ن",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKvkf4pkWsRWbY72NVuBvvIh7oFx5ZPgYSEIO_b10dgBbyrMQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101693306227274821392/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "عندما تُوكلُ الأمور لأهلها ، نفخر بوطن أنجب محامي  من أكفى المحامين على مستوى رفيع من المهنية الأخلاقية والاحترافية مثل الأستاذ العظيم عبدالله بن غانم، تجربتي الأولى بالتعامل مع المحامين جعلها المحامي عبدالله  إيمانًا عميقًا وثقةً كبيرة بأن ثمةَ من يدافع عنك ويعتني بذلك بكل أمانة ورقيّ، كل الشكر والاحترام أقدّمه لمكتبكم ولشخصكم الكريم."
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "زياد خالد",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIlR7_kzEn9EWjlJwTkQlCTA2KRP7A7SMVxbD_4LIDUXR_HdTc=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112954264146767131971/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "استاذ عبدالله والله تعجز الكلمات والحرف عن وصف اخلاقه وحسن تعامله بالقضايا لقد تمكّن من حل قضيتي بشكل جميل ورائع اشكره على حسن تعامله وحسن اخلاقه"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "إبراهيم النعمي Alnemi media",
+        "isLocalGuide": true,
+        "numberOfReviews": 58,
+        "numberOfPhotos": 8,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXTG_4CQLIDeLeMbbZjq6aJSZaXny3bMulR9UAlXzkyLKSbCj8=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/107258096462623089967/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "أوُصيكم ونفسي بهذا المحامي الجهبذ المُخلص الأمين الأستاذ عبدالله بن غانم\n\nكان عندي قضية محكوم فيها ضديّ حُكم نهائي، وضاقت بي السُبُل، والنوم جافاني وأغلَق …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ahmed Mohammed",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKc2_ySxZ9rP7I3DvVOrMQTltQNBc4KRNValER1d4_92_mW5w=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117548683774565048821/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من افضل وأأمن المحامين. تعاملت معه في العديد من القضايا، وكان نعم المستشار و نعم الرجل."
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ammar Nasser",
+        "numberOfReviews": 10,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXfvFqm7PAllrNxTGXd8EG2DNEjO1PnDEJSgqjQ3yGjNEuU8-Om=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117634293901627726927/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي متمكن وخلوق اسأل الله له التوفيق والنجاح"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdul",
+        "numberOfReviews": 9,
+        "numberOfPhotos": 7,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUfoY-A2Dz9RI1-LYQTdoM8yUNBa5ebENJnsxaJqW1qe2kK2MO8=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107460377912973264203/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من أفضل المحامين صاحب خبره عاليه و تعامل راقي و حريص جداً على ان يكون العمل على اكمل وجه، عسى الله يوفقه ويجزاه خير"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالرحمن ناصر",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLnaHXxMIxfUjfJ5DEN_kbE5HIKq5WI8n8h5d4gehYEBFjc9A=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111460046757715179214/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من افضل المحاميين متعاون ويعلمك الخطوات بضبط الي تتخذها شكراً استاذ عبدلله"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عناد ياسر",
+        "numberOfReviews": 7,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIoiPxzxkuBuNQwwM-O3__1rmQXYVbD9SsznaCL63mI5e-LvA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117894421347249223912/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "عبدالله بن غانم تعاملت معاه كثير يرشدك على الطريق الصحيح رجل قانوني فاهم عمله ، استشرته في كذا شغله أفادني للامانة انصح بتعامل معاه",
+        "response": "ها واجبنا أ عناد وكل الشكر والتقدير لك"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "TVAN",
+        "numberOfReviews": 7,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXs_lijjGSP_4w4Uq_QEBdM_zQ4NcuJhx16IiEZuX_EGoOzmC9S=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101675548900621443113/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Got the best legal consultation with this office big thanks to Mr’ Abduallah."
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالله الغامدي",
+        "numberOfReviews": 8,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLFoYEEc3Ahw1ecEbOdwmtyTTHhVmoaC1YZ8L3cN3vze3MomQ8=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106617857131063894893/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "المحامي عبدالله غانم من افضل المحامين اللي قد تعاملت معهم صراحةً وصدقًا وأمانةً رجل واضح جدا وتعامله قمه في الاخلاق والاحترام"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohammad 8",
+        "numberOfReviews": 6,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjW8ZRWUa8R-_6wqJ3rIEwLmlQG6P5GmfKwV5Fp5kd30c9935io=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117269357355157097741/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من افضل المكاتب الي تعاملت معهم اسلوب راقي وخدمة تواصل مع العميل و تزويد العميل بكل تفاصيل اثناء سير القضية"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "موسى المطيري",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUsRrqjnVTKnLSfogTpLPq5yoo8Mzf9ZhgyMzYIYEBtStRSQ6Q=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106011920304528279129/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اشكر  المحامي عبدالله على حل القضيه يعطيه العافيه على الاستجابه"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبداللطيف المطيري",
+        "numberOfReviews": 3,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLxRVTXmrscjnjcde34Gy7zssxKxPdpE3uBfwsdCUkK7uWeEA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100316238776532467839/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الله يعطيه العافيه المحامي عبدالله غانم قمة فالاخلاق والاحترام الله يوفقه"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "F",
+        "numberOfReviews": 7,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLQCMlbIOup36aIVQyhv5rRNCzcIqg7gqZviuNpmTsqWWdB_wU=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115815427177501146455/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تعامل راقي"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Khaled Alfahd",
+        "isLocalGuide": true,
+        "numberOfReviews": 18,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKIaTJt13OtxZLRJVOVNBI-sOuijkzkVzlt6B3WXYGt8c9WLA=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/105247929497170907441/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تعامل راقي 👏🏻 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "MAJID7",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVFnffuah68F8MMdKHz2dMbmkYmHg2-LI_GOOKeBAWk9pHLsjujrw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115033079307761773096/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "قمه في الأخلاق والاحترام الاستاذ عبدالله بن غانم 💕 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdulkarim",
+        "numberOfReviews": 9,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIHAjQZLnpKmcaiMmTKjKbT7UWsp92GlcXKfVGm2QsGAEIAue55=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116765995607280350221/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ونعم الرجال المحامي عبدالله بن غانم ومن اشطر المحامين شهادة حق\nتدربت عنده تدريب تعاوني وكانت من احلى الايام وسريع جداً ولسان لبق ومحترم"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "‪Sulaiman Mokha / Sam Mokha (S4MOKA)‬‏",
+        "numberOfReviews": 12,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWhbIk_D7DJD3P3TrtK1eaid3mk6qPQtGzdEjBbWMizyne-Dxiz=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107273288256703573473/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Very professional and helpful."
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Tariq Al Ziyad",
+        "numberOfReviews": 11,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJy0g7k1zr95V9_E4yaQVZD7GTslLnQOj0w-Iu6d9tv4Bcbu_o=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107848598851954592407/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي متكمن جدًا ما شاء الله والعمل معه واضح والرد سريييع.\n\nانصح بالتعامل معه وبقوة …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "هزاع العنزي",
+        "numberOfReviews": 14,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ_UPH6T3t5sMT7yrQy6KJXA-83f951JjVFcHoPDwkGviVz6g=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104271074684585259628/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "استاذ عبد الله رجل بمعنى الكلمه اخلاق تعامل اسلوب صبور وكل شي جميل فيه الرجال مايتقيم بالكلام ولا يوفيه الكلام هذا اكبر من الكلام بكبره عيى الله يوفقه ويسعده 💙 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "عبدالله بن غانم للحلول القانونية",
+    "link": "https://www.google.com/maps/place/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87+%D8%A8%D9%86+%D8%BA%D8%A7%D9%86%D9%85+%D9%84%D9%84%D8%AD%D9%84%D9%88%D9%84+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x3e49e574ee6712c9:0xae8a056afe8b2c33!8m2!3d26.4110917!4d50.0648393!16s%2Fg%2F11wtgh4dn8!19sChIJyRJn7nTlST4RMyyL_moFiq4?authuser=0&hl=ar&rclk=1",
+    "starRating": "5.0",
+    "totalReviews": "23",
+    "_location": "حي، طريق الظهران الجبيل الفرعي، الضباب، الدمام 32261، المملكة العربية السعودية",
+    "website": "https://www.alghanemlaw.com/",
+    "phone": "+966 55 086 7679"
+  }
+}

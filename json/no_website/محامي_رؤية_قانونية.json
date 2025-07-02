@@ -1,0 +1,30 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "lawyers group",
+        "numberOfPhotos": 10,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU_9eqlmbohvDgxGta8bOVQ7SDyVPJt8BmUhQFn8hgI-wTnt-A=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111311452590007222896/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "محامي رؤية قانونية",
+    "starRating": "5.0",
+    "totalReviews": "1",
+    "_location": "C4V8+4WR, 1 St, العمامرة، الدمام 32415، المملكة العربية السعودية",
+    "phone": "+966 53 135 9995"
+  }
+}

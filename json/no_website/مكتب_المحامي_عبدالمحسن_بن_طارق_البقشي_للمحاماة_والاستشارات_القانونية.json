@@ -1,0 +1,116 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Ebrahim Albqshi",
+        "isLocalGuide": true,
+        "numberOfReviews": 114,
+        "numberOfPhotos": 99,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWzLSrNx2hhhug7sAY-mX7hwuPu-XUXHCxfxV0W9R3T5yXROH-hbg=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/117043256781866646367/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ربي يوفقك 👍 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 1,
+        "text": "قبل شهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "saad a",
+        "isLocalGuide": true,
+        "numberOfReviews": 45,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJlVpfsugrELkGyCJB4sQSEjLaEThm0thCJstmHlI8XvkLIbw=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/107879764669451238199/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1",
+        "text": "الخدمه سيئه جدا"
+      },
+      "since": {
+        "unit": "month",
+        "value": 5,
+        "text": "قبل 5 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ياسر المنير",
+        "numberOfReviews": 12,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocImu7Gp8rOdNAoY9S7-l5xB45SjhYk5qVntVGdbvZRhS_Pa-w=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103463775887249319419/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي متميز في الدعاوى الحقوقية و التجارية و دعاوى الأحوال الشخصية"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ཌmozsད",
+        "numberOfReviews": 3,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXTQnlqmzn1hxR28834kPJjFi4ij-UTmpF1azT2vph1xEu4ohOU=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108782308347810976389/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "حسين طارق",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUVYDBUoBljpeOlIfi3IocI23NEo0eCm5pz0-vKQUZVQjclUB1B=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109548862563994484628/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي عبدالمحسن بن طارق البقشي للمحاماة والاستشارات القانونية",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%AD%D8%B3%D9%86+%D8%A8%D9%86+%D8%B7%D8%A7%D8%B1%D9%82+%D8%A7%D9%84%D8%A8%D9%82%D8%B4%D9%8A+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9+%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x3e49fb340146b6c3:0x55c4feb96ce2cc4!8m2!3d26.4541265!4d50.1151567!16s%2Fg%2F11h_wrvts4!19sChIJw7ZGATT7ST4RxCzOlutPXAU?authuser=0&hl=ar&rclk=1",
+    "starRating": "4.2",
+    "totalReviews": "5",
+    "_location": "شارع الأشرعة، البديع، الدمام 32415، المملكة العربية السعودية",
+    "phone": "+966 56 482 3223"
+  }
+}

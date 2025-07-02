@@ -1,0 +1,94 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "T A",
+        "isLocalGuide": true,
+        "numberOfReviews": 159,
+        "numberOfPhotos": 40,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXPOPandw5OVX-VCT1UHgIC66jW_JKdKhyw1xC2ri2iber-v9l-=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/108836500536663463762/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 1,
+        "text": "قبل شهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "حامد الطليقي",
+        "isLocalGuide": true,
+        "numberOfReviews": 28,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLj6jxxLqPNWZsbvYv02Ee9QWkbghYEYAewgvC6PkU7E0-uPlc=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/113697161484394234165/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "التجاوب مع الاستفسارات"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sharifah Al Qahtani",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVsNUb7p13b_RoSb7YLmwrw-fNmkkR-FSc1tFDdk-js_FqoqDc=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109205814530360473399/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Saleh Turdi",
+        "isLocalGuide": true,
+        "numberOfReviews": 311,
+        "numberOfPhotos": 889,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVh4jo4XFlgMb8W8ZSDamkFoyGjCEyPdVrt7RekYtuNkCEEfLU_2w=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/116133366003854428338/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3",
+        "text": "الله يوفقهم بس المشكله الكلام معهم مُكلف كل استشاره بمبلغ ورسوم أتعاب القضيه تعتمد على حيثيات القضيه بدون ضوابط ،اقترح سماع القضيه فإن كانت البراعه موجوده فهنا نُحدد الأتعاب لنبدأ والله المستعان"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "محامي واستشاري",
+    "link": "https://www.google.com/maps/place/%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D9%88%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x3e49fd4e34e103c1:0x467bb61e6ef836ba!8m2!3d26.382316!4d50.0554856!16s%2Fg%2F11s4x49qpz!19sChIJwQPhNE79ST4Rujb4bh62e0Y?authuser=0&hl=ar&rclk=1",
+    "starRating": "4.5",
+    "totalReviews": "4",
+    "_location": "EDSA8836، 8836 ابو بكر الصديق، 3635، حي المنار،، الدمام 32273،، المملكة العربية السعودية",
+    "phone": "+966 54 911 8451"
+  }
+}

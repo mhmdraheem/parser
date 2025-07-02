@@ -1,0 +1,235 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": ":F QQ",
+        "numberOfReviews": 6,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU1rv6zEJ6ycqOEdzTAOrw0TVFjFAFWUxRrOHu0iZgqQ8sKwh4=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111597532021280642903/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "week",
+        "value": 1,
+        "text": "قبل أسبوع"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Khalid Tuwaijri. خالد التويجري",
+        "isLocalGuide": true,
+        "numberOfReviews": 26,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWVpOODivdz-NCGa9etntgMC0lnfxHda2VJmb1PmIZoV7YOR3EN=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/107708619659093134810/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الاستاذ المحامي عايض الفهاد .. انسان مخلص و مجتهد و يصدق معك في الاقوال والافعال"
+      },
+      "since": {
+        "unit": "month",
+        "value": 1,
+        "text": "قبل شهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Baha Ishag",
+        "numberOfReviews": 4,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLuZasOtNMi2AgstUqBkiUJNwo8Mg7AsquyjkxM6ek8Xk9xXg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109643353324174513876/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 7,
+        "text": "قبل 7 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "سالم ال عاطف",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLSNB1djpBoBgDCItg14AhB-qlU41Yq7mO3v27NgM1fPcyIrA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110768585220507741669/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "المحامي عايض الفهاد شخص صادق وامين وقبل كل شيء شخص خلوق ويقوم بعمله على اكمل وجه الله يوفقه يستاهل كل خير للامانه"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "شايع اليامي",
+        "numberOfReviews": 3,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI2jDsL2fJactQbxUT_mlZZffXKZTl0yNT6y9PUTzV160ulUw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112476708135875040853/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اشكر المحامي والاخ عايض الفهادي تم اكتساب القضيه لدي بلبراءه ولله الحمد والشكر"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد الباذر",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKYia3BqBBUQF57YGbypddbBVRhs1HKmdOF0a5UnxRLPwNjeA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110324405619987224898/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اشكر المحامي الخلوق والمتميز الأخ عايض ال فهاد على عمله وجهده المبذول للقضية المتفق عليها وكسب الحكم ولله الحمد والمنة.\nواتمنى من الله العلي القدير ان يوفقه ويكتب له الأجر ."
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "MM M",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJa00hJgnO9ppdb2gCBRckjoTGFFccTeuH2Y1-qJUT1a6iBuA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103747969398618363480/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "شكرًا جزيلاً لكم على الدعم القانوني المتميز الذي قدمتموه و ممتنه جدًا لعملكم الجاد و الملتزم\nو شكر مميز للمحامي /عايض الفهاد لتفانيه و لضمان أفضل نتيجة ممكنة نيابةً عني\nلقد كان من دواعي سروري التعامل معكم."
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Farhan Nisar",
+        "numberOfReviews": 7,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWWe4WVuPt-D_tPENE5JJE87EdGfjM_pxjLZYgt7xfRh_6uD9U=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101969955596103304274/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Very professional handling and extremely supprotive personnel. Highly recommended!!"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Majed Aldosree",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIgC-DnFeMi8O7hOWafcU0zTMYMvHIkzLYD84Fg_3ILnhsl=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106846913481156499422/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "شركة تمتاز بالصدق و الإنجاز اشتغلنا معهم من مدة طويلة  و ما شاء الله كل القضايا تم إنجازها على أكمل وجه"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "مهدي القحطاني",
+        "numberOfReviews": 6,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKAMqnHHAG0St5pXq74cJ0Hci5D12GKETBY4Qym5FjIXXBk=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110730185573915054786/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اشكر المحامي : الأخ عايض اليامي على حسن تعامله وأسلوبه في الكلام . سلمته قضيه وكان قد الثقه في ترافعه عن موكله وقد المسؤلية والامانه ويشهد الله انه بذل كل جهده في القضيه وشاكرين ومقدرين له ذلك . …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "موسسه مدى",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJx1EizkHdNtT2L-Yj5R8DpYBHx3wMLFCdWL_Ez5251tbP5=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117064396920248108135/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "شهاده لله بنسبه للمحامي عايض ابو محمد\nسلمته قضيه كانت معقده طبعا تجاريه والحمد الله بفضل الله ثم فضله كسبت حكم نهائي.\nوللعم القضيه كانت مع محامي قلبه ورفضت الدعوى …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "شركة كفاءه للمحاماه والإستشارات القانونيه والتحكيم والتوثيق",
+    "link": "https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D8%A9+%D9%83%D9%81%D8%A7%D8%A1%D9%87+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D9%87+%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D9%87+%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85+%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%AB%D9%8A%D9%82%E2%80%AD/data=!4m7!3m6!1s0x3e49fb6f932c0dbd:0x5b2290ea0f33ee4!8m2!3d26.424979!4d50.1146596!16s%2Fg%2F11q3ts_x_d!19sChIJvQ0sk2_7ST4R5D7zoA4psgU?authuser=0&hl=ar&rclk=1",
+    "starRating": "5.0",
+    "totalReviews": "11",
+    "_location": "طريق الأمير محمد بن فهد بن عبدالعزيز، تقاطع، طريق الملك فهد، الدمام 32253، المملكة العربية السعودية",
+    "phone": "+966 50 392 6000"
+  }
+}

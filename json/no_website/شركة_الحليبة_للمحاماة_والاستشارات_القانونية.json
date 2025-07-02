@@ -1,0 +1,648 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Ahmed Mola",
+        "isLocalGuide": true,
+        "numberOfReviews": 18,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUAx11-W4q7hqMHzqCf14AeqlKET0am2K91IwniXIP0yo1LdC6v=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/105391439669769191602/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 7,
+        "text": "قبل 7 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Hussin Almuhanna",
+        "isLocalGuide": true,
+        "numberOfReviews": 43,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIx46xyggUJaILei1LeIrWVDVv4TDktLPv2n2Xd7fP_hYFRsA=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/103776525764058661701/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من لا يشكر الناس لا يشكر الله وانتم تستحقون اندى عبارات الشكر والعرفان والتقدير والثناء على جهودكم وبالاخص معالي الاستاذه امينة الحليبة"
+      },
+      "since": {
+        "unit": "month",
+        "value": 7,
+        "text": "قبل 7 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Hanan Abd Elazez",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXuOYvlypDR75z_nRm3UYDuSDi7m7yw4T-pYhiHxFdoTztCZwi4jg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113333411927639534377/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "شركه مهنيه محترمه ومستوى عالى فى التعامل"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "تاريخ التعديل: قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "High Standard Center",
+        "numberOfReviews": 8,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjX3rdDLdukV5cI_muTelLa4UgHOO5lk-l5EzbA6dh6fMb4nuAY=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110114229149644628235/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Our best legal advisor"
+      },
+      "since": {
+        "unit": "month",
+        "value": 10,
+        "text": "قبل 10 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdulrahman Al Dakhil",
+        "numberOfReviews": 9,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXQa-VKstrnhR4eE-6Be1kGhPGxZxQ7n7kEMZNjwph-Pu813HSt=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112191982784876696336/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 10,
+        "text": "قبل 10 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Engr. Mohamed Gamal",
+        "isLocalGuide": true,
+        "numberOfReviews": 11,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLm9bnGfGJfHJYFDjcCW0B5BcMNOz1gMPBqFjR_yAAw_limfdzJ=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/115610409048697554957/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 11,
+        "text": "قبل 11 شهرًا"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "mahmod hamada",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUeOkSa2NehAWIPJamF1rU4wsvyHtEcBzNJKNyQ8qPMD16C5f9xDw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113956284269533616603/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ashwaq mj",
+        "numberOfReviews": 4,
+        "numberOfPhotos": 5,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUBVa3y2nkle6P1EUsV4zXI-umsgxTIXUpFnN5vDsRMs3AvNQk=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114402749699403741940/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تعامل بمهنية عاليةوأسلوب راقي وبالأخص المستشاره امينه الحليبه محاميه خبره كسبت قضيه ماليه من 5 سنوات متعثره بالمحاكم الله يجزاها خير الجزاء"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "H Hh",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLU4_PViaUSoKwXsxBQxfuLNzEMeEZYR5tnQCAyEIKxDWCyfg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111007625735642125412/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "elegancia S",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVgSGumCc6xGLkqpKWDsTMTxXRR3_WxckaOkNgjkrZU86uVsRU=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111998138478847901418/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Maram R",
+        "isLocalGuide": true,
+        "numberOfReviews": 32,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKfEVlvpsPH1YbCAYom8cymZx1tNbe6FiUaM7dndEdp2zKEBg=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/114341775964173216675/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Great helpful team 👏🏻 …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Aj Pachoco",
+        "numberOfReviews": 2,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWPRHa_J5OOETTpY2HDlQKoI3rMQGCpz4JwrKZtE5mSVTi7FFeY=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109375715769203654892/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Al hulaibah Law Firm and Consultation is my recommended law firm, Thank you for your assistance. Your work is top notch!"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Fato Tota",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLhNANu7CxjNfR3PkK0YUYT92IX01qrcRGFAeiWJvcqCHWEFg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111217630028817907758/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "السلام عليكم ورحمة الله وبركاته\nراجعت شركة الحليبه للمحاماه صراحه من افضل التعاملات اللي تعاملت معاهم و ما قصرو معي تقابلت مع استاذه امينه انسانه بالتواضع و الرقي و كلامها يبرد على الخاطر  و …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Jassim Alaithan",
+        "isLocalGuide": true,
+        "numberOfReviews": 26,
+        "numberOfPhotos": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLuSCx-Y1SqqeoNXF-NKRQ2vIf9yocwST2Z4qfc5vepDrFLSA=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/114228194592276666181/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1",
+        "text": "I called the lawyer to check on my case. She told me to come and set with her assistant before proceeding with the case. I met her assistant and after i received his feedback they asked me for consultation fees to pay without mentioning this up font and not even during my call with the lawyer.",
+        "response": "نقدم الاستشارات القانونية بدون مقابل لغير القادرين و الارامل وذوي الاحتياجات الخاصة"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "mohd zeeshan",
+        "isLocalGuide": true,
+        "numberOfReviews": 19,
+        "numberOfPhotos": 24,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXOzGIW7uIJpF66hcvtaVpbhJwP4QhFmRNzIf5aEytrRPELFtzc=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/113517869415434309640/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Best law firm"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ajmal Ansari",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV7qMbAYj1EdG3C7S0dvpeIoGf39iwpd6iT-Uz3Qfhp7o0rKkMFSg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111460277198686638178/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Best legal consultant"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Hossam Eldin",
+        "isLocalGuide": true,
+        "numberOfReviews": 16,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVlqZEsOMT61l97uI84ful7BBa2bxoXRY0kajp0WY6ddwGqr4nq=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/104728460538455994153/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Waleed Wagdy",
+        "isLocalGuide": true,
+        "numberOfReviews": 42,
+        "numberOfPhotos": 17,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJyDeXi4uZkxWbIq8ErkkKlQpK6p76M5miORyfPAVZHaDdI6A=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/109502398917961357544/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Nasser Alnemer",
+        "isLocalGuide": true,
+        "numberOfReviews": 35,
+        "numberOfPhotos": 58,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjX62i9TsypQ013v9_eB_vNyuqR-9AmTpEM-jMLI8dgp1YMr3AOS=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/102894393139211841612/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Dragon Behind The Glass",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVGNCG5kdqE5bPbvi5Kk4Sqk0leKxP1eGmiu1k-nM5anO_4wUZG=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115000457434836426269/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تعامل راقي فعلا بارك الله فيكم مشكورين"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Let there be code",
+        "numberOfReviews": 7,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVrwXzbLn4kTIkEknrmbomtM6CXqQ7wbq5VoOZsVal0LJuBVR7R=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105519738930653959639/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "It was a pleasure working with a good team,  professional  and straight to the point."
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "تاريخ التعديل: قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Khalid A Burshaid",
+        "isLocalGuide": true,
+        "numberOfReviews": 25,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVoDAeEqmKTfrV7IY39X1rS6lZ7L8JqaSYEfMZWM75n-xMzQBrm6w=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/114519715918228608457/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Fadhel Albalawi",
+        "isLocalGuide": true,
+        "numberOfReviews": 25,
+        "numberOfPhotos": 44,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVuSx7IoBbJfISfBxKTKfRYzgLmaSp9ZnTwgmCzqCoNL3SSPHD4=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/113016788466986722720/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالرحمن التميمي",
+        "isLocalGuide": true,
+        "numberOfReviews": 124,
+        "numberOfPhotos": 198,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXcLeRTkeyAOVXuRCqzL3ai2B2rAi_XRLzX0VxuTh1bZAeaFbFu=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/110988416831961357462/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "4"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Hawa N",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI1mAjxw_Qu4Z7lxgYX_FmZ0GFQ1c93EP3XnZQv-IAJ4DoxRQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104759991275988739392/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من أكبر المكاتب اللي في الدمام وخاصة المستشاره امينه الحليبه الله يوفقهم مثل ما جابولي حقي."
+      },
+      "since": {
+        "unit": "year",
+        "value": 6,
+        "text": "قبل 6 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "MAHA YAHYA",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKFFPv1e_mRYgblNPaVIJcjv7TwFPSoxn-lIXTAZyQNoY0BRQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115792436652681756711/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب ذو خبرات عاليه ومتابعه ممتازه الحمد لله تجربتي أكثر من ممتازه"
+      },
+      "since": {
+        "unit": "year",
+        "value": 6,
+        "text": "قبل 6 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ahmed Tantawi",
+        "numberOfReviews": 346,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKJUNs-NIeTegfgvqlgt2plfT9Pmbm2zQ1-VOKxUI_JQ2_h4ugQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109264463118164717772/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 6,
+        "text": "قبل 6 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Anes Alroh",
+        "isLocalGuide": true,
+        "numberOfReviews": 408,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXjxZIE6ZyO7nva__9LiUHvFUAv6Cew4PplgDmRO_2K88CwazSN=w45-h45-p-rp-mo-ba6-br100",
+        "link": "https://www.google.com/maps/contrib/110984718228905578597/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3",
+        "text": "لديه خبرة جيدة وينقصه متابعة المحاميين للعملاء"
+      },
+      "since": {
+        "unit": "year",
+        "value": 6,
+        "text": "قبل 6 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdul Raziq",
+        "isLocalGuide": true,
+        "numberOfReviews": 4,
+        "numberOfPhotos": 47,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUqWimFJN76VkNBiCf0D0gHoIodEoWlz_h2doTb7R8SdR6TVmsJ=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/108018484246191127337/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3"
+      },
+      "since": {
+        "unit": "year",
+        "value": 7,
+        "text": "قبل 7 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "osama kamel",
+        "numberOfReviews": 6,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLjMxHjcIZhrgKzTyxJa3TEloO06DXThU3Kiy2agZDuY5YD8g=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110501841804113698119/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3",
+        "text": "مكتب محاماه"
+      },
+      "since": {
+        "unit": "year",
+        "value": 7,
+        "text": "قبل 7 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "هاوي كل شيئ",
+        "isLocalGuide": true,
+        "numberOfReviews": 32,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVpk2fXECryMZ2TTSIrRHaDjBDbdCO8-gzK9bIxj1fvaaE3XVUD=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/106173761595266364465/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "2"
+      },
+      "since": {
+        "unit": "year",
+        "value": 7,
+        "text": "قبل 7 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "شركة الحليبة للمحاماة والاستشارات القانونية",
+    "link": "https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D8%A9+%D8%A7%D9%84%D8%AD%D9%84%D9%8A%D8%A8%D8%A9+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9+%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x3e49fb9e849fa277:0xacfb0d424ba5f53c!8m2!3d26.4404547!4d50.1112388!16s%2Fg%2F11c7sr5hy1!19sChIJd6KfhJ77ST4RPPWlS0IN-6w?authuser=0&hl=ar&rclk=1",
+    "starRating": "4.4",
+    "totalReviews": "31",
+    "_location": "district, King Saud St. Dammam AR Rabi, الدمام 32241، المملكة العربية السعودية",
+    "website": "https://www.alhulaiba.com/",
+    "booking": "https://www.alhulaiba.com/",
+    "phone": "+966 56 535 1111"
+  }
+}

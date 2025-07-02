@@ -1,0 +1,151 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Turki Almosa",
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJXsaCbBeGF1hdnARIOGQmbl3LLX4E0ghJtZimoejHi8rvlFA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100611457694174062258/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "الكويس جدا",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU21o06AyS4wuWpUKOBmTPavRDAo_rrjxs_Rgoqx8eh_nDx_Og=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103543669759632331266/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "المحامي محترم جدا"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "خالد الغامدي",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK6gSM9A-neEfFc2bZpjMACE7iJGZEP7uxX5tfIIja6cs3-kg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110308938844494967215/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Az Gh",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIJUjirOd3FPf9W944Lel1B--1Eudi92Iu-8c6S8H1CZZnR4A=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101947646568468935640/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Fasial Abdullah",
+        "isLocalGuide": true,
+        "numberOfReviews": 109,
+        "numberOfPhotos": 27,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ7MuU3VbAfL5hdpPr4SFTCJAeBKMdPZxxAvCwM8MCyimsIkA=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/114901195939543449379/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد يوسف",
+        "isLocalGuide": true,
+        "numberOfReviews": 21,
+        "numberOfPhotos": 9,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ10YnHaBzjJHq5QrKhbCL3NL0kLphyLB2Ev9Ay5yQv3g15uA=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/105644806450379617156/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "‏انصح بالتعامل معه"
+      },
+      "since": {
+        "unit": "year",
+        "value": 5,
+        "text": "قبل 5 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ABDULLAH",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIZm_1NJMPCWG3ubsuGuCkuFepRdCxDUy4NMLSujmcpkBhgvA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100357697615856597340/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 8,
+        "text": "قبل 8 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "المحامي تركي بن جلوي الموسى",
+    "link": "https://www.google.com/maps/place/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D8%AA%D8%B1%D9%83%D9%8A+%D8%A8%D9%86+%D8%AC%D9%84%D9%88%D9%8A+%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%89%E2%80%AD/data=!4m7!3m6!1s0x3e49fb9ca6128653:0x5df8463afd557074!8m2!3d26.413477!4d50.0967176!16s%2Fg%2F11byxgrtwy!19sChIJU4YSppz7ST4RdHBV_TpG-F0?authuser=0&hl=ar&rclk=1",
+    "starRating": "5.0",
+    "totalReviews": "7",
+    "_location": "C37W+9MW، شارع عثمان بن عفان، ابن خلدون، الدمام 32241، المملكة العربية السعودية",
+    "phone": "+966 13 830 3678"
+  }
+}

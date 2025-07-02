@@ -1,0 +1,175 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Abdulmajeed Alhodhaiban",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJdxZwMOpdHMuuOzifQ1VVh9Mbocbf49uxKkdfS4mDdvQqnJA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108026513566016536980/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1",
+        "text": "تعامل سيىء ولايوجد مصداقية مع العميل"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "مازن خطيب",
+        "numberOfReviews": 8,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKt6v5uukiJdC79ZpNG6Va4nAYt3lDGAnLGxNjgIdk8w-CDUw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117937945261209743837/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Omar Abdullaziz Al Buayash",
+        "isLocalGuide": true,
+        "numberOfReviews": 4,
+        "numberOfPhotos": 6,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK7mH-MWY1BP2t0Ufi47t0joPWrpf_kWkLKtVpJpT1OEJw0WQ=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/107686848032402204831/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Faisal",
+        "isLocalGuide": true,
+        "numberOfReviews": 51,
+        "numberOfPhotos": 9,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWXp71yGnKU9wTEthZ8aoOTJF0GhJ0YvsoHP3bgmzgZo5Ggod5b=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/100470531503610400482/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Salem Alalyani",
+        "numberOfReviews": 14,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIc8INbRTFXvB1f0L8Wornp-LCDgAR2OEPAjzHKmibZrvJgJw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112925230667194408944/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "صراحة تعامل جدا راقي وكل اهتمامهم حول ارضاء العميل واعطائه حقه وفقهم الله جميعا"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Turky ALAateeq",
+        "isLocalGuide": true,
+        "numberOfReviews": 171,
+        "numberOfPhotos": 88,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUi79BPbJKDdpawxcFkRy-FqHmraHWDKT4f2jrvnelRtzROPSQ6ng=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/114536774518722400482/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "المكتب يزدحم بالقانونيين والمحامين والشخصيات العدلية وبعض تجار المنطقة مع صغر المكان الا ان حسن الاستقبال والتنظيم تشعر معها بالراحة"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "waleed otaibi",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJVpbIMVnc27PzcMmJ3UUTNpqncgBCEUU-Eev93oveVPNkvjA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103184868426583192600/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تعامل طيب جدا نشكر"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Roqy",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUWHauhcfaX608WVN46RwzGqwiIk-s9Sy5k3KiT1B9iX_xXGKo=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104702116171494190956/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "سعداء بالتعاون معك"
+      },
+      "since": {
+        "unit": "year",
+        "value": 7,
+        "text": "قبل 7 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي سعود محمد الحافي العتيبي",
+    "starRating": "4.3",
+    "totalReviews": "8",
+    "_location": "Othman Ibn Affan Street, النزهة، النزهة، الدمام 32252، المملكة العربية السعودية",
+    "phone": "+966 56 693 5544"
+  }
+}

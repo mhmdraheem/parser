@@ -1,0 +1,144 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "oobs zox",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV3k3-u5W3ffHcRsz3J9MbOde9ZFGPw0pWd7HfdVZGphoripkI=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107938327954818030205/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "week",
+        "value": 1,
+        "text": "قبل أسبوع"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sara Asmry",
+        "isLocalGuide": true,
+        "numberOfReviews": 71,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJf4GbSz4ghXi6xcV4bo2yive9CZ0op1apm256hJvSpoeycnA=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/110292649379026678735/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مشاء الله مكتب متكامل\nالمحامي سلامه من افضل المحاميين في الشرقيه\nتعامل جدا رائع"
+      },
+      "since": {
+        "unit": "week",
+        "value": 1,
+        "text": "قبل أسبوع"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Beadr Alanzi",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJwDabbmtvDx16xbJXnF5OHFHquKmU8KR1LiRqZRd8nc7ND8Q=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110246232348709885756/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sameh Ssaid",
+        "numberOfReviews": 16,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXDvwdwx5IXDidXBAZOX1UXwNlpRTNk-KAZp7gNNHP9XTWxg26Q=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107282467321164611616/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "OOPS",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUeQYHxFhy9-E7xYzSYqkSE88tvLw8ha5O3dArHDecPJrMntTWi=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113380409233823653718/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "المحامي سلامه الحسني",
+        "numberOfReviews": 1,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWLguuMHSsB2T-aSh7LuS_8UORKG_1eeFoK_SMxLQGCvBVrH4PE=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/118037869906516408173/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Fysl 94",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUZkcEAm_-5YBXcLASM7-zvCfrExONlEGwMUpa3m3ELFP5Y2Rw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109744005465259234155/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي سلامه عرفج الحسني للمحاماة والاستشارات القانونية والتوثيق والتحكيم",
+    "starRating": "5.0",
+    "totalReviews": "7",
+    "_location": "94R3+QVG، النزهة، الدمام 32251، المملكة العربية السعودية",
+    "booking": "http://wa.me/966555959312"
+  }
+}

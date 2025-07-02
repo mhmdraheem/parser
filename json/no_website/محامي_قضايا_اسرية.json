@@ -1,0 +1,113 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Ahmed Alharbi",
+        "isLocalGuide": true,
+        "numberOfReviews": 158,
+        "numberOfPhotos": 280,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjX56AWwIG_94qKx9H8bH2pA3PjQWFxpPzrKUN7COiHULq0ml1sU4g=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/104724039097808050004/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 11,
+        "text": "قبل 11 شهرًا"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "علي سالم",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUacy3l2e4ZK4XTQ_k4o52CUAPqDNPnzNr7tCGmHCefOuxSZOVc=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117411725600782055407/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "حقيبه عطر",
+        "isLocalGuide": true,
+        "numberOfReviews": 155,
+        "numberOfPhotos": 25,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXsUIw3SNM-obLyc1w7yMyw1R8jf_xCmGQLPxXN8aVAYzdC0II6=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/116697744718339171215/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "̲D̲H̲O̲",
+        "isLocalGuide": true,
+        "numberOfReviews": 30,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV6NtniiH4_HhXJ7JnHI-lzwg1eD6rAg-HbdhfVVNg-8Bk_Br0=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/101870010544251529123/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالعزيز المالكي",
+        "isLocalGuide": true,
+        "numberOfReviews": 14,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI5GThj2CCJbh9eOdRSkCqetwgGBk1MP3jRWyKaBNPEx5yCoQ=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/103523262988901033705/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "محامي قضايا اسرية",
+    "starRating": "3.4",
+    "totalReviews": "5",
+    "_location": "طريق الملك فهد،، أحد، الدمام 32263، المملكة العربية السعودية",
+    "website": "https://bestlawyersa.com/",
+    "phone": "+966 56 809 1258"
+  }
+}

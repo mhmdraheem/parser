@@ -1,0 +1,619 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Mesho Al zbedy",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI2Sxky_Yu0gjbiY84RLTuw7Hn4Q1EGC4fJzm02bORHEx5PhA=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110042146249576213105/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "أود أن أتقدم بجزيل الشكر للمحامية خولة الزعبي وطاقم عمل مكتبها القانوني على التعامل الراقي والاحترافي. الأستاذة خولة كانت نِعم المحامية، دقيقة، صبورة، وتتابع كل صغيرة وكبيرة في قضيتي بكل حرص وتفانٍ. …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 1,
+        "text": "قبل شهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عثمان عبدالمنعم محمد الخضر",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWtFTGvYgNeWfFO9TriKtOLrL1FFABv2Z49J-Q3LswMdeo9pfmu=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100689531606015044495/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mood Events",
+        "isLocalGuide": true,
+        "numberOfReviews": 13,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK9qHy7mZtP_AFboQ7MsdN7kPFnkpAjH3w4LBiZvqgJtZC8QQ=w54-h54-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/109680637790871789047/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ماقصروا فريق العمل على احترافيه عملهم ورقي تعاملهم و الأفاده الممتازه و كسب القضية"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالله القاضي",
+        "numberOfReviews": 1,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI-BiKLhoDB-crQNnXGSloWXLVGRSX0S47_1i0nAFuw-npNPA=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117869306112757792603/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 4,
+        "text": "قبل 4 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "جابر المري",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU3L14zPLtYR_hbARenkykgUG9SfF8kcyvRK5t0wfj3PKGi8GUa=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117397060194410279098/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "تاريخ التعديل: قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sulltana Alharbi",
+        "numberOfReviews": 7,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIRkwduN4e-PgW6L6rLd4-YV0vBQffdaNdLayVsVdeMTTPksG8=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111955707745963000652/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ماقصروا فريق العمل وكذلك الاستاذ عبدالعزيز على احترافيه عملهم ورقي تعاملهم وان شاءالله ماراح يكون التعامل الاخير"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "تاريخ التعديل: قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Motaib Nasser",
+        "isLocalGuide": true,
+        "numberOfReviews": 45,
+        "numberOfPhotos": 250,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWf7Kqpa35V97E-zGGzqTsCPGkFBirTEXi0iQDXfUbmxfXhOxFq=w54-h54-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/105830105192634429205/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "بالنيابة عن فريق العمل في تورستا\nشكرًا لكم مكتب الاستاذ عبدالعزيز المري وللاستاذ عبدالعزيز على عمل العقود اللازمه بشكل احترافي وسلس .\n🌹 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Fawaz Bagadi",
+        "isLocalGuide": true,
+        "numberOfReviews": 5,
+        "numberOfPhotos": 24,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVb5IuVwLn-TMGGSp-k2vM0xQyd8QElD6JfJqTJhKD9lkyzzzJ8DQ=w54-h54-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/114088543322803720941/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "سأعود يوما إلى وطني",
+        "isLocalGuide": true,
+        "numberOfReviews": 53,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKPs27nFdEbK0PaT0sXr42LqrnZkM9YIZUNqNk573OIVXUs-SQF=w54-h54-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/117938908149168794890/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdullah Alkhallouf",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI9yCZddt6MVsxHyPPQkglTQZGQSXB62bTnIiPYd7t5CiKTeg=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109102836487408538248/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "افضل محامي ماشاء الله ربي يوفقه مافي قضية عنده تخسر الله يوفقه ويزيده نجاح وتألق"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "مشاري القحطاني",
+        "numberOfReviews": 6,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKtAvUgtp5I56jpa_-hJTDl8qIQTTlU5Ur8Xtcu7rcwaxendg=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/118357335090709635007/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "S .H",
+        "isLocalGuide": true,
+        "numberOfReviews": 55,
+        "numberOfPhotos": 26,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJl2TheDNNBJ8yyve27CUvKk3pvELIwaDHphKo5qAIe55Hw8ZI=w54-h54-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/100036770910436506366/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Shafi Alajmi",
+        "isLocalGuide": true,
+        "numberOfReviews": 290,
+        "numberOfPhotos": 714,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU5dkdIioTsfpMxD9bfAsQSSC8o4OvUaMIZYhVOe_xiMbuIPoT8bA=w54-h54-p-rp-mo-ba6-br100",
+        "link": "https://www.google.com/maps/contrib/101672403236779088009/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من الزملاء الأكثر من رائع ولله الحمد واتمنى له التوفيق"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد مساعد",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ3CkVrDUl4MugvhjK7fh80QREm7FAtByGhr1iAM4uKfplcfA=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111342357623535204154/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الأستاذ عبدالعزيز قمه في الأخلاق والتعامل ويخدم الصغير قبب الكبير وهذه شهادتي وشهادة الكل الله يجزاك خير استاذنا الفاضل على وقفتك معي وقفة الحق وإظهار الحق وازالة أمر الابعاد الذي وقع علي اشكركم جزيل الشكر استاذنا وطاقم مكتب الشيخ عبدالعزيز المري الفاضل",
+        "response": "تسلم ياغالي وجعلنا الله عند حسن الظن"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sultanah Alnaqi",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocITQIEy8CEsNZkHDuSb5DyZEZYWWNwUMBX10XAglAE841iLvw=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115798085448060420406/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Hussain AlHashim",
+        "isLocalGuide": true,
+        "numberOfReviews": 8,
+        "numberOfPhotos": 41,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJTW3HgPdK2Tk_QRBuxHuJfdbro5WUQKCt1mKCufLLYkizpeQ=w54-h54-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/115091359180707667665/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Hanan elghonimy",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjW63n46qPa75LTwke_yOvgTTvrhay72T1D93YBwRmV75QFUqLg=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108051824088298850562/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "صدقٌ أنه عزيزٌ النفس\nمتحدٍ و مكافح\nمعلمٌ جليل و قائدُ نبيل …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Rahaf Almarri",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKfeSwMCyOrW515_0DCFszILUBfJP7zm2gkve61PmYPozGtQw=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112351162670586712860/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "سمعة المحامي قوية و التعامل معه جبار، وفريق مكتبه متعاون لابعد حد\nيشكرون على جهودهم"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Rahaf Almarri",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLtYxB2VpVf4mRlwtBeT7dOs0t9Rm_yl5vXDgVXimSUPFj5Tg=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/118419307323222588526/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الاستاذ عبدالعزيز ونعم الاخلاق\nرجل ذو مسؤولية وملتزم بوعوده …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ilrh 7",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIsgdgsRSVlYoMEOH_3fj4tLJTxGI2V96fR1D0T-y_YWcJAuw=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115281627010378226260/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "المحامي وجميع المستشارين بالمكتب على قدر عالي من الكفاءه والتعاون والاحترام\nبالاضافة لكونهم منجزين والعميل اول اهتماماتهم دائماً …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عثمان عبد المنعم الخضر",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWc4ZE_i_8yOGzsIXiMoRXZvE1ue3b0OQBDki6XX-xGsbxgufs=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101881780978616097881/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من افضل مكاتب المحاماه في المنطقه الشرقية الدمام\nوافضل المستشارين ذو كفاءات ومهارات عاليه وخبرات   قانونية بقيادة الشيخ عبدالعزيز بن محمد المرى"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "zahranabdo",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXvb62JaGwWh3_1V8NWV8l6okKWarRChoybOG_EtowNRxFbeh9v=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104040675321434995090/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تعامل بمهنية عاليةوأسلوب راقي في التعامل موظفين على أعلى مستوى كوكبة نيرة بقياده الشيخ الجليل الاستاذ عبد العزيز المري"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "طارق بسيونى",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVLntqr_RIaYRx3YqnQUZqdS59GSTtRMIsi2IM_1rC07KtRt3zO=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104928576199756079163/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "بصراحة ا.عبد العزيز المرى والمجموعة المتميزة اللي معه خلصوني من مشكلة كبيرة ولولا توفيق ربنا وهم من فضل الله  كنت راح اضيع فيها بسبب سماعى فتاوى قانونية من غير المتمرسين فى القضايا والدارسين والحين الحمد لله أمرى كلها مظبوطة ومازلت متابع …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ghadeer Alomari",
+        "numberOfReviews": 12,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVykxIdY85gJnFlxR6y6kNQo9RT-jiyfAID7E6YVUQKQzeuEBQ=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101548709503825465825/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "المحامي عبدالعزيز يعجز الكلام عن شكره انسان خلوق وخدوم وباله طويل صراحه لو اثني عليه العمر كله م اوفيه حقه الله يكثر من امثاله يارب ♥️♥️♥️"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "دلال الغنيمي",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJp6jHm7sgXtbSnDeFHlQd9Cf0StD45PUR3iU1hOPjZo9wnLQ=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116470503764579931327/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "رقم واحد بالمملكه أتمني لكم النجاح الدائم و بالتوفيق دائما  ومن نجاح لنجاح"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohammed Al-Khonaizi",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIfmBDcC0jIdijJC3QVTLf7hBPgF6FwrofeCHTq0xU7FZDITw=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104492278083092671865/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "المحامي فعلا جبار ويستحق متمكن في انهاء القضايا"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "فيصل العنزي",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKZqef6hw9VTJWw2ZOwaBOzg4esmCu0IKw8CsNwxBhN-M0Afw=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114296696044055084701/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "رجل ذو مبدآ واخلاقه جدآ عاليه وتعامله مع الكل الصراحه ممتاز وهاذا الشي اقوله قدامه ومن وراه رجل شهم ويحب الخير وخدوم وانصحكم فيه لانه هو كأخ لي وصديق واكثر من هاذا كله اسال الله ان يوفقه ويعطيه مايتمناه يارب ويسعده ويبيض وجه ويجزاه الجنه اوالديه"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Azoz Aldossri",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUA885TE7Z8tRsruGlkb0QvpwDcKAKWjUPCc4QduQqPgOULnCTl=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110766575181375746595/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "موظفين ممتازين في التعامل و بالأخص الاستاذه حنان تواصلت معها علي سناب .تعامل ممتاز وحسن اسماع و اسلوب راااااقي مجهود مقدر ومشكورين عليه جميعا"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "over the sky",
+        "isLocalGuide": true,
+        "numberOfReviews": 18,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXyUx7Fyfkw4j-EjERvVaKAWzLfN-Xyt_N1o97hWuEfUDOIUtpt=w54-h54-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/110477529061830843910/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "المحامي رقم واحد بلا منافس"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ramz ramz",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ5n0mAKVICSCAlFSCX98fVHe3awZMmpF_cDRbk-kKxLa_vZQ=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106196561324213710203/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "‏أفضل مكتب للمحاماة في ‏‏المملكة ‏العربية السعودية"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي عبدالعزيز بن محمد المري للمحاماة والاستشارات القانونية",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2+%D8%A8%D9%86+%D9%85%D8%AD%D9%85%D8%AF+%D8%A7%D9%84%D9%85%D8%B1%D9%8A+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9+%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x3e49fbbc711b98bb:0x20241a60929ad11e!8m2!3d26.4609279!4d50.1211198!16s%2Fg%2F11np513h0n!19sChIJu5gbcbz7ST4RHtGakmAaJCA?authuser=0&hl=ar&rclk=1",
+    "starRating": "5.0",
+    "totalReviews": "30",
+    "_location": "طريق الأمير محمد بن فهد بن عبدالعزيز، الشاطئ الغربي، الدمام 34213، المملكة العربية السعودية",
+    "phone": "+966 50 290 2906"
+  }
+}

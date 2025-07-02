@@ -1,0 +1,202 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "ALNAHJ ADVOCATES",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUkb-O92uvxDv2hz2y_2f2gTyxcs9I_ILthGs_jrE69PgCrnYs=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100607266414019410071/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "week",
+        "value": 1,
+        "text": "قبل أسبوع"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "طارق شعبان ابو سليمان",
+        "isLocalGuide": true,
+        "numberOfPhotos": 62,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLj6PzYmEN8lJDJvyWUD3p-0C0YXV5vxMEcmRtO6T8Y9bCUXw=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/104485739714093274834/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "2"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبد الله الطارقي",
+        "numberOfReviews": 3,
+        "numberOfPhotos": 23,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVf6Z-a7S-cF6HN3FVY3XMgi0BvBsYYWV2NeLgsoHLB2-hZJ7K-=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101349327229929868869/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "المحامي جمعان العازمي تبارك الله محامي متمكن وهادي انصح به."
+      },
+      "since": {
+        "unit": "month",
+        "value": 7,
+        "text": "قبل 7 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "جمعان",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLZ1MD4NfrPs_b7peHzc4a34QsfS-jgKZHaVc644DsR3ouLHw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104174075671596139586/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "B- albunayan",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWJrBAzYMi5FsFdcAjmAlhCi-2a0pGU1jKDyEXnv04_bXuy3Is=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102557863909426540555/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "صراحه تعامل راقي ومصداقية وإنجاز سريع شكرا لكم\nاخوكم بندر العديم"
+      },
+      "since": {
+        "unit": "month",
+        "value": 10,
+        "text": "قبل 10 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "حسن الغامدي",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKszJXHi1_DE7Nj9jDMmwEtjoDYBWKGq68g4E3fsv8vp4Kkgw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108905398796384727842/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "شكراً لكم"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "راشد العازمي",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU8wZG_GT5JhfMQFmXSlk0it1bLpnfu9g9Kh9E8ex_cUa9eL-bR=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103443078370680521959/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "AHMED AWADELKREEM",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVV0KQ7-YbahV_nou18ezsjojhWGPdITpFu_hAPwRd5DXdu40DE=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103799683661676425898/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "احمد الغامدي",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVtT01MV3FH6hVcZSDdTNCQyQLJ30HIr591jZ1SNx7EEOCn4Mc=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106569096247361636117/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "روانّ",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVLGTYa5kzQJt2tlzEYkUQI516cx2-g0LeZELaWIIwRJCYz_aUY0g=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111288119008529616886/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "شركة النهج للمحاماة والتوثيق",
+    "starRating": "4.7",
+    "totalReviews": "10",
+    "_location": "6181 طريق الملك فهد بن عبد العزيز، أحد، 3784، الدمام 32263، المملكة العربية السعودية",
+    "website": "https://alnahj.com.sa/",
+    "phone": "+966 50 137 8999"
+  }
+}

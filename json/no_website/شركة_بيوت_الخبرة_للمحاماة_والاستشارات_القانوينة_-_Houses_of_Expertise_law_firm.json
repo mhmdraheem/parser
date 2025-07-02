@@ -1,0 +1,558 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Abdulla Al Khalifa",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLZPPprsuWaQe4eB_RD7EgUIazTRgj3DZjAZiYpaLEX9nbe=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107637299406893453463/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Slam Alikum... In all honesty and sincerity, every person in the office deserves all thanks and appreciation. Frankly, it is one of the best offices you can deal with in terms of respect and support. It will not let you go until you get your full rights, God willing. All thanks and appreciation to Dr. Abdul Wahab and his colleagues."
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Aref Al Karam",
+        "isLocalGuide": true,
+        "numberOfReviews": 43,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUt6ctODpBlvluxLrejUFJa-G-QoqkzstwOOGwmfYhdVS_f6v4X=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/108705632183545409375/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "شركة بيوت الخبرة للمحاماة\nكيان يعتمد عليه يعملون باحترافية عالية في مجال المحاماة وتعامل راقي من الجميع بقيادة …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Thouseef Ahmed",
+        "numberOfReviews": 2,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVpoIyQPkhPsimLgBdqGBkw9tepghXFdBRoFVWjg5h-UoGetGZU=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113660516252453513024/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Awesome service with dedicated and responsible approach and solution"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "hussain bidiwy",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKbc6Iyg5v0hQJxp3orezbPFDrlYxFi_SA_6jTzlhWxePMrIw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103421793153940782683/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد الباشا",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKn-TOz3BjHn9183khiS7ZLGRLrX8tnXMcqR6sPrm185vIrAA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106626786154280323559/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sadiq ali",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWfa56dEAYVubDjMZxpbq3mV1_twNkDRbQcW2OSC7kqo-yrImc=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104581131803270474741/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "هيثم البقال",
+        "numberOfReviews": 2,
+        "numberOfPhotos": 8,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXe25ngdOASqSh0V7hkeoDbTP_6rrMDq909JdYyWoUkoHBHP4wg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114091309646328940357/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "‏ أحب اشكر الإخوان في شركة بيوت الخبرة للمحاماة على راسهم الاخ العزيز محمد الخميس\n‏ونتمنى لكم دوما التوفيق والرقي"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mustafa Obaidan",
+        "isLocalGuide": true,
+        "numberOfReviews": 16,
+        "numberOfPhotos": 14,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVANvkm6_2-Ggysk93Lm3Ff8j5O1DlTUyAv9yuqqVsmGN9X3pmH=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/115703921287742656991/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تم التعامل مع المكتب بصراحه سرعه في الانجاز والرد السريع ونشكر الاخ محمد خميس على الدقه في المواعيد والتعاون"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohammed AlSaleh",
+        "numberOfReviews": 2,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKVu8HQu2rLUyMhfoyOL_AH0oO1Gxo5-D4Xp9hw50jtC_UAw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101850665677154542127/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "It’s a very professional law firm organization they got a multi specific department can be serve all clients, they are a very nice and updating communication with their clients ."
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "سالم قاسم",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJGy_X90cx1yGKh_UkiDs9Fz0b4EYq2VlmLnQG9ghdLNqC9NQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105025587752438327476/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "لميس مسعود",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXjuGdtKsIB2sWMwA0SwborbqivjUq0PqO0hUFWpkVv3dDi-E9I=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106996712314507864533/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "جدًا جدًا محترمين ولبقين في التعامل وجميع الطاقم مشكورين لجهودهم."
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "A. S",
+        "isLocalGuide": true,
+        "numberOfReviews": 14,
+        "numberOfPhotos": 13,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJKB6v-3zfEeD_NJsuapQ1cSMhDSkHST6zj24nsjdV44De54g=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/104451622630185869563/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ماجد الهنداوي",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJBixCS8F7urEbTfTp_BUq2EATEsvogrZ4UKMLCRwNjr_qX6Q=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106609695249527978247/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohamed Zez",
+        "numberOfReviews": 5,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJHnkw4xg6Majf7XFLYpTeiievpLkkUzrvAevZr2l3pZ7rAHQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102296165365159761171/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "شركه بيوت الخبره للمحاماه هي  اسم على مسمى... فهم اهل الخبره بالشؤون القانونيه والمحماه واشكر تعاملهم الراقي وعلى رأسهم ابو صالح السيهاتي فنعم به الرجل لم نعهد عنه الا الصدق والامانه... كذلك كل الساده المحامين بالشركه... اشكرهم جزيل الشكر"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ebraheem",
+        "isLocalGuide": true,
+        "numberOfReviews": 20,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIr34x_XeG383T6ugHesiwmswE_duzP26HLoWk_ue7UAXLQmxc=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/114065355136417194184/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdullah AL Rasheedi",
+        "numberOfReviews": 6,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ4eHczx815CxPUlU7PcB1eSDn54mFvPnirLuQq9tq00DAGLQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110200524847865339683/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "لمست منذ بداية التعامل احترافية عالية، واهتمامًا كبيرًا بالتفاصيل، وسرعة في الاستجابة، إضافة إلى فهم دقيق لاحتياجاتي وتقديم حلول قانونية فعّالة وموثوقة. …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Farrukh Aziz",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXMg3LvbBddSwk3o1GnGi-wUtvhqh982Kmdjsz74yeXVGOFfXA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103985021085776379451/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "syed wasiq",
+        "numberOfReviews": 1,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWdxSxmz6HB1hx0B7yG4kz7PPTUoSAbnkrKcY3u19-9J3_gXr8k=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104004744988291531971/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "“This firm delivers exceptional service with professionalism, reliability, and a strong commitment to client satisfaction.”"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohammed Alyousif",
+        "numberOfReviews": 6,
+        "numberOfPhotos": 10,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLHlfU3S_SfwbP9Nyzg7R5oa-VrovRJhN5ZAxROdjHkhqY7Eg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116674902045280277884/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "(مكتب محترف ... ومسؤول)\nوباختصار يعمل بذمة وضمير  ...\nنسأل الله ان ينصركم في جميع قضايكم نصرة للحق ورفع الضلم  ... وبتوفيق  الله ورعايته"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "umair ahmad",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIqMb1bD9ws-68hGcVs2lNxCpUJ0inVO1crzouVytvbhUxEDg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117922968304467819479/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Very nice and Fast Service , Thanks"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Shirin Syed",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL4VxWYNvyUUj9xLBrfD0qhMNNfVC6Ath91JgzZNgXENsRZBg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113279253300453995537/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "A dedicated and professional firm known for clear communication, strong support and reliable results."
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Shirin Syed",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKzuE9hZIy7WrHcqaemQ1hLWzBkO9v4Q3hC492Dex_D_cEQeQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107212123426085184009/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Professional, reliable, and efficient—this law firm provides excellent legal support and clear guidance throughout the process."
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdullah Saihati",
+        "numberOfReviews": 7,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUlQhQhQY7seL2h8fSRzrpEtbz14eETRGyQW2FQdTR5yiy3h5E=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109137641926744989694/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "siddique hussain",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJNzxFnYoij8k3RqT33grQHb_CCMBzdK7NuOw_wd2kS6T9WGQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101800247668377964065/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Asd Dsa",
+        "numberOfReviews": 3,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKANyiZsCmEVxZwsFlULc2S5g9xyM8t2eie_7zT9_d30s9wSQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107801258649021355210/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thank you for your support. We hope to meet your expectations."
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد خميس",
+        "isLocalGuide": true,
+        "numberOfReviews": 21,
+        "numberOfPhotos": 48,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUS2LCtBx8fIIOQcqkRsmOLoQjETfctj9fqa1qYjiDnGZJ8CDe8=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/113901615236380973805/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "response": "Thanks for your supportive feedback"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "حسين سعدون",
+        "isLocalGuide": true,
+        "numberOfReviews": 12,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV7760mjrQ7njDA9hrshYYHKJFaA5O8ybhvLXf8qZvd36ct1e1o8A=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/109936599748814728774/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "4",
+        "response": "شكرا لكم استاذ حسين . آملين ان تحوز خدماتنا على رضاكم كما نتطلع لزيارتكم لنا قريبا"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "شركة بيوت الخبرة للمحاماة والاستشارات القانوينة - Houses of Expertise law firm",
+    "link": "https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D8%A9+%D8%A8%D9%8A%D9%88%D8%AA+%D8%A7%D9%84%D8%AE%D8%A8%D8%B1%D8%A9+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9+%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%8A%D9%86%D8%A9+-+Houses+of+Expertise+law+firm%E2%80%AD/data=!4m7!3m6!1s0x3e49fb4f260a4d05:0x1139a81d958cf825!8m2!3d26.4317266!4d50.115745!16s%2Fg%2F11jzffwh0q!19sChIJBU0KJk_7ST4RJfiMlR2oORE?authuser=0&hl=ar&rclk=1",
+    "starRating": "5.0",
+    "totalReviews": "27",
+    "_location": "Dist, 7410،, Unit 10, 5406 Al Amir Mansour St Prince Muhammed Ibn Saud, الدمام 32241، المملكة العربية السعودية",
+    "website": "http://hoelawfirm.com/",
+    "phone": "+966 54 743 2222"
+  }
+}

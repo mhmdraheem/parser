@@ -1,0 +1,222 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "mohmmad 69",
+        "isLocalGuide": true,
+        "numberOfReviews": 188,
+        "numberOfPhotos": 8,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXa4pHgyOF8zaApiJegHOHTq09qCw8GEotPxWjHUi0u3I9tRp4=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/105546274656621471243/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الموظفين والموظفات خدومين ومحترمين جداً والدكتور عبدالعزيز ماشاءالله عليه ماقصر معي"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Aziz Alrowdhan",
+        "numberOfReviews": 12,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXcPLQQvJeXT9v2riJlHIi7kiQRhiSRApIHCFBn3AgAMFrK5OIf=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115539469785306713361/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 11,
+        "text": "قبل 11 شهرًا"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sokar ام غزالة",
+        "isLocalGuide": true,
+        "numberOfReviews": 114,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVROoKHaDiAgcdlMsTKbzIqg5AthntpJZFi0KwgApkepeEPKnlj=w45-h45-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/103740951802352004577/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "والنعم والسبعة انعام"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالله العوهلي",
+        "numberOfReviews": 4,
+        "numberOfPhotos": 24,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJQ9HZQsxJDuQPO4274O0ZG2wyXP2WE0ecJ0YQMe2ixvHB_qg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115716459987055429340/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب ممتاز والمحامين الموجودين اخلاقهم عالية وفاهمين عملهم وعلى رأسهم الدكتور عبد العزيز الله يحفظة"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ziyad",
+        "isLocalGuide": true,
+        "numberOfReviews": 49,
+        "numberOfPhotos": 8,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUA47zzWoz935uxYbHwUzTDL6BTuuXP0-SGMYDJvw146LQRE3CG=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/113200832421463829595/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1",
+        "text": "الرقم المسجل في قوقل ماب، رقم نصااب انتهبوا منه، مادري وين راعي المكتب مايشوف التعليقات!!! غير الرقم وانتبه لحلالك زي الاوادم"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "رقيه الخالدي",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLb8XIurkMpWXlpuzKfwKMft4VOHzHQ-_qDpyKf-vCz9UrQCA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109811418109660148879/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "3",
+        "text": "الرقم الموجود نصاب حاول ينصب علي\nممكن صاحب المكتب ماعنده خبر ف رجاءً انتبهووواا .. وغيروا الرقم"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "KSA_italy",
+        "isLocalGuide": true,
+        "numberOfReviews": 588,
+        "numberOfPhotos": 895,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWqCcfwL3MNqtcfEQWmyJepnlquOs-NHREbPvcqhz7Kl9vlLA9L=w45-h45-p-rp-mo-ba6-br100",
+        "link": "https://www.google.com/maps/contrib/103252895935572143878/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "2",
+        "text": "اولا مانجحد اجتهادهم\nالموظفه حاولت و بعد عناااااء وسؤال المحامي المختص (اللي اكتشفت انه مايعرف لقضيتي ولا وجهني صح) رفعت لي ب٥٠ ريال فقط مراعاه بدل ٢٠٠ ريال ومشكوريييين.. …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "M Ma",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIM4ZCKip-d8nigchkbqMkv_MOMv3UqBz6DNpMbRQ0GsD2Ucg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113094840208604980764/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ياليت يتم اضافة رقم للاستشارات القانونيه"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ahmed Baswied",
+        "isLocalGuide": true,
+        "numberOfReviews": 254,
+        "numberOfPhotos": 99,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXOzCahRPEncSQrVaR6ltZK3QA8oASCzHqqY2Jc2a4a3NXsWH_g=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/110048141183775858090/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الله يجزاهم خير ما قصروا ناس امينين و كويسين و خدومين"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Aziz Rowdhan",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJkSI75792nn7aFHMZAA2PJFnSqT2fqfLD-HO6vzxu6T9cChQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112730693140874912198/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "نتمنى تقديم خدمة مميزة بحول الاه تعالى وقوته"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب محاميك المحامي عبد العزيز الروضان",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D9%85%D8%AD%D8%A7%D9%85%D9%8A%D9%83+%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2+%D8%A7%D9%84%D8%B1%D9%88%D8%B6%D8%A7%D9%86%E2%80%AD/data=!4m7!3m6!1s0x3e49fd4c0eb3c057:0xfa02c19302e3a6b!8m2!3d26.3999729!4d50.0754194!16s%2Fg%2F11kq7w7j26!19sChIJV8CzDkz9ST4RazouMBksoA8?authuser=0&hl=ar&rclk=1",
+    "starRating": "4.1",
+    "totalReviews": "10",
+    "_location": "C32G+258، الروضة، الدمام 32256، المملكة العربية السعودية",
+    "phone": "+966 50 592 0501"
+  }
+}

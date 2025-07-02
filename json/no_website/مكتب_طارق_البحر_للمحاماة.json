@@ -1,0 +1,252 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "NaWaF",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWF5amV-8-HQXZ0zYkcjrk3PpqzqkJM2UZfPonxhxF460SJAxk=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115643950180833354815/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 1,
+        "text": "قبل شهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "GHADA",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjW5HAZ-uNIXq_RbYTiWv-vqrAr5ZzvK5YF--fkEGo6xh-eJq5M=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105299216221832634064/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 4,
+        "text": "قبل 4 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sondos",
+        "isLocalGuide": true,
+        "numberOfReviews": 40,
+        "numberOfPhotos": 5,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVb_VydLNywcj8Dnvi6Xvp4WFPm7WT5mW2Air6oEwYyp6N3h7k=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/100000503925118945628/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1",
+        "text": "سيء جداً يخذون فلوسك و ينسون قضيتك"
+      },
+      "since": {
+        "unit": "month",
+        "value": 10,
+        "text": "قبل 10 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Faisal Sami",
+        "numberOfReviews": 2,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2qBFXnYbSsaDONOb5BEPR9pf8KnnQ__1Wvclmy9EPBYIQUA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117980268094479531272/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Yousef SAAD",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJR5HsySrdiklsijZ0fMyJt5sVkDnfrxBVHIlo4vCWOckqzLw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111054787250253266985/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد ابوابراهيم",
+        "isLocalGuide": true,
+        "numberOfReviews": 22,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ20mC4nB_nCmTYXcNHpKlWgLytd5J1JWMGVLroDkBRsGyDtw=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/111214847421776102881/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "‪Yousef Saad111 (Y.S.B)‬‏",
+        "numberOfReviews": 11,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXZCG3Ykv2Cm3ccTOqnRvP_i5ZL-rDKsMtV65s_mgaOz6DZ_Zg2=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109033699615897431072/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "اجود الحبيل",
+        "numberOfReviews": 1,
+        "numberOfPhotos": 7,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJUt7dheFn2Ab3CO7Ay_BPggpLxBEbEo7BbtyHw6xXbqjjmcg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112070305626859512015/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1"
+      },
+      "since": {
+        "unit": "year",
+        "value": 3,
+        "text": "قبل 3 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "mosa msfr",
+        "isLocalGuide": true,
+        "numberOfReviews": 374,
+        "numberOfPhotos": 11,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU-rAjbk9EBOGWQinUN3wq7ntG8S2pfp44ssYBG6adBJIbV-_uR=w45-h45-p-rp-mo-ba5-br100",
+        "link": "https://www.google.com/maps/contrib/114208554961414928165/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "1",
+        "text": "يبغون فلوس استشاريه قبل المحامي 500 ريال وبعدها يستقبلك المحامي والله اعلم تكسب القضيه او لا"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "أم محمد",
+        "isLocalGuide": true,
+        "numberOfReviews": 14,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKMyzyBq4aE6K8NDdY-QjouuVVis0EpT93vAnMV8IBi3uaqIQ=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/113804507502741128764/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ماشاءالله تبارك الرحمن\nجزاكم الله خيرا في الدنيا والآخرة يارب"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Meme Kh",
+        "numberOfReviews": 3,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV8SSv7pVlMVWG_oxengQxCyXfbUnCaUE8LmWk1rMRJjwo1EnJq=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105458381767748570143/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 4,
+        "text": "قبل 4 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohammed",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUmlJzmwpVS9rsLI6TjXXW5EP4k2av7OK-gZOBXGApa1dcde44=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106217383108460460014/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 6,
+        "text": "قبل 6 سنوات"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب طارق البحر للمحاماة",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%B7%D8%A7%D8%B1%D9%82+%D8%A7%D9%84%D8%A8%D8%AD%D8%B1+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x3e49fb6ee90bd781:0x40ee2a24dbb0923a!8m2!3d26.4250087!4d50.1146687!16s%2Fg%2F11f2ckz5gk!19sChIJgdcL6W77ST4ROpKw2yQq7kA?authuser=0&hl=ar&rclk=1",
+    "starRating": "4.0",
+    "totalReviews": "12",
+    "_location": "مدينة العمال , شارع الملك فهد ، الدمام، 32253،، الدمام 32253، المملكة العربية السعودية",
+    "website": "http://tariqbahar.com/",
+    "phone": "+966 13 805 1988"
+  }
+}

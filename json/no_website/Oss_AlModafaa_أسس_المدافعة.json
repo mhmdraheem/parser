@@ -1,0 +1,331 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Dana Fouad",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVB8KGexPMrw__sRMD1iVCKd2WzDy5zs3fiRzdPSuC3nUshqQA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111899749119288188412/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "week",
+        "value": 1,
+        "text": "قبل أسبوع"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Bassam Alshuaibi",
+        "numberOfReviews": 9,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXO1zhfbbREye83pobuariHtylVla4Kky248TT6Rw2jMOLrhpM=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107066602770383201829/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب جداً ممتاز\nالمحامي مشاري والمستشار نواف جداً متعاونين وخلوقين مرا.\nماقصروا معاي ابداً الله يعطيهم العافية"
+      },
+      "since": {
+        "unit": "week",
+        "value": 2,
+        "text": "قبل أسبوعين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdullah Ghamdi",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIk3-ISq8ghd2OeW59ZJDfwWsKDVQeN-M0KA_qVKw22J0bewLc=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107291641725320954148/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "week",
+        "value": 2,
+        "text": "قبل أسبوعين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "MOOHMED",
+        "numberOfReviews": 13,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXWEAFFt7yXViwcHZ0pmJVvGM1tKZgd9FUtfJzKmbMPwhM7s8NO=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102073436297258422975/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مشالله اشكر المحامي و الاخ الغالي مشاري الحارثي.\nوكلته ب قضيه والحمدالله بفضل من الله ثم مجهوده  نحجت وكسبت القضيه ماقصر جعل من جابه في الجنه. اهنيه على حسن اللباقه وحسن خلقه وحسن معاملته وحسن الذكاء والعمل …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdulrhman almuzahem",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVrOcsVdhoDfomfbYRccLOQlTYaGmzQVTf-EaLbcLXqmONqfA0=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113034203192608994569/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ماشاء الله الله يوفقهم ويبارك لهم بعلمهم وعملهم ويجزيهم الخير"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "mana Ajmi",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJNIgQErG7cBx0GJWQ5B4SBVxdiZKsRthw0V7j2cQqjQ-Rt9w=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104660333681815876790/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد اليامي",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9LTFOIAK1c2GDiBeovpRacGC6_MpZ_0lJwJVCH-gBHVqe-w=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105592350282369502670/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "افضل مكتب محاماة في المملكة بقيادة المحامي القدير مشاري الحارثي"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "صالح ال حزية",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJwNhZ72lEQmEYjNBHJKfAqRU1CyyJFd83DMedA1mcllqVC6Q=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/118326646938106884971/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من افضل مكاتب المحاماه ، الله يوفقكم"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "فهد اليامي",
+        "numberOfReviews": 5,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKoOg11WGASaSS5hybzj-o1u7aY5E9B-R9HGxt2dpq5GFWozA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/115758192470018695714/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من افضل مكاتب المحاماة سرعة في التجاوب والرد والحمدلله ياخذون حق الشخص ،، الله يعطيهم العافيه"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "yasser abdullah",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI6f3C4u7X5xAGy9C0A97t-Q5fa-jna6XWpvGFKhp4hD1f4bg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112806777702593510852/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ثقه وتعامل واحترافيه في العمل ، انصح بشده 👍🏼 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "nawaf yahya",
+        "numberOfReviews": 11,
+        "numberOfPhotos": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJU3OO-AG_RzwgCAg9miCGFrd0gJys1FwScUI-rQkxYPruOPQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111981893532799095899/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 4,
+        "text": "قبل 4 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ESRAA ALREHAILI",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVvrH9R-F_yvPd4EXKgThDUK9xysiTDAvkKUE62xB0YAk9Dsls=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108519058774150930815/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "حقيقي من أفضل مكاتب المحاماه عندهم دقة وإنجاز وماندمت على تعاملي معاهم، الله يباركلهم ويوفقهم"
+      },
+      "since": {
+        "unit": "month",
+        "value": 4,
+        "text": "قبل 4 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Jomana ‘’",
+        "numberOfReviews": 4,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL-LV0zt_AUWwsFzWczsCW38h9MwmZXWElo0Le0DTx3XZr6Qw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105415097462228370414/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من افضل مكاتب المحاماه الي تعاملت معهم"
+      },
+      "since": {
+        "unit": "month",
+        "value": 4,
+        "text": "قبل 4 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "عبدالرحمن حقوي",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKRrJxoCmdpyh1MrwOkh4_RFKxgO5MMGAuhPGD8sVxI-W1YZA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106123868220150555687/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "عطيتهم مواضيع لي كثير ومعقده الصراحه جابو حقي ماقصرو الله يجزاهم خير"
+      },
+      "since": {
+        "unit": "month",
+        "value": 4,
+        "text": "قبل 4 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "San Hussain",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLew531abtMeqPIOJW3Fpsptiln2z2ni_JhW_evGYmLFUoyGA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116990581047399873110/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من أفضل المحامين اللي مروا علي في شركة أسس المُدافعة ،، بارك الله في جهودكم و أعانكم."
+      },
+      "since": {
+        "unit": "month",
+        "value": 4,
+        "text": "قبل 4 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdulmohsen almulhim",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjX3AXdUqBZ7xaktJJKyR5PLqB9RwU4LtMrhnG41sQF-fZSfkhs=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/102875661628178473947/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "يعملون بأمانه وحرص جزاهم الله الف خير🙏 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 4,
+        "text": "قبل 4 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "Oss AlModafaa أسس المدافعة",
+    "link": "https://www.google.com/maps/place/Oss+AlModafaa+%D8%A3%D8%B3%D8%B3+%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D9%81%D8%B9%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x3e49e3007ba4d76b:0xee6c42d181f5795!8m2!3d26.3678592!4d50.0927246!16s%2Fg%2F11w23m2g30!19sChIJa9ekewDjST4RlVcfGC3E5g4?authuser=0&hl=ar&rclk=1",
+    "starRating": "5.0",
+    "totalReviews": "16",
+    "_location": "شارع عمر بن الخطاب، الشعلة، الدمام 34261، المملكة العربية السعودية",
+    "phone": "+966 58 196 2712"
+  }
+}

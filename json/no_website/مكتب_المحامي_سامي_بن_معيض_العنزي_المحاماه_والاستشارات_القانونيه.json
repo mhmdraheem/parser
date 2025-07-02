@@ -1,0 +1,52 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Shadow Peace",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIisptYHFJikqjia_E_XUSJldfJQ7niUC5mk1XW1kPxKzWvAg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/111492829233110884197/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب محامي شاطر وفيه مصداقية"
+      },
+      "since": {
+        "unit": "week",
+        "value": 2,
+        "text": "قبل أسبوعين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد مهدي الطيب",
+        "isLocalGuide": true,
+        "numberOfReviews": 11,
+        "numberOfPhotos": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIAhP2seiwhEfgFfH24_mDKz6GBrZ3At8xo2VyXwaFKkq5iCg=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/108355034969555339242/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "جميل"
+      },
+      "since": {
+        "unit": "month",
+        "value": 1,
+        "text": "قبل شهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي سامي بن معيض العنزي المحاماه والاستشارات القانونيه",
+    "starRating": "5.0",
+    "totalReviews": "2",
+    "_location": "C4C6+9V3، الشارع الأول، مدينة العمال، الدمام 32253، المملكة العربية السعودية"
+  }
+}

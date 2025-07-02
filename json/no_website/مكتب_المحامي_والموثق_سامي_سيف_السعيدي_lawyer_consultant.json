@@ -1,0 +1,278 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "الثريا للأتصالات مجمع الراشد",
+        "isLocalGuide": true,
+        "numberOfReviews": 10,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVxzjYBSX4fWNDZROFmGprESg7Hltz5k2W0JN19RJwJbOT77fA=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/106100143581849612849/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اشكر اخوي سامي على كل الاستشارات رجال في قمه الرقي والاحترام الله يعطيك العافيه"
+      },
+      "since": {
+        "unit": "week",
+        "value": 1,
+        "text": "قبل أسبوع"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "The Count",
+        "isLocalGuide": true,
+        "numberOfReviews": 22,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUYpNDau-VSYlylSJ69bRRcJQvMrFlfLo0JyAGxu_LHupD2InHe=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/101819968961791314388/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اتصلت عليهم وقدمو لي استشارة قانونيه من خلال الهاتف\nالشكر موصل لأبو سيف"
+      },
+      "since": {
+        "unit": "month",
+        "value": 3,
+        "text": "قبل 3 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Hani Hassn",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLjYVwkbdgDn94K7a67_QeVLVphVuAMzIWvIgwSgYGCvhMQZQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116563048568083178414/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "خير ما استشرت بيض الله وجهك أ. سامي\n\nمحامٍ متمكن ومتميز في تقديم الاستشارات. أتمنى لك التوفيق.”"
+      },
+      "since": {
+        "unit": "month",
+        "value": 4,
+        "text": "قبل 4 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Really1",
+        "numberOfReviews": 7,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJncUFEnsUd8vaWyksyD63x2ZAM0TSDfSSmZK9y0BviPJlayg=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/113857787149272427484/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "شكرا لك يابو سيف ابيض وجهه رجل وكفو يعطيك العافيه"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "abu abdullah",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL0NKOO8_QDfKQf3uUGIUqTBHtyvMfEQ8ZMNc_KnisE9xGMYQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114433953365450078225/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 11,
+        "text": "قبل 11 شهرًا"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "bshar albashar",
+        "numberOfReviews": 6,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLckmpPDNplWEM05rnJm5X95gMUweI4HsfVvo8l0qHsfvujag=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/106818638589210401569/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "اشكر الاستاذ سامي السعيدي على مشورته و رحابة صدرة و سرعة تجاوبه"
+      },
+      "since": {
+        "unit": "month",
+        "value": 11,
+        "text": "قبل 11 شهرًا"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "A Aa",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIm_u-t_XdwWYWGX5r6RAruNeRKJRIuSn7gzFCwN6G0siBzsw=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/114340689329603951314/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "شكرا لتعاون المحامي سامي وسماع الموضوع بكل احترافية وجاوب على تساؤلات كانت مبهمه واوضحها بسهولة"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "سالم سالم",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWiPcXes6McTXSkGu2MHONUkntwZaWjdO4W25SUY38ByqK_giSd=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/109773670579086408590/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الى الامام دائما حفظكم الله ورعاكم"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Ebrahem Ali",
+        "numberOfReviews": 6,
+        "numberOfPhotos": 6,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU3W1_izyBvggDYE4UcitIZvfuoKfPrNqdI9o9HCfnfL1SbbbE=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/110626408565868180685/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الاستاذ سامي قمه في التعاون ، استشرته استشاره بسيطه وكانت مهمه بالنسبه لي ، الله يكتب اجركم ويوفقكم"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ali alzahrani",
+        "numberOfReviews": 6,
+        "numberOfPhotos": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXIc1LvPLJaOC2cOnf9ZxpbnDTNKxURdoTRB0y33pT5PZc8i6w=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/103650523484671739958/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "جعل ربي يوفقك يابو سيف واشكرك على المعلومات القانونية تستاهل والله كل خير 🤲🏻 …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Sana 1",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIuFYnW3PzKVgP2fMbyAQWzfGDmsXVYIs8q_CmfItYzlk6ueA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/101011935998407016198/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Essa Altwirsh",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU24yTXN8qk9ChR2DLIIBRzZVbQYMovNyXBfyHGs5xd_yiHxuNG=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/117258553988161208440/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "لا يسعني سوى التوصية بشدة بمكتب المحامي سامي سيف السعيدي منذ اللحظة التي دخلت فيها، أُعجبت بالاحترافية والجو الحميم. سامي ليس فقط عقل قانوني لامع، بل هو أيضًا شخص لطيف ومتفهم حقًا. …"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "islam ramadan",
+        "isLocalGuide": true,
+        "numberOfReviews": 24,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIXFGWEF1GUeKsqR8ETrmN88cVZlNgCXFlz-Jhu9ARJHnQEZg=w45-h45-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/106834660576925849088/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "Professional Lowaier, Dedicated\nI recommended this firm strongly. Specially Mr. Sami Saif deep thanks for his support during my court journey and finally succeeded and win . May god bless him"
+      },
+      "since": {
+        "unit": "year",
+        "value": 2,
+        "text": "قبل سنتين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي والموثق سامي سيف السعيدي lawyer consultant",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%AB%D9%82+%D8%B3%D8%A7%D9%85%D9%8A+%D8%B3%D9%8A%D9%81+%D8%A7%D9%84%D8%B3%D8%B9%D9%8A%D8%AF%D9%8A+lawyer+consultant%E2%80%AD/data=!4m7!3m6!1s0x3e49fd7ae6b39de7:0x65ba0e2162717ff3!8m2!3d26.4586523!4d50.0836414!16s%2Fg%2F11q9j152ys!19sChIJ552z5nr9ST4R839xYiEOumU?authuser=0&hl=ar&rclk=1",
+    "starRating": "5.0",
+    "totalReviews": "13",
+    "_location": "الخليج، الدمام 32423، المملكة العربية السعودية",
+    "website": "http://www.sami-law.com/",
+    "phone": "+966 55 746 6446"
+  }
+}

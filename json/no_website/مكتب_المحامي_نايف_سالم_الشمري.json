@@ -1,0 +1,92 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "Mohammed Saud",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJj1RnV1lkJ1TitpYAvQSdswZLDJ0S84QW8n8Lpa6bVsu7bBA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/100552485640947955904/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "رجل محترم ونصوح"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "نايف الشمري",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI9usHMr6iHXSyrZBUP0XzCduWwqFKscVyl2piiirbRiUGAvA=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/105516159526019264309/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "ممتاز جداً"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "سلطان الشمري",
+        "isLocalGuide": true,
+        "numberOfReviews": 12,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIf-Ob4dcbtCMMKdr_yoBdWdufFOJzHPRZyE3ZbIi25jAdEdA=w45-h45-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/115513460788299744701/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "فاطمه الشمري",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK3HUWw_WvF20ylfo9fKTIRfRiWmwS9DAoowyMAaRInSmUvBQ=w45-h45-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108049342232625406143/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "تجربة ناجحة"
+      },
+      "since": {
+        "unit": "year",
+        "value": 1,
+        "text": "قبل سنة"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي نايف سالم الشمري",
+    "starRating": "5.0",
+    "totalReviews": "4",
+    "_location": "3652 الامير متعب ابن عبدالعزيز، حي الواحة، EDMA7111، 7111، الدمام 32254، المملكة العربية السعودية",
+    "phone": "+966 55 754 3002"
+  }
+}

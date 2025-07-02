@@ -1,572 +1,0 @@
-{
-  "reviews": [
-    {
-      "reviewer": {
-        "name": "Shabab Albalawi",
-        "numberOfReviews": 4,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJyfsdWiftCr-96PaZQqfJRwDnwqzwUszW3Wq8xzSE1V5MjAg=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/110220669859324593881/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "في البداية احب اشكر  مكتب ريادة الممثله بكل  من المحامي بادي الحربي والمحامية وجدان الوهيبي على حسن التعامل والرد السريع. وبفضلهم  بعد الله كسبت القضيه انصح في التعامل مع المكتب وبقوه."
-      },
-      "since": {
-        "unit": "month",
-        "value": 4,
-        "text": "قبل ٤ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "Mohammed Al Awani",
-        "isLocalGuide": true,
-        "numberOfReviews": 23,
-        "numberOfPhotos": 10,
-        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXDvGbI7w9wpLqK3Z_pakf2rjlkYMfLyDldrKQSFYDCyhfcqCgr=s64-c-rp-mo-ba3-br100",
-        "link": "https://www.google.com/maps/contrib/111109996581940027525/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "I hired Badi to help me with my company outstanding money amounts. I found them through a friend's recommendation, and I'm glad I did. Badi and his team were very professional, compassionate, and responsive throughout the whole process. …المزيد",
-        "response": "عزيزي العميل( Mohammed Al-Awani) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 10,
-        "text": "قبل ١٠ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "Nasser Aldosare",
-        "numberOfReviews": 3,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKX-3kyNasMYkBz_USzfE1pKKsnf_nW8Uu2FAbOdgOgsEtPyA=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/118272198635209946822/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "محامي محترم جدا ومتمكن والتعامل معه يشعرك بالاطمئنان.الله يوفقهشكرا اخوي بادي على المصداقيهانصح التعامل معه وبشده",
-        "response": "عزيزي العميل( Nasser Aldosare) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 6,
-        "text": "قبل ٦ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "alfaddagih",
-        "isLocalGuide": true,
-        "numberOfReviews": 84,
-        "numberOfPhotos": 57,
-        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUjxiQRyDwkq4kA4Yazcl6_oUlaJyxXw-OE8iGhKLSeRO77xMEC=s64-c-rp-mo-ba4-br100",
-        "link": "https://www.google.com/maps/contrib/103317698572477038723/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "لكلاً من اسمه نصيب:-ففي هذا الصرح العظيم، تجد ضالتك من الحياة القانونية، او الاستشارات التي انت ترغب بها. …المزيد",
-        "response": "عزيزي العميل( alfaddagih) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 10,
-        "text": "قبل ١٠ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "Fazul Rabbi",
-        "numberOfReviews": 7,
-        "numberOfPhotos": 7,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIxxItXIH1H18SyjC7FFj4l9sw9nwa3_P9I8Re9-pUYrYGZpkE=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/113643098414530066787/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "Very humble staffs & the Mr badi is very generous person. One time solution for your commercial disputes"
-      },
-      "since": {
-        "unit": "month",
-        "value": 4,
-        "text": "قبل ٤ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "Shaaz Ahmed",
-        "numberOfReviews": 4,
-        "numberOfPhotos": 1,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKG5w_4RejELIbqVeWPT50qTPS3HziDPzq05trycJ7gV8VLNA=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/109861631173088847237/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "I found my Experience With Ryiadat Al A'amal Law Firm to be very professional and caring about my needs and requests the process was made very simple for me with little time and step by step, Specially Miss Munirah and Mr.Badi and all other staffs are very generous and respectful.",
-        "response": "عزيزي العميل( Shaaz Ahmed) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 10,
-        "text": "قبل ١٠ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "بندر قاسم الشمري",
-        "isLocalGuide": true,
-        "numberOfReviews": 187,
-        "numberOfPhotos": 151,
-        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUcAlSFkSjw_J4HzmM3KtXpBthjS34W-8YOzY7al5lCx2XrBgQW=s64-c-rp-mo-ba4-br100",
-        "link": "https://www.google.com/maps/contrib/111320327452237594917/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "شركة إسم على مسمى في ريادة الأعمال والإستشارات القانونيةيثلج صدورنا ان القائم عليها من الشباب الذي وضع بصمة مميزة في هذا المجال وأثبتت وجودها في ظل إدارة وعقلية نفتخر بها .",
-        "response": "عزيزي العميل( بندر قاسم الشمري) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 10,
-        "text": "قبل ١٠ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "AlGhanimSaeed",
-        "numberOfReviews": 3,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ4sLqtFCR1RI9KOnilmnrhryR3YC3qjspT9LOtlyQ87EmCKc4=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/103759065840736503885/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "إن مكتب المحامي مشعل الشمري على مستوى راق في التعامل والمصداقية لما يحمله الاستاذ مشعل من دماثة خلق وخبرة وسرعة في الإنجاز كما ونوعا ، كل الدعاء له بالموفقية والتألق",
-        "response": "عزيزي العميل( AlGhanimSaeed) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 10,
-        "text": "قبل ١٠ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "كالما OPTICAL",
-        "numberOfReviews": 1,
-        "numberOfPhotos": 23,
-        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWHztdoVhSAEgDWMKzZZxEauXjFFnz2_D0g1pLGLNOymyTgsqs=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/108123211733877491164/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "تعامل راقي جداً من جميع العاملين بالمكتب وفي مقدمتهم الاستاذ : بادي الحربي .",
-        "response": "عزيزي العميل(كالما OPTICAL ) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 10,
-        "text": "قبل ١٠ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "Jodi",
-        "numberOfReviews": 29,
-        "numberOfPhotos": 1,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI1917PR6aL-hORtdOuSOO3Xbl_VW1GWEc2REXyFVqNh_OejQ=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/104184797890635932065/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "ماشاء الله الصراحه تعامل راقي استاذ مشعل واستاذ بادي والانسة ساره ماقصرو 👍🏻✨ ملييييون نجمة",
-        "response": "عزيزي العميل( Jodi) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 10,
-        "text": "قبل ١٠ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "Alm A",
-        "isLocalGuide": true,
-        "numberOfReviews": 70,
-        "numberOfPhotos": 8,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIHWHT4d4lNgnBraqk-mITiSoW-quDf2yjgCokQM8EsVvo2vA=s64-c-rp-mo-ba4-br100",
-        "link": "https://www.google.com/maps/contrib/107338166700107132153/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "مكتب مميز وخصوصا المدير  المحاميبادي الحربي",
-        "response": "عزيزي العميل(Alm A ) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "year",
-        "value": 1,
-        "text": "قبل سنة"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "خالد الحربي",
-        "numberOfReviews": 5,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIUnIxDgiJjUaJion2BLROFSKvwzmyqQfAHC20DzT4oC_-zlw=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/106941937446744884157/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "تعامل راقي جداً وسرعة بالانجاز تييم جبار 👍",
-        "response": "عزيزي العميل( خالد الحربي) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 10,
-        "text": "قبل ١٠ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "fouad jubran",
-        "numberOfReviews": 2,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLzfbwqxl71UH9BhI8BmcWdEA3eFbnPhnLibkCi9xV3vG_rPg=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/108555686367888216676/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "تعامل راقي وانجاز معاملات بحترافية",
-        "response": "عزيزي العميل(fouad jubran ) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 10,
-        "text": "قبل ١٠ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "محمد الهرش - ابو حسام",
-        "isLocalGuide": true,
-        "numberOfReviews": 53,
-        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWietGNISaxue6UGVUouJDkrdixHlzYM21rR0utga1yzBnmKWmu=s64-c-rp-mo-ba3-br100",
-        "link": "https://www.google.com/maps/contrib/103479275545361794006/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "text": "قمة في التعاملواحترام ومصداقية العمل",
-        "response": "عزيزي العميل( محمد الهرش - ابو حسام) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 10,
-        "text": "قبل ١٠ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "احمد كرار",
-        "numberOfReviews": 3,
-        "numberOfPhotos": 1,
-        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVF2XJb5Rxphs_CeKsgj4Q91bikhidrHp5Ya414GzHOlcFqvlAc=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/101672127851024511298/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0"
-      },
-      "since": {
-        "unit": "day",
-        "value": 1,
-        "text": "قبل يوم واحد"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "مستشار",
-        "isLocalGuide": true,
-        "numberOfReviews": 75,
-        "numberOfPhotos": 111,
-        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXdfDZDFGyhRNEt7Wi2coH7_dk-u1tuuwHBBEWISYj_TIJN37Ydaw=s64-c-rp-mo-ba4-br100",
-        "link": "https://www.google.com/maps/contrib/118421257446542658058/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0"
-      },
-      "since": {
-        "unit": "month",
-        "value": 1,
-        "text": "قبل شهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "مسافر",
-        "isLocalGuide": true,
-        "numberOfReviews": 47,
-        "numberOfPhotos": 92,
-        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUK9FBENME1x9EUm95BqJJrHfoyuWGKL-fc5vG1bjTh0oh3fXhp=s64-c-rp-mo-ba4-br100",
-        "link": "https://www.google.com/maps/contrib/116142840547164229554/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "3.0"
-      },
-      "since": {
-        "unit": "month",
-        "value": 1,
-        "text": "قبل شهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "Suhail Braikeet",
-        "numberOfReviews": 5,
-        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUuvf1HKg-pz4xuTJrsRO083DW9YPqT3Ytgi8v4qV7hmz2AIUNE=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/111641414755386930639/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0"
-      },
-      "since": {
-        "unit": "month",
-        "value": 2,
-        "text": "قبل شهرين"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "Arabian_empire TG",
-        "numberOfReviews": 1,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLC8-GN1oAm2ytfO48_716y8NZq1RMWd6brW9ZKIh-A1yWtwQ=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/100083199963922260165/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0"
-      },
-      "since": {
-        "unit": "month",
-        "value": 4,
-        "text": "قبل ٤ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "Abdullah Alomari",
-        "numberOfReviews": 2,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL9JG_qp205Kcz8EX-eK6fHXszaB4JHDxnJUCnIMsoXpLX7Fg=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/118042153473097112941/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "response": "عزيزي العميل(Abdullah Alomari) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 5,
-        "text": "قبل ٥ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "مشعل الشمري",
-        "numberOfReviews": 13,
-        "numberOfPhotos": 1,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKsSvGqkoKm5UdF6dcwdNp5JU3wlcu1o8X8MVYBBuQ7kIZmJA=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/109067664803809228872/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0"
-      },
-      "since": {
-        "unit": "month",
-        "value": 8,
-        "text": "قبل ٨ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "oday saad",
-        "isLocalGuide": true,
-        "numberOfReviews": 48,
-        "numberOfPhotos": 19,
-        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjW-xHyhqsg0CVtrFn9R31g52VHNUCs-qk_nXueYqeddde-LAyn9=s64-c-rp-mo-ba3-br100",
-        "link": "https://www.google.com/maps/contrib/104984796603847413564/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "response": "عزيزي العميل( oday saad) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 8,
-        "text": "قبل ٨ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "huda alzahrani",
-        "numberOfPhotos": 1,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ-HhaPNWK3p30JOrFSiIk3acnVoAQz61r9-1Ebf0dHIWV1kw=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/108558033647902360934/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0",
-        "response": "عزيزي العميل( huda alzahrani) نحن سعداء بأن نالت جودة خدماتنا على استحسانكم وفرحين بأن لامسنا سقف توقعاتكم ومسرورين لانضمامكم إلى شركاء النجاح ضمن عملائنا المتميزين"
-      },
-      "since": {
-        "unit": "month",
-        "value": 10,
-        "text": "قبل ١٠ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "ullal ismail",
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIEIo4DVwX4r7snituxpBsWtukBVwkVlCa6B3D578nC-HZcvg=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/108134996206152287272/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0"
-      },
-      "since": {
-        "unit": "month",
-        "value": 10,
-        "text": "قبل ١٠ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "شهاب الدين الجمري",
-        "numberOfReviews": 1,
-        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUEoeNO4-NU9BQidRLqc58EMrAfpp01Hz7-HqHUxPja8f6BEaJZ=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/115676507230688596368/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0"
-      },
-      "since": {
-        "unit": "month",
-        "value": 10,
-        "text": "قبل ١٠ أشهر"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "masood venoor",
-        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUt7HAcYypBN-4wotDxLTvaoWsis0m6ZMe31Wo-XfswpTHMH_E=s64-c-rp-mo-br100",
-        "link": "https://www.google.com/maps/contrib/103365980924517525786/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0"
-      },
-      "since": {
-        "unit": "year",
-        "value": 1,
-        "text": "قبل سنة"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    },
-    {
-      "reviewer": {
-        "name": "محمد شاه",
-        "isLocalGuide": true,
-        "numberOfReviews": 1,
-        "numberOfPhotos": 4,
-        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJo8Js97diit6dqfVwg9N-BF8kddK9fQ5xBCs04lcacfcw5jg=s64-c-rp-mo-ba2-br100",
-        "link": "https://www.google.com/maps/contrib/108658676165559054044/reviews?hl=ar"
-      },
-      "review": {
-        "stars": "5.0"
-      },
-      "since": {
-        "unit": "year",
-        "value": 1,
-        "text": "قبل سنة"
-      },
-      "ignore": false,
-      "fakeReview": false,
-      "fakeReviewer": false
-    }
-  ],
-  "business": {
-    "_name": "شركة ريادة الأعمال للمحاماة و الاستشارات القانونية - Ryiada Corporate Law Firm",
-    "starRating": "٤٫٩",
-    "totalReviews": "(٢٧)"
-  }
-}

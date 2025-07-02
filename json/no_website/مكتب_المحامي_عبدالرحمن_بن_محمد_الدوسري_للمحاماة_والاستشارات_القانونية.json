@@ -1,0 +1,326 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "name": "أحمد الغامدي",
+        "numberOfReviews": 2,
+        "numberOfPhotos": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLLUrQeXBuIn9JJ58QlE-lvN5RQ5mFv7KpXwTqRkQ_Gkf3vog=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112226734533731931829/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الرجل هذا ساعدني و ما قصر بيض الله وجهه حل مشكلتي و الاهم كرم أخلاقه و تعامله انصح بالتعامل معه."
+      },
+      "since": {
+        "unit": "month",
+        "value": 1,
+        "text": "قبل شهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Razan Albari",
+        "isLocalGuide": true,
+        "numberOfReviews": 40,
+        "numberOfPhotos": 41,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJi9BCAiOb--BOs6iZoRPXoGDVJuT2QxxLKHWxGOdnjQgrqyyE=w54-h54-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/100294589091456879872/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "على كثر ماجربت محاميين الا ان المحامي عبدالرحمن الدوسري من خيرة المحاميين، يتميز بسرعة البديهه وفهمه العميق للقانون، متحكّم ووقف معاي خطوة بخطوة، لو فيه عشرة زيه كان ماضاع حق لأحد، وبإذن الله هو محاميّ دائماً من بعد الله"
+      },
+      "since": {
+        "unit": "month",
+        "value": 2,
+        "text": "قبل شهرين"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Waleed Alamri",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJiocvaR8zXJ55rfzLMKaf5vhFY2_MB_gGNbK1fJeJojtE_cw=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/107709813786462030457/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 3,
+        "text": "قبل 3 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "محمد الحسن",
+        "isLocalGuide": true,
+        "numberOfReviews": 69,
+        "numberOfPhotos": 140,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXIkhVIL19yJ6YJz71Hkk0S1blEtMfZP5jW3PnUhYNvBlDl-F8N=w54-h54-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/105968147267239423424/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مشكور المحامي عبدالرحمن ويعطيك العافية"
+      },
+      "since": {
+        "unit": "month",
+        "value": 4,
+        "text": "قبل 4 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "ABAAS Alawidy",
+        "numberOfReviews": 13,
+        "numberOfPhotos": 7,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKQpD39GmQUWdTX_CKdPVOuySAIt0zets_4llrYePXE9N2UFQ=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/116850470137476095470/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "الله يجزاكم خير ويكتب اجركم ويكون بعونكم على جهودكم المبذولة افضل مكتب محاماه بالمنطقة الشرقية بالدمام روحلهم وانت مطمن شهادة حق من افضل مكاتب المحاما"
+      },
+      "since": {
+        "unit": "month",
+        "value": 6,
+        "text": "قبل 6 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mohammed Saeed",
+        "isLocalGuide": true,
+        "numberOfReviews": 23,
+        "numberOfPhotos": 26,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWUelv5Mbejhd5Utr3DXyCoYkAHjBzSTgagfvgKPRPPfHWtAFI=w54-h54-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/118111502250974398859/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من أفضل المحامين ومتعاون وكان متابع معي بالقضيه الين خلصت الله يوفقه ويجزاه عني خير الجزاء 🙏🏻 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Talal Dammam",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIZSnEYH-mQfCIbshJGBIr9-bbQ4w6oyJgaQ5Gw-w2K-V3R=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/112215178363815118005/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "محامي في قمة التواضع الله يجزاه الخير وتشعر بالراحه في التعامل معه"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Omar Nasser",
+        "numberOfReviews": 4,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIiTcnC_Vt1UD-Shm2SjSyIuKcHvWEgfWII3JGBGZW0evsVsg=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108594048043462510845/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من افضل مكاتب المحاماه ويساعد ومايقصر مع الجميع وباذن الله مافي احد يطلع من عنده الا وهو راضي"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "احمد السند",
+        "numberOfReviews": 2,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLSE7vbtenMEXb787YIgUVS5oSWso6AJZ9QDYLCUMe3gzkltA=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/104878252651773112125/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "rawad dh",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ5fo8hUgxlwF_SFJtdEIM2N1SI5NN8GmcEIY9Iq33MshCiiQ=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/118063781733853377147/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "يالتوفيق انشاء الله، يا اعز محامي عندنا واعز الناس 🫡 …",
+        "response": "وفقنا الله وإياك عز الله مقدارك وشرفتنا 🙏 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 8,
+        "text": "قبل 8 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Krsa KSA",
+        "isLocalGuide": true,
+        "numberOfReviews": 41,
+        "numberOfPhotos": 6,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXz8mBaPXCy9PVXY3vY78Dx28WJ7B84_F2hxUZhrju0GxukbDoNzQ=w54-h54-p-rp-mo-ba4-br100",
+        "link": "https://www.google.com/maps/contrib/111753240827805004801/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "مكتب نشط، إلمام كامل، حلول قانونية",
+        "response": "🙏 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Mukhtar Aljezani",
+        "numberOfReviews": 1,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUBv1nGfDUIp2h36XFv4ZA_kGr5GrlKcdOPIq6h_ldIh9n1AGk=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108299299593226646271/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "بصراحه محامي ذوق ومحترم ومتعاون ومهتم سلس التعامل\nجربت قضية عنده والحمدلله توفقنا في نجاحه وحرفياً انه ماقصر ويانا وكان معانا خطوة بخطوة ومتابعة مستمرة شكراً لك المحامي عبدالرحمن الدوسري على وقفتك معانا الله يوفقك في حياتك المهنية والشخصية",
+        "response": "حياك الله أخ مختار وشرفتنا"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "Abdulrahman",
+        "isLocalGuide": true,
+        "numberOfReviews": 26,
+        "numberOfPhotos": 9,
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXUtc5k73fRlAmIjWcfoODmrPY6nTqG8bkI8x4IDxmpBz_hh5PZ=w54-h54-p-rp-mo-ba3-br100",
+        "link": "https://www.google.com/maps/contrib/100168408008423649998/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "مشعل السريع",
+        "numberOfReviews": 3,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI1Bm-vFPvu_54grnuwv6SVAH5FEiNcxcS4k7bExLWqviN81Q=w54-h54-p-rp-mo-br100",
+        "link": "https://www.google.com/maps/contrib/108192439438853122649/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5",
+        "text": "من افضل المحامين اللي تعاملت معاهم مخلص في تعاملاته وانصح بالتعامل معه بكل ثقه وامانه 🙏🏻 …",
+        "response": "🙏 …"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    },
+    {
+      "reviewer": {
+        "name": "A22md",
+        "isLocalGuide": true,
+        "numberOfReviews": 23,
+        "numberOfPhotos": 6,
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJT2LjUkmspPAZduOaIeGAvdBEXWZDU9gExeoWsLMOWv2oYsw=w54-h54-p-rp-mo-ba2-br100",
+        "link": "https://www.google.com/maps/contrib/111298342475167608675/reviews?hl=ar"
+      },
+      "review": {
+        "stars": "5"
+      },
+      "since": {
+        "unit": "month",
+        "value": 9,
+        "text": "قبل 9 أشهر"
+      },
+      "ignore": false,
+      "fakeReview": false,
+      "fakeReviewer": false
+    }
+  ],
+  "business": {
+    "_name": "مكتب المحامي عبدالرحمن بن محمد الدوسري للمحاماة والاستشارات القانونية",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%D8%A8%D9%86+%D9%85%D8%AD%D9%85%D8%AF+%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A+%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D8%A7%D8%A9+%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x3e49fd000f518d39:0x20e96171c885b1c9!8m2!3d26.4214859!4d50.0893594!16s%2Fg%2F11y7hdh6qh!19sChIJOY1RDwD9ST4RybGFyHFh6SA?authuser=0&hl=ar&rclk=1",
+    "starRating": "5.0",
+    "totalReviews": "15",
+    "_location": "أشارة المعجل تقاطع، طريق الملك فهد، البادية، الدمام 32257، المملكة العربية السعودية",
+    "phone": "+966 59 233 1117"
+  }
+}
