@@ -18,35 +18,39 @@ app.get("/get-json-files", (req, res) => {
 
     // Filter only JSON files
     let jsonFiles = files.filter((file) => file.endsWith(".json"));
+    const totalFiles = jsonFiles.length;
 
-    jsonFiles.sort((a, b) => {
-      // Extract the numeric part of the file name (assuming the format is "X_file.json")
-      const numA = parseInt(a.split("_")[0], 10);
-      const numB = parseInt(b.split("_")[0], 10);
+    const company = req.query["company"];
+    const reviewers = req.query["totalReviews"];
+    const stars = req.query["stars"];
+    const website = req.query["website"];
+    const booking = req.query["booking"];
 
-      // Compare the numeric parts
-      return numA - numB;
-    });
+    jsonFiles = jsonFiles
+      .map((file) => {
+        return {
+          fileName: file,
+          fileData: readFile(file),
+        };
+      })
+      .filter((file) => {
+        return !company || (company && file.fileData.business._name.toLowerCase().includes(company.toLowerCase()));
+      })
+      .filter((file) => {
+        return !reviewers || (reviewers && +file.fileData.business.totalReviews >= +reviewers);
+      })
+      .filter((file) => {
+        return !stars || (stars && +convertToEnglish(file.fileData.business.starRating) >= +stars);
+      })
+      .filter((file) => {
+        return !website || (website && file.fileData.business.website);
+      })
+      .filter((file) => {
+        return !booking || (booking && file.fileData.business.booking);
+      });
 
-    // filter by min reviews
-    const minReviews = req.query["minReviews"];
-    jsonFiles = jsonFiles.filter((file) => {
-      const data = readFile(file);
-      return data.reviews.length >= minReviews;
-    });
-
-    // filter by min rating
-    const minRating = req.query["minRating"];
-    jsonFiles = jsonFiles.filter((file) => {
-      const data = readFile(file);
-      return convertToEnglish(data.business.starRating) >= minRating;
-    });
-
-    const response = jsonFiles.map((file) => {
-      const data = readFile(file);
-      return { file, name: file.concat(`[${data.business.starRating} ${data.business.totalReviews}]`) };
-    });
-    res.json(response);
+    const ff = jsonFiles.map((file) => file.fileData);
+    res.json({ total: totalFiles, ff });
   });
 });
 

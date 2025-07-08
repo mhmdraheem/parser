@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://kit.fontawesome.com/9b220e24a6.js" crossorigin="anonymous"></script>
     <title>Google Reviews Extractor</title>
     <style>
       .business-link {
@@ -14,47 +15,262 @@
       .business-link:hover {
         background-color: #eee;
       }
+
+      table {
+        margin: 0 auto;
+        border-collapse: collapse;
+        direction: rtl;
+      }
+
+      th,
+      td {
+        padding: 10px;
+        border: 1px solid #ddd;
+        text-align: right;
+      }
+
+      th {
+        background-color: #4caf50;
+        color: white;
+      }
+
+      table tr {
+        background-color: white;
+      }
+
+      .fa-copy {
+        font-size: 16px;
+        margin-right: 1rem;
+        color: grey;
+        cursor: pointer;
+      }
+
+      .fa-copy:hover {
+        color: darkslategrey;
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        align-items: center;
+        width: fit-content;
+        margin: 1rem auto;
+        border-radius: 10px;
+        padding: 1rem;
+        background-color: antiquewhite;
+      }
+
+      input[type="text"] {
+        padding: 10px 16px;
+        border: none;
+        outline: none;
+      }
+
+      input[type="submit"] {
+        padding: 10px 24px;
+        cursor: pointer;
+      }
+
+      .results {
+        width: 100%;
+        text-align: center;
+      }
     </style>
   </head>
   <body>
-    <div class="container"></div>
+    <form id="filter" action="/">
+      <input type="text" name="company" id="company" placeholder="Company" value="" />
+      <input type="text" name="stars" id="stars" placeholder="Stars" />
+      <input type="text" name="totalReviews" id="totalReviews" placeholder="Reviewers" />
+
+      <span class="website">
+        <input type="checkbox" name="website" id="website" />
+        <label for="website">Website</label>
+      </span>
+
+      <span class="booking">
+        <input type="checkbox" name="booking" id="booking" />
+        <label for="booking">Booking</label>
+      </span>
+
+      <input type="submit" value="Filter" />
+      <div class="results">
+        <span>Total: <span class="total"></span></span>
+        <br />
+        <span>Found: <span class="found"></span></span>
+      </div>
+    </form>
+
+    <table id="businessTable"></table>
 
     <script>
-      window.onload = async function () {
-        const fileNames = await fetchJsonFileNames();
-        console.log(fileNames);
+      const container = document.querySelector(".container");
+      const total = document.querySelector(".total");
+      const found = document.querySelector(".found");
+      window.onload = render();
 
-        if (fileNames.length > 0) {
-          createLinks(fileNames);
+      async function render(params) {
+        total.innerHTML = "";
+        found.innerHTML = "";
+
+        const response = await fetchJsonFileNames(params);
+        total.innerText = response.total;
+
+        if (response.ff.length > 0) {
+          found.innerText = response.ff.length;
+          createLinks(response.ff);
         } else {
-          console.error("No JSON files found.");
+          found.innerText = "0";
+          console.info("No JSON files found.");
         }
-      };
+      }
 
-      async function fetchJsonFileNames() {
+      async function fetchJsonFileNames(params) {
         try {
-          const response = await fetch("/get-json-files?minReviews=0&minRating=0");
+          const url = new URL("http://localhost:3000/get-json-files");
+          if (params) {
+            url.search = new URLSearchParams(params).toString();
+          }
+
+          const response = await fetch(url);
           if (!response.ok) {
             throw new Error("Failed to fetch JSON file names", response);
           }
-          const fileNames = await response.json();
-          return fileNames;
+
+          return await response.json();
         } catch (error) {
           console.error("Error fetching JSON file names:", error);
           return [];
         }
       }
 
-      function createLinks(fileNames) {
-        const container = document.querySelector(".container");
-        fileNames.forEach((file) => {
-          const url = `business.html?file=${encodeURIComponent(file.file)}`;
-          let link = document.createElement("a");
-          link.classList.add("business-link");
-          link.href = url;
-          link.target = "_blank";
-          link.textContent = file.name.replace(".json", "");
-          container.appendChild(link);
+      function createLinks(data) {
+        const table = document.getElementById("businessTable");
+
+        // Clear any existing content
+        table.innerHTML = "";
+
+        // Create table headers
+        const headers = ["Name", "Stars", "Reviews", "Website", "Booking"];
+        const thead = document.createElement("thead");
+        const headerRow = document.createElement("tr");
+        headers.forEach((headerText) => {
+          const th = document.createElement("th");
+          th.textContent = headerText;
+          headerRow.appendChild(th);
+        });
+        thead.appendChild(headerRow);
+        table.appendChild(thead);
+
+        // Create table body
+        const tbody = document.createElement("tbody");
+
+        data.forEach((item) => {
+          const row = document.createElement("tr");
+
+          // Name
+          const nameCell = document.createElement("td");
+          const mapsLink = document.createElement("a");
+          mapsLink.href = item.business.link;
+          mapsLink.textContent = item.business._name || "";
+          mapsLink.target = "_blank";
+          mapsLink.rel = "noopener noreferrer";
+
+          const copyName = document.createElement("i");
+          copyName.classList.add("fa-solid", "fa-copy");
+          copyName.onclick = () => copyToClipboard(item.business._name);
+          copyName.title = "Name";
+
+          const copyLink = document.createElement("i");
+          copyLink.classList.add("fa-solid", "fa-copy");
+          copyLink.onclick = () => copyToClipboard(item.business.link);
+          copyLink.title = "Maps link";
+
+          nameCell.appendChild(mapsLink);
+          nameCell.appendChild(copyName);
+          nameCell.appendChild(copyLink);
+          row.appendChild(nameCell);
+
+          // Stars
+          const starCell = document.createElement("td");
+          starCell.textContent = item.business.starRating || "";
+          row.appendChild(starCell);
+
+          // Reviews
+          const reviewsCell = document.createElement("td");
+          const reviewsLink = document.createElement("a");
+          reviewsLink.href = `business.html?file=${encodeURIComponent(
+            item.business._name.replaceAll(" ", "_") + ".json"
+          )}`;
+          reviewsLink.textContent = item.business.totalReviews || "";
+          reviewsLink.target = "_blank";
+          reviewsLink.rel = "noopener noreferrer";
+
+          reviewsCell.appendChild(reviewsLink);
+          row.appendChild(reviewsCell);
+
+          // Website
+          const websiteCell = document.createElement("td");
+          if (item.business.website) {
+            const link = document.createElement("a");
+            link.href = item.business.website;
+            link.textContent = "link";
+            link.target = "_blank";
+            link.rel = "noopener noreferrer";
+
+            const copyWebsiteLink = document.createElement("i");
+            copyWebsiteLink.classList.add("fa-solid", "fa-copy");
+            copyWebsiteLink.onclick = () => copyToClipboard(item.business.website);
+
+            websiteCell.appendChild(link);
+            websiteCell.appendChild(copyWebsiteLink);
+          }
+          row.appendChild(websiteCell);
+
+          // Booking
+          const bookingCell = document.createElement("td");
+          if (item.business.booking) {
+            const link = document.createElement("a");
+            link.href = item.business.booking;
+            link.textContent = "link";
+            link.target = "_blank";
+            link.rel = "noopener noreferrer";
+
+            const copyBookingLink = document.createElement("i");
+            copyBookingLink.classList.add("fa-solid", "fa-copy");
+            copyBookingLink.onclick = () => copyToClipboard(item.business.booking);
+
+            bookingCell.appendChild(link);
+            bookingCell.appendChild(copyBookingLink);
+          }
+          row.appendChild(bookingCell);
+
+          tbody.appendChild(row);
+        });
+
+        table.appendChild(tbody);
+      }
+
+      const form = document.getElementById("filter");
+      form.onsubmit = (e) => {
+        e.preventDefault();
+        const formData = new FormData(form);
+
+        const params = {};
+        formData.entries().forEach((item) => {
+          if (item[1]) {
+            params[item[0]] = item[1];
+          }
+        });
+        render(params);
+      };
+
+      function copyToClipboard(text) {
+        console.log("COPY");
+
+        navigator.clipboard.writeText(text).catch((err) => {
+          console.error("Failed to copy: ", err);
         });
       }
     </script>
